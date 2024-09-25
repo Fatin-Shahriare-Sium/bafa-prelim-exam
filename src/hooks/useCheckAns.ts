@@ -5,13 +5,9 @@ type questionObjType = {
     option: {id: number; label: string}[];
     answer: {optionId: number};
 };
-let UseCheckAns = (
-    questionPaper: questionObjType[],
-    answerPaper: AnswerSheetObjType[],
-) => {
+let UseCheckAns = (questionPaper: questionObjType[], answerPaper: AnswerSheetObjType[]) => {
     let correctAns = 0;
     let incorrectAns = 0;
-    let notTouch = 0;
     console.log('questionPaper', questionPaper);
 
     questionPaper.map(sig => {
@@ -22,12 +18,10 @@ let UseCheckAns = (
                 } else {
                     incorrectAns = incorrectAns + 1;
                 }
-            } else {
-                notTouch = notTouch + 1;
             }
         });
     });
-    return {correctAns, incorrectAns, notTouch};
+    return {correctAns, incorrectAns};
 };
 
 export default UseCheckAns;

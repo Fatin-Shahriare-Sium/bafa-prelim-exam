@@ -1,0 +1,17 @@
+{
+    "questionType": "IQ",
+    "allQuestions": [
+        {
+            "questionName": "IQ Set 1",
+            "questionID": "IQ Set 1"
+        },
+        {
+            "questionName": "IQ Set 2",
+            "questionID": "IQ Set 2"
+        },
+        {
+            "questionName": "IQ Set 3",
+            "questionID": "IQ Set 3"
+        }
+    ]
+}

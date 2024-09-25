@@ -1,0 +1,39 @@
+{
+    "questionName": "IQ Set 2",
+    "questionID": "IQ Set 2",
+    "allQuestions": [
+        {
+            "no": 1,
+            "question": "how are you gf?",
+            "option": [
+                {"id": 1, "label": "don't know"},
+                {"id": 2, "label": "bad"},
+                {"id": 3, "label": "sad"},
+                {"id": 4, "label": "great"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 2,
+            "question": "what is your phone name?",
+            "option": [
+                {"id": 1, "label": "Xaoimo mi a1"},
+                {"id": 2, "label": "s23"},
+                {"id": 3, "label": "iphone"},
+                {"id": 4, "label": "java"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 3,
+            "question": "What is your school name??",
+            "option": [
+                {"id": 1, "label": "Sorojnagar"},
+                {"id": 2, "label": "model"},
+                {"id": 3, "label": "BKG"},
+                {"id": 4, "label": "Pabna Zilla school"}
+            ],
+            "answer": {"optionId": 3}
+        }
+    ]
+}
