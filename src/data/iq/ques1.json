@@ -1,22 +1,39 @@
 {
-    "allQuestions":[
+    "questionName": "IQ Set 1",
+    "questionID": "IQ Set 1",
+    "allQuestions": [
         {
-        "no":1,
-        "question":"how are you?",
-        "option":[{"id":1,"label":"good"},{"id":2,"label":"bad"},{"id":3,"label":"sad"},{"id":4,"label":"great"}],
-        "answer":{"optionId":1}
+            "no": 1,
+            "question": "how are you?",
+            "option": [
+                {"id": 1, "label": "good"},
+                {"id": 2, "label": "bad"},
+                {"id": 3, "label": "sad"},
+                {"id": 4, "label": "great"}
+            ],
+            "answer": {"optionId": 1}
         },
         {
-            "no":2,
-            "question":"how old are you?",
-            "option":[{"id":1,"label":"20"},{"id":2,"label":"40"},{"id":3,"label":"10"},{"id":4,"label":"80"}],
-            "answer":{"optionId":1}
+            "no": 2,
+            "question": "how old are you?",
+            "option": [
+                {"id": 1, "label": "20"},
+                {"id": 2, "label": "40"},
+                {"id": 3, "label": "10"},
+                {"id": 4, "label": "80"}
+            ],
+            "answer": {"optionId": 1}
         },
         {
-            "no":3,
-            "question":"What is your college name??",
-            "option":[{"id":1,"label":"Adamji"},{"id":2,"label":"DRMC"},{"id":3,"label":"NDC"},{"id":4,"label":"Dhaka University"}],
-            "answer":{"optionId":3}
+            "no": 3,
+            "question": "What is your college name??",
+            "option": [
+                {"id": 1, "label": "Adamji"},
+                {"id": 2, "label": "DRMC"},
+                {"id": 3, "label": "NDC"},
+                {"id": 4, "label": "Dhaka University"}
+            ],
+            "answer": {"optionId": 3}
         }
     ]
 }
