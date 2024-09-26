@@ -31,14 +31,8 @@ const App = () => {
                         </Drawer.Screen>
                         <Drawer.Screen name="Detail" component={Details} />
                         <Drawer.Screen name="IqSec" component={IqSection} />
-                        <Drawer.Screen
-                            name="Eng Section"
-                            component={EngSection}
-                        />
-                        <Drawer.Screen
-                            name="PhyMath Section"
-                            component={PmSection}
-                        />
+                        <Drawer.Screen name="Eng Section" component={EngSection} />
+                        <Drawer.Screen name="PhyMath Section" component={PmSection} />
                     </Drawer.Navigator>
                 </NavigationContainer>
             </View>

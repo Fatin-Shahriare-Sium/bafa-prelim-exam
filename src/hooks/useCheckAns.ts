@@ -6,10 +6,9 @@ type questionObjType = {
     answer: {optionId: number};
 };
 let UseCheckAns = (questionPaper: questionObjType[], answerPaper: AnswerSheetObjType[]) => {
+    console.log('answer usheet in use check', answerPaper);
     let correctAns = 0;
     let incorrectAns = 0;
-    console.log('questionPaper', questionPaper);
-
     questionPaper.map(sig => {
         answerPaper.map(sigAns => {
             if (sig.no === sigAns.questionNo) {
@@ -21,6 +20,8 @@ let UseCheckAns = (questionPaper: questionObjType[], answerPaper: AnswerSheetObj
             }
         });
     });
+    console.log('correctAns, incorrectAns} in useCheckhook', correctAns, incorrectAns);
+
     return {correctAns, incorrectAns};
 };
 

@@ -3,13 +3,12 @@ import {StyleSheet, Text, View, TouchableOpacity, Dimensions} from 'react-native
 import React from 'react';
 import {examType} from './mcqExaminer';
 
-const SingleQuestionShower: React.FC<{questionid: string; questionType: examType; questionTitle: string; handleTakeExam: (id: number) => any}> = ({questionid, questionType, questionTitle, handleTakeExam}) => {
+const SingleQuestionShower: React.FC<{questionid: string; questionType: examType; questionTitle: string; handleTakeExam: (id: string) => any}> = ({questionid, questionType, questionTitle, handleTakeExam}) => {
     return (
         <View>
             <View style={styles.singleQuestionShowerWrapper}>
-                <Text style={{color: 'white', fontWeight: 'bold', fontSize: 20}}>{questionid}</Text>
                 <View>
-                    <Text style={{color: 'white', fontSize: 20}}>{questionTitle}</Text>
+                    <Text style={{color: 'white', fontWeight: 'bold', fontSize: 20}}>{questionTitle}</Text>
                 </View>
                 <View style={styles.singleQuestionShowerBtnWrapper}>
                     <TouchableOpacity
@@ -19,13 +18,6 @@ const SingleQuestionShower: React.FC<{questionid: string; questionType: examType
                             backgroundColor: '#93c6d0',
                         }}>
                         <Text style={{color: 'black', fontSize: 15}}>Take Exam</Text>
-                    </TouchableOpacity>
-                    <TouchableOpacity
-                        style={{
-                            ...styles.singleQuestionShowerBtn,
-                            backgroundColor: 'red',
-                        }}>
-                        <Text style={{color: 'white', fontSize: 15}}>View Question</Text>
                     </TouchableOpacity>
                 </View>
             </View>

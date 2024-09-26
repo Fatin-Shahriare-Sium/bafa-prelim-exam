@@ -11,16 +11,11 @@ interface SingleMcqShowerProps {
     };
     handleAnswer: (questionNo: number, answer: {optionId: number}) => any;
 }
-const SingleMcqShower: React.FC<SingleMcqShowerProps> = ({
-    questionObj,
-    handleAnswer,
-}) => {
+const SingleMcqShower: React.FC<SingleMcqShowerProps> = ({questionObj, handleAnswer}) => {
     let [selectedId, setSelectedId] = useState('');
     return (
         <View style={{margin: '2%'}}>
-            <Text style={{fontSize: 25, fontWeight: '700', color: '#e1dede'}}>
-                {`${questionObj.no}.${questionObj.question}`}
-            </Text>
+            <Text style={{fontSize: 25, fontWeight: '700', color: '#e1dede'}}>{`${questionObj.no}.${questionObj.question}`}</Text>
             <RadioGroup
                 radioButtons={[
                     {

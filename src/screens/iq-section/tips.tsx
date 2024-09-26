@@ -1,14 +1,14 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 
-const Tips = () => {
+const IQTips = () => {
     return (
         <View>
-            <Text>Tips</Text>
+            <Text>IQTips</Text>
         </View>
     );
 };
 
-export default Tips;
+export default IQTips;
 
 const styles = StyleSheet.create({});
