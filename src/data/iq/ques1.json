@@ -4,34 +4,694 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "how are you?",
+            "question": "LTD = PQN, NTY =?",
             "option": [
-                {"id": 1, "label": "good"},
-                {"id": 2, "label": "bad"},
-                {"id": 3, "label": "sad"},
-                {"id": 4, "label": "great"}
+                {"id": 1, "label": "OQO"},
+                {"id": 2, "label": "OQT"},
+                {"id": 3, "label": "RQI"},
+                {"id": 4, "label": "IQR"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 2,
-            "question": "how old are you?",
+            "question": "What is the opposite word of “COMEDY” ?",
             "option": [
-                {"id": 1, "label": "20"},
-                {"id": 2, "label": "40"},
-                {"id": 3, "label": "10"},
-                {"id": 4, "label": "80"}
+                {"id": 1, "label": "TRAGEDY"},
+                {"id": 2, "label": "HAPPINESS"},
+                {"id": 3, "label": "SORROWNESS"},
+                {"id": 4, "label": "PAINFULL"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 3,
-            "question": "What is your college name??",
+            "question": "PVK = LTD, RNS =?",
             "option": [
-                {"id": 1, "label": "Adamji"},
-                {"id": 2, "label": "DRMC"},
-                {"id": 3, "label": "NDC"},
-                {"id": 4, "label": "Dhaka University"}
+                {"id": 1, "label": "NLL"},
+                {"id": 2, "label": "NKL"},
+                {"id": 3, "label": "LLN"},
+                {"id": 4, "label": "NEL"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 4,
+            "question": "3, 5, 8,12,17,23 =?",
+            "option": [
+                {"id": 1, "label": "38,30"},
+                {"id": 2, "label": "30,38"},
+                {"id": 3, "label": "42,45"},
+                {"id": 4, "label": "32,34"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 5,
+            "question": "5, 8, 13, 21,34,55,89 =?",
+            "option": [
+                {"id": 1, "label": "233,144"},
+                {"id": 2, "label": "144,233"},
+                {"id": 3, "label": "156,147"},
+                {"id": 4, "label": "150,145"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 6,
+            "question": "NUTOEG :-  name of a part of body. Fill the last letter.",
+            "option": [
+                {"id": 1, "label": "E"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "O"},
+                {"id": 4, "label": "N"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 7,
+            "question": "Yesterday is Today as Ancient is to =?",
+            "option": [
+                {"id": 1, "label": "PRESENT"},
+                {"id": 2, "label": "MODERN"},
+                {"id": 3, "label": "NEWLY"},
+                {"id": 4, "label": "PAST"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 8,
+            "question": "4, 6, 12, 14,28,30,60 =?",
+            "option": [
+                {"id": 1, "label": "62,124"},
+                {"id": 2, "label": "124,64"},
+                {"id": 3, "label": "58,125"},
+                {"id": 4, "label": "124,65"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 9,
+            "question": "YPZ = XYZ, DEF =?",
+            "option": [
+                {"id": 1, "label": "NCF"},
+                {"id": 2, "label": "CNF"},
+                {"id": 3, "label": "CFN"},
+                {"id": 4, "label": "NCN"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 10,
+            "question": "OQN = BDA, PRO =?",
+            "option": [
+                {"id": 1, "label": "BFC"},
+                {"id": 2, "label": "CEB"},
+                {"id": 3, "label": "CBE"},
+                {"id": 4, "label": "ECB"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 11,
+            "question": "RGEADG:-name of an instrument. Write the last letter",
+            "option": [
+                {"id": 1, "label": "R"},
+                {"id": 2, "label": "A"},
+                {"id": 3, "label": "G"},
+                {"id": 4, "label": "E"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 12,
+            "question": "6,9,8,11,12,15,20,23 =?",
+            "option": [
+                {"id": 1, "label": "36,39"},
+                {"id": 2, "label": "38,39"},
+                {"id": 3, "label": "35,36"},
+                {"id": 4, "label": "39,45"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 13,
+            "question": ". AIR FORCE is to NAVY as AIRMAN is to",
+            "option": [
+                {"id": 1, "label": "ARMY"},
+                {"id": 2, "label": "SOLDIER"},
+                {"id": 3, "label": "SEAMAN"},
+                {"id": 4, "label": "SAILOR"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 14,
+            "question": " 7, 14, 21,28,35,42 =?",
+            "option": [
+                {"id": 1, "label": "49,50"},
+                {"id": 2, "label": "50,46"},
+                {"id": 3, "label": "45,69"},
+                {"id": 4, "label": "56,49"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 15,
+            "question": "RICH is to WEALTHY as MARS is to --",
+            "option": [
+                {"id": 1, "label": "NEPTUNE"},
+                {"id": 2, "label": "VENUSIS"},
+                {"id": 3, "label": "EARTH"},
+                {"id": 4, "label": "PLUTO"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 16,
+            "question": "The doll lost her girl.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "NONE"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 17,
+            "question": "ABC = ZYX, GIVV =?",
+            "option": [
+                {"id": 1, "label": "TREE"},
+                {"id": 2, "label": "TREK"},
+                {"id": 3, "label": "UREE"},
+                {"id": 4, "label": "REEK"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 18,
+            "question": "DEF = WVU, DHT =??",
+            "option": [
+                {"id": 1, "label": "WSG"},
+                {"id": 2, "label": "WSQ"},
+                {"id": 3, "label": "WGI"},
+                {"id": 4, "label": "WGV"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 19,
+            "question": "DEF = WVU, MPQ =?",
+            "option": [
+                {"id": 1, "label": "NKJ"},
+                {"id": 2, "label": "NKH"},
+                {"id": 3, "label": "MKH"},
+                {"id": 4, "label": "MKS"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 20,
+            "question": "RING is to FINGER as WATCH is to --?",
+            "option": [
+                {"id": 1, "label": "HAND"},
+                {"id": 2, "label": "FINGER"},
+                {"id": 3, "label": "WRIST"},
+                {"id": 4, "label": "PLUM"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 21,
+            "question": "MROASTAHRO – name of a District. Fill the last letter.",
+            "option": [
+                {"id": 1, "label": "M"},
+                {"id": 2, "label": "O"},
+                {"id": 3, "label": "S"},
+                {"id": 4, "label": "R"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 22,
+            "question": "What is the opposite word of “HEAVEN”",
+            "option": [
+                {"id": 1, "label": "BAD"},
+                {"id": 2, "label": "DEVIL"},
+                {"id": 3, "label": "GOOD"},
+                {"id": 4, "label": "HELL"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 23,
+            "question": "3, 9,5,25,8,64 =?---,---",
+            "option": [
+                {"id": 1, "label": "11,121"},
+                {"id": 2, "label": "10,100"},
+                {"id": 3, "label": "9,81"},
+                {"id": 4, "label": "12,144"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 24,
+            "question": "Tomorrow is to Yesterday as Sunday is to-",
+            "option": [
+                {"id": 1, "label": "SATURDAY"},
+                {"id": 2, "label": "FRIDAY"},
+                {"id": 3, "label": "MONDAY"},
+                {"id": 4, "label": "NONE"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 25,
+            "question": "LEYBL-part of a body. Fill the last letter",
+            "option": [
+                {"id": 1, "label": "L"},
+                {"id": 2, "label": "B"},
+                {"id": 3, "label": "E"},
+                {"id": 4, "label": "Y"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 26,
+            "question": ". 4, 6, 12, 14,28,30,60 =?",
+            "option": [
+                {"id": 1, "label": "62,124"},
+                {"id": 2, "label": "60,120"},
+                {"id": 3, "label": "58,156"},
+                {"id": 4, "label": "50,100"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 27,
+            "question": "TRY = CRY, FAT =?",
+            "option": [
+                {"id": 1, "label": "AWJ"},
+                {"id": 2, "label": "OAT"},
+                {"id": 3, "label": "OAJ"},
+                {"id": 4, "label": "TWA"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 28,
+            "question": "BEX = NET, DIG =?",
+            "option": [
+                {"id": 1, "label": "PIG"},
+                {"id": 2, "label": "PIC"},
+                {"id": 3, "label": "PID"},
+                {"id": 4, "label": "DIE"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 29,
+            "question": "What is the opposite word of “BACKWARD”",
+            "option": [
+                {"id": 1, "label": "SKILLFUL"},
+                {"id": 2, "label": "ABLE"},
+                {"id": 3, "label": "FORWARD"},
+                {"id": 4, "label": "NONE"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 31,
+            "question": "Find out the missing letter, Mother Other Ther------?",
+            "option": [
+                {"id": 1, "label": "Her"},
+                {"id": 2, "label": "er"},
+                {"id": 3, "label": "r"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 32,
+            "question": "1,4,9,16,25,---,49",
+            "option": [
+                {"id": 1, "label": "30"},
+                {"id": 2, "label": "25"},
+                {"id": 3, "label": "26"},
+                {"id": 4, "label": "36"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 33,
+            "question": "AZ, BY, CX, DW -- --",
+            "option": [
+                {"id": 1, "label": "EV,FU"},
+                {"id": 2, "label": "FV,EU"},
+                {"id": 3, "label": "FU,EV"},
+                {"id": 4, "label": "FK,EF"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 34,
+            "question": "Find the odd ----",
+            "option": [
+                {"id": 1, "label": "ANT"},
+                {"id": 2, "label": "SPIDER"},
+                {"id": 3, "label": "BEE"},
+                {"id": 4, "label": "MIDGE"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 35,
+            "question": "Intelligent behavior is directly depends on memory",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "EITHER T OR F"},
+                {"id": 3, "label": "F"},
+                {"id": 4, "label": "NONE"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 36,
+            "question": "9,19,40,--- 170,345",
+            "option": [
+                {"id": 1, "label": "80"},
+                {"id": 2, "label": "85"},
+                {"id": 3, "label": "82"},
+                {"id": 4, "label": "83"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 37,
+            "question": " A,C,A,E,A,G,A,I,---,---?",
+            "option": [
+                {"id": 1, "label": "A,B"},
+                {"id": 2, "label": "A,F"},
+                {"id": 3, "label": "A,G"},
+                {"id": 4, "label": "A,K"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 38,
+            "question": "What is the opposite word of “Intelligent",
+            "option": [
+                {"id": 1, "label": "DULL"},
+                {"id": 2, "label": "STUPID"},
+                {"id": 3, "label": "COWARD"},
+                {"id": 4, "label": "FOOL"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 39,
+            "question": ". EOT:-name the part of a body. Fill the last letter",
+            "option": [
+                {"id": 1, "label": "E"},
+                {"id": 2, "label": "O"},
+                {"id": 3, "label": "T"},
+                {"id": 4, "label": "L"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 40,
+            "question": "FIG = JMR, QTR =?",
+            "option": [
+                {"id": 1, "label": "RTV"},
+                {"id": 2, "label": "UTV"},
+                {"id": 3, "label": "UXV"},
+                {"id": 4, "label": "RVT"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 41,
+            "question": "What is the opposite word of “DWARF",
+            "option": [
+                {"id": 1, "label": "BIG"},
+                {"id": 2, "label": "SMALL"},
+                {"id": 3, "label": "LARGE"},
+                {"id": 4, "label": "GIANT"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 42,
+            "question": "DAG = PMS, GDS =?",
+            "option": [
+                {"id": 1, "label": "TST"},
+                {"id": 2, "label": "SPE"},
+                {"id": 3, "label": "SVP"},
+                {"id": 4, "label": "SPQ"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 43,
+            "question": "KILL = ARMY, NAVY =?",
+            "option": [
+                {"id": 1, "label": "DJML"},
+                {"id": 2, "label": "DJLW"},
+                {"id": 3, "label": "SYFV"},
+                {"id": 4, "label": "FVSY"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 44,
+            "question": "KISS = GIRL, LOVE =?",
+            "option": [
+                {"id": 1, "label": "HOUX"},
+                {"id": 2, "label": "OXHU"},
+                {"id": 3, "label": "HOXU"},
+                {"id": 4, "label": "XUOH"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 45,
+            "question": "172, 84, 40, 18, ---, ---?",
+            "option": [
+                {"id": 1, "label": "6,1"},
+                {"id": 2, "label": "7,1.5"},
+                {"id": 3, "label": "5,2"},
+                {"id": 4, "label": "4,5"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 46,
+            "question": "The blood system of a man is opened",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "EITHER T OR F"},
+                {"id": 4, "label": "NONE"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 47,
+            "question": "UCKOCO – name of a bird. Write the last letter",
+            "option": [
+                {"id": 1, "label": "C"},
+                {"id": 2, "label": "U"},
+                {"id": 3, "label": "K"},
+                {"id": 4, "label": "O"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 48,
+            "question": "8, 10, 14, 18,--, 34, 50, 66?",
+            "option": [
+                {"id": 1, "label": "20"},
+                {"id": 2, "label": "14"},
+                {"id": 3, "label": "18"},
+                {"id": 4, "label": "26"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 49,
+            "question": "HARARE NEW IS A NAME OF NAMIBIA. ",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "EITHER T OR F"},
+                {"id": 4, "label": "NONE"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 50,
+            "question": "OPQ = QRS. NPO =?",
+            "option": [
+                {"id": 1, "label": "OPR"},
+                {"id": 2, "label": "PRQ"},
+                {"id": 3, "label": "POR"},
+                {"id": 4, "label": "POT"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "NPO = RTS, HJI =?",
+            "option": [
+                {"id": 1, "label": "LNM"},
+                {"id": 2, "label": "LMN"},
+                {"id": 3, "label": "MNL"},
+                {"id": 4, "label": "MLN"}
             ],
             "answer": {"optionId": 3}
         }

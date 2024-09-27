@@ -3,10 +3,13 @@ import {StyleSheet, Text, View, TouchableOpacity, Dimensions} from 'react-native
 import React from 'react';
 import {examType} from './mcqExaminer';
 
-const SingleQuestionShower: React.FC<{questionid: string; questionType: examType; questionTitle: string; handleTakeExam: (id: string) => any}> = ({questionid, questionType, questionTitle, handleTakeExam}) => {
+const SingleQuestionShower: React.FC<{questionid: string; questionType: examType; questionTitle: string; index: number; handleTakeExam: (id: string) => any}> = ({questionid, questionType, questionTitle, index, handleTakeExam}) => {
     return (
         <View>
             <View style={styles.singleQuestionShowerWrapper}>
+                <View>
+                    <Text style={{color: 'white', fontWeight: '700', fontSize: 17}}>{index + 1}</Text>
+                </View>
                 <View>
                     <Text style={{color: 'white', fontWeight: 'bold', fontSize: 20}}>{questionTitle}</Text>
                 </View>

@@ -57,7 +57,7 @@ const McqExaminerModal: React.FC<McqExaminerModalProps> = ({examPaper, typeofExa
         }
         console.log('exam tpe', typeofExam);
 
-        setResult({score: '', correct: 0, incorrect: 0, notTouched: 0});
+        setResult({score: '', correct: 0, incorrect: 0, notTouched: 0, totalQ: 0});
     }, [visibleState]);
     let handleSelectTime = (id: string) => {
         console.log(id);

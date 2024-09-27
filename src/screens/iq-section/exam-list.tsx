@@ -27,7 +27,7 @@ const IqSectionExamLists = () => {
     };
     return (
         <View style={{backgroundColor: 'black'}}>
-            <FlatList data={IQQuestionListData.allQuestions} renderItem={sig => <SingleQuestionShower questionType={examType.IQ} questionTitle={sig.item.questionName} questionid={sig.item.questionID} handleTakeExam={takeExamFunc} />} />
+            <FlatList data={IQQuestionListData.allQuestions} renderItem={sig => <SingleQuestionShower questionType={examType.IQ} questionTitle={sig.item.questionName} index={sig.index} questionid={sig.item.questionID} handleTakeExam={takeExamFunc} />} />
             {showModal && <McqExaminerModal handleExaminerModal={handleMcqExaminerModal} visibleState={showModal} examPaper={paperForExam} typeofExam={examType.IQ} />}
         </View>
     );
