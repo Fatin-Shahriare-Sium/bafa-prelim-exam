@@ -1,5 +1,5 @@
 /* eslint-disable react-native/no-inline-styles */
-import {FlatList, StyleSheet, View} from 'react-native';
+import {Dimensions, FlatList, ScrollView, StyleSheet, View, Text} from 'react-native';
 import React, {useState} from 'react';
 import SingleQuestionShower from '../../components/singleQuestionShower';
 
@@ -26,13 +26,23 @@ const IqSectionExamLists = () => {
         setShowModal(!showModal);
     };
     return (
-        <View style={{backgroundColor: 'black'}}>
-            <FlatList data={IQQuestionListData.allQuestions} renderItem={sig => <SingleQuestionShower questionType={examType.IQ} questionTitle={sig.item.questionName} index={sig.index} questionid={sig.item.questionID} handleTakeExam={takeExamFunc} />} />
-            {showModal && <McqExaminerModal handleExaminerModal={handleMcqExaminerModal} visibleState={showModal} examPaper={paperForExam} typeofExam={examType.IQ} />}
-        </View>
+        <ScrollView>
+            <View style={styles.examListContainer}>
+                <Text style={{textAlign: 'center', fontSize: 30, color: 'white', fontWeight: '700', margin: 9}}>📝 Take IQ Exam</Text>
+                <FlatList data={IQQuestionListData.allQuestions} renderItem={sig => <SingleQuestionShower questionType={examType.IQ} questionTitle={sig.item.questionName} index={sig.index} questionid={sig.item.questionID} handleTakeExam={takeExamFunc} />} />
+                {showModal && <McqExaminerModal handleExaminerModal={handleMcqExaminerModal} visibleState={showModal} examPaper={paperForExam} typeofExam={examType.IQ} />}
+            </View>
+        </ScrollView>
     );
 };
 
 export default IqSectionExamLists;
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+    examListContainer: {
+        display: 'flex',
+        alignItems: 'center',
+        backgroundColor: 'black',
+        height: Dimensions.get('window').height * 0.9,
+    },
+});

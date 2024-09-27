@@ -179,7 +179,7 @@ const McqExaminerModal: React.FC<McqExaminerModalProps> = ({examPaper, typeofExa
                         <FlatList
                             contentContainerStyle={{pointerEvents: hasStarted ? 'auto' : 'none'}}
                             data={examPaper.allQuestions}
-                            keyExtractor={({question}) => question}
+                            keyExtractor={(item, index) => String(index)}
                             renderItem={sig => {
                                 return <SingleMcqShower handleAnswer={handleAnswer} questionObj={sig.item} />;
                             }}

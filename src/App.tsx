@@ -1,3 +1,4 @@
+/* eslint-disable react-native/no-inline-styles */
 import {Dimensions, SafeAreaView, StyleSheet, View} from 'react-native';
 import React from 'react';
 import iqOneData from './data/iq/ques1.json';
@@ -17,6 +18,8 @@ const App = () => {
                 style={{
                     height: Dimensions.get('window').height,
                     width: Dimensions.get('window').width,
+                    display: 'flex',
+                    backgroundColor: 'black',
                 }}>
                 <NavigationContainer>
                     <Drawer.Navigator initialRouteName="Home">
@@ -30,7 +33,7 @@ const App = () => {
                             {props => <Home {...props} />}
                         </Drawer.Screen>
                         <Drawer.Screen name="Detail" component={Details} />
-                        <Drawer.Screen name="IqSec" component={IqSection} />
+                        <Drawer.Screen options={{headerTitleStyle: {display: 'none'}}} name="IqSec" component={IqSection} />
                         <Drawer.Screen name="Eng Section" component={EngSection} />
                         <Drawer.Screen name="PhyMath Section" component={PmSection} />
                     </Drawer.Navigator>

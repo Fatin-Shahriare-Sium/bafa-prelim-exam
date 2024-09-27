@@ -36,8 +36,11 @@ const styles = StyleSheet.create({
         justifyContent: 'space-evenly',
         alignItems: 'center',
         flexDirection: 'row',
+        backgroundColor: '#121111',
+        margin: 5,
         width: Dimensions.get('window').width * 0.9,
-        height: Dimensions.get('window').height * 0.09,
+        padding: 6,
+        borderRadius: 10,
     },
     singleQuestionShowerBtnWrapper: {
         display: 'flex',
