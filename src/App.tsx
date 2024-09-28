@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unstable-nested-components */
 /* eslint-disable react-native/no-inline-styles */
-import {Dimensions, Image, SafeAreaView, StyleSheet, TouchableOpacity, View} from 'react-native';
+import {Dimensions, Image, SafeAreaView, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
 import React from 'react';
 import iqOneData from './data/iq/ques1.json';
 import {NavigationContainer} from '@react-navigation/native';
@@ -11,6 +11,10 @@ import IqSection from './screens/iq-section/index.tsx';
 import EngSection from './screens/eng-section/index.tsx';
 import PmSection from './screens/pm-section/index.tsx';
 import MenuIcon from './assets/menu-icon.png';
+import HomeIcon from './assets/home-icon.png';
+import PhyIcon from './assets/phy-icon.png';
+import EngIcon from './assets/eng-icon.png';
+import IQIcon from './assets/iq-icon.png';
 const App = () => {
     const Drawer = createDrawerNavigator();
     console.log(iqOneData.allQuestions[0].no);
@@ -35,19 +39,61 @@ const App = () => {
                                     </View>
                                 );
                             },
+                            drawerStyle: {backgroundColor: 'black'},
+                            drawerInactiveTintColor: 'white',
+                            drawerActiveBackgroundColor: '#121111',
                         }}
                         initialRouteName="Home">
                         <Drawer.Screen
                             options={{
                                 headerShown: true,
+                                drawerIcon: () => {
+                                    return <Image source={HomeIcon} />;
+                                },
                             }}
                             name="Home">
                             {props => <Home {...props} />}
                         </Drawer.Screen>
-                        <Drawer.Screen name="Detail" component={Details} />
-                        <Drawer.Screen options={{headerTitleStyle: {display: 'none'}}} name="IqSec" component={IqSection} />
-                        <Drawer.Screen name="Eng Section" component={EngSection} />
-                        <Drawer.Screen name="PhyMath Section" component={PmSection} />
+                        <Drawer.Screen
+                            options={{
+                                headerShown: true,
+                                drawerIcon: () => {
+                                    return <Image source={EngIcon} />;
+                                },
+                            }}
+                            name="Detail"
+                            component={Details}
+                        />
+                        <Drawer.Screen
+                            options={{
+                                headerShown: true,
+                                drawerIcon: () => {
+                                    return <Image style={{width: 30, height: 30}} source={IQIcon} />;
+                                },
+                            }}
+                            name="IqSec"
+                            component={IqSection}
+                        />
+                        <Drawer.Screen
+                            options={{
+                                headerShown: true,
+                                drawerIcon: () => {
+                                    return <Image source={EngIcon} />;
+                                },
+                            }}
+                            name="Eng Section"
+                            component={EngSection}
+                        />
+                        <Drawer.Screen
+                            options={{
+                                headerShown: true,
+                                drawerIcon: () => {
+                                    return <Image source={PhyIcon} />;
+                                },
+                            }}
+                            name="PhyMath Section"
+                            component={PmSection}
+                        />
                     </Drawer.Navigator>
                 </NavigationContainer>
             </View>
