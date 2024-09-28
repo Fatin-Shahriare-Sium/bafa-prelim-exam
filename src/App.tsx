@@ -1,5 +1,6 @@
+/* eslint-disable react/no-unstable-nested-components */
 /* eslint-disable react-native/no-inline-styles */
-import {Dimensions, SafeAreaView, StyleSheet, View} from 'react-native';
+import {Dimensions, Image, SafeAreaView, StyleSheet, TouchableOpacity, View} from 'react-native';
 import React from 'react';
 import iqOneData from './data/iq/ques1.json';
 import {NavigationContainer} from '@react-navigation/native';
@@ -9,6 +10,7 @@ import Details from './screens/details.tsx';
 import IqSection from './screens/iq-section/index.tsx';
 import EngSection from './screens/eng-section/index.tsx';
 import PmSection from './screens/pm-section/index.tsx';
+import MenuIcon from './assets/menu-icon.png';
 const App = () => {
     const Drawer = createDrawerNavigator();
     console.log(iqOneData.allQuestions[0].no);
@@ -22,12 +24,22 @@ const App = () => {
                     backgroundColor: 'black',
                 }}>
                 <NavigationContainer>
-                    <Drawer.Navigator initialRouteName="Home">
+                    <Drawer.Navigator
+                        screenOptions={{
+                            header: ({navigation}) => {
+                                return (
+                                    <View style={{backgroundColor: 'black', padding: 5, height: Dimensions.get('window').height * 0.05}}>
+                                        <TouchableOpacity onPress={() => navigation.toggleDrawer()}>
+                                            <Image style={{width: 25, height: 25}} source={MenuIcon} />
+                                        </TouchableOpacity>
+                                    </View>
+                                );
+                            },
+                        }}
+                        initialRouteName="Home">
                         <Drawer.Screen
                             options={{
                                 headerShown: true,
-                                headerTitle: 'hoddme',
-                                headerTitleStyle: {display: 'none'},
                             }}
                             name="Home">
                             {props => <Home {...props} />}

@@ -8,6 +8,7 @@ import IQSet1 from '../../data/iq/ques1.json';
 import IQSet2 from '../../data/iq/ques2.json';
 import IQSet3 from '../../data/iq/ques3.json';
 import McqExaminerModal, {examPaperType, examType} from '../../components/mcqExaminer';
+import CustomCautionBox from '../../components/customCautionBox';
 const IqSectionExamLists = () => {
     let [paperForExam, setPaperForExam] = useState<examPaperType>();
     let [showModal, setShowModal] = useState(false);
@@ -29,7 +30,8 @@ const IqSectionExamLists = () => {
         <ScrollView>
             <View style={styles.examListContainer}>
                 <Text style={{textAlign: 'center', fontSize: 30, color: 'white', fontWeight: '700', margin: 9}}>📝 Take IQ Exam</Text>
-                <FlatList data={IQQuestionListData.allQuestions} renderItem={sig => <SingleQuestionShower questionType={examType.IQ} questionTitle={sig.item.questionName} index={sig.index} questionid={sig.item.questionID} handleTakeExam={takeExamFunc} />} />
+                <FlatList ListFooterComponent={<CustomCautionBox />} data={IQQuestionListData.allQuestions} renderItem={sig => <SingleQuestionShower questionType={examType.IQ} questionTitle={sig.item.questionName} index={sig.index} questionid={sig.item.questionID} handleTakeExam={takeExamFunc} />} />
+
                 {showModal && <McqExaminerModal handleExaminerModal={handleMcqExaminerModal} visibleState={showModal} examPaper={paperForExam} typeofExam={examType.IQ} />}
             </View>
         </ScrollView>
