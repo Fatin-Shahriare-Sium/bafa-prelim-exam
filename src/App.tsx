@@ -15,6 +15,7 @@ import HomeIcon from './assets/home-icon.png';
 import PhyIcon from './assets/phy-icon.png';
 import EngIcon from './assets/eng-icon.png';
 import IQIcon from './assets/iq-icon.png';
+import InfoIcon from './assets/info.png';
 const App = () => {
     const Drawer = createDrawerNavigator();
     console.log(iqOneData.allQuestions[0].no);
@@ -58,20 +59,10 @@ const App = () => {
                             options={{
                                 headerShown: true,
                                 drawerIcon: () => {
-                                    return <Image source={EngIcon} />;
-                                },
-                            }}
-                            name="Detail"
-                            component={Details}
-                        />
-                        <Drawer.Screen
-                            options={{
-                                headerShown: true,
-                                drawerIcon: () => {
                                     return <Image style={{width: 30, height: 30}} source={IQIcon} />;
                                 },
                             }}
-                            name="IqSec"
+                            name="IQ Section"
                             component={IqSection}
                         />
                         <Drawer.Screen
@@ -93,6 +84,16 @@ const App = () => {
                             }}
                             name="PhyMath Section"
                             component={PmSection}
+                        />
+                        <Drawer.Screen
+                            options={{
+                                headerShown: true,
+                                drawerIcon: () => {
+                                    return <Image source={InfoIcon} />;
+                                },
+                            }}
+                            name="About"
+                            component={Details}
                         />
                     </Drawer.Navigator>
                 </NavigationContainer>
