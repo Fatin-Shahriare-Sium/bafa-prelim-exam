@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unstable-nested-components */
 /* eslint-disable react-native/no-inline-styles */
-import {Dimensions, Image, SafeAreaView, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
+import {Dimensions, Image, SafeAreaView, StyleSheet, Text, TouchableOpacity, useWindowDimensions, View} from 'react-native';
 import React from 'react';
 import iqOneData from './data/iq/ques1.json';
 import {NavigationContainer} from '@react-navigation/native';
@@ -18,14 +18,15 @@ import IQIcon from './assets/iq-icon.png';
 import InfoIcon from './assets/info.png';
 const App = () => {
     const Drawer = createDrawerNavigator();
+    let {height, width} = useWindowDimensions();
+    console.log(height, width);
     console.log(iqOneData.allQuestions[0].no);
     return (
-        <SafeAreaView>
+        <SafeAreaView style={{flex: 1, backgroundColor: 'black'}}>
             <View
                 style={{
                     height: Dimensions.get('window').height,
                     width: Dimensions.get('window').width,
-                    display: 'flex',
                     backgroundColor: 'black',
                 }}>
                 <NavigationContainer>
@@ -33,9 +34,9 @@ const App = () => {
                         screenOptions={{
                             header: ({navigation}) => {
                                 return (
-                                    <View style={{backgroundColor: 'black', padding: 5, height: Dimensions.get('window').height * 0.05}}>
+                                    <View style={{backgroundColor: 'black', padding: 5, height: Dimensions.get('window').height * 0.07}}>
                                         <TouchableOpacity onPress={() => navigation.toggleDrawer()}>
-                                            <Image style={{width: 25, height: 25}} source={MenuIcon} />
+                                            <Image style={{width: 25, height: 25, marginLeft: '2.5%', marginTop: '1%'}} source={MenuIcon} />
                                         </TouchableOpacity>
                                     </View>
                                 );
@@ -104,8 +105,4 @@ const App = () => {
 
 export default App;
 
-const styles = StyleSheet.create({
-    appContainer: {
-        display: 'flex',
-    },
-});
+const styles = StyleSheet.create({});

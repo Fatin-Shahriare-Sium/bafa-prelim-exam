@@ -27,14 +27,14 @@ const EngSectionExamLists = () => {
         setShowModal(!showModal);
     };
     return (
-        <ScrollView>
-            <View style={styles.examListContainer}>
+        <View style={styles.examListContainer}>
+            <ScrollView>
                 <Text style={{textAlign: 'center', fontSize: 30, color: 'white', fontWeight: '700', margin: 9}}>📝 Take English Exam</Text>
                 <FlatList ListFooterComponent={<CustomCautionBox />} data={EngQuestionListData.allQuestions} renderItem={sig => <SingleQuestionShower questionType={examType.Eng} questionTitle={sig.item.questionName} index={sig.index} questionid={sig.item.questionID} handleTakeExam={takeExamFunc} />} />
 
                 {showModal && <McqExaminerModal handleExaminerModal={handleMcqExaminerModal} visibleState={showModal} examPaper={paperForExam} typeofExam={examType.Eng} />}
-            </View>
-        </ScrollView>
+            </ScrollView>
+        </View>
     );
 };
 
@@ -45,6 +45,6 @@ const styles = StyleSheet.create({
         display: 'flex',
         alignItems: 'center',
         backgroundColor: 'black',
-        height: Dimensions.get('window').height * 0.9,
+        height: Dimensions.get('window').height * 0.78,
     },
 });

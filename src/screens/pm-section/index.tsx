@@ -13,45 +13,43 @@ import PMSectionExamLists from './exam-list';
 const PmSection = () => {
     let PMSectionTab = createBottomTabNavigator();
     return (
-        <View style={{height: Dimensions.get('window').height * 0.95}}>
-            <PMSectionTab.Navigator
-                tabBar={props => {
-                    return (
-                        <View style={{width: Dimensions.get('window').width, height: Dimensions.get('window').height * 0.1, backgroundColor: 'black', display: 'flex', justifyContent: 'center', alignItems: 'center', borderTopColor: '#121111'}}>
-                            <BottomTabBar {...props} />
-                        </View>
-                    );
+        <PMSectionTab.Navigator
+            tabBar={props => {
+                return (
+                    <View style={{width: Dimensions.get('window').width, height: Dimensions.get('window').height * 0.15, backgroundColor: 'black', display: 'flex', alignItems: 'center', borderTopColor: '#121111'}}>
+                        <BottomTabBar {...props} />
+                    </View>
+                );
+            }}
+            screenOptions={{tabBarStyle: {backgroundColor: '#121111', width: '90%', borderRadius: 20, height: '70%', borderTopColor: '#121111', marginTop: '.777%'}, tabBarShowLabel: false, headerShown: false}}>
+            <PMSectionTab.Screen
+                options={{
+                    tabBarIcon: ({focused}) => {
+                        return <CustomTab tabNmae="Exam" icon={ExamIocn} active={focused} />;
+                    },
                 }}
-                screenOptions={{tabBarStyle: {backgroundColor: '#121111', width: '90%', borderRadius: 20, height: '90%', borderTopColor: '#121111'}, tabBarShowLabel: false, headerShown: false}}>
-                <PMSectionTab.Screen
-                    options={{
-                        tabBarIcon: ({focused}) => {
-                            return <CustomTab tabNmae="Exam" icon={ExamIocn} active={focused} />;
-                        },
-                    }}
-                    name="pm-exam"
-                    component={PMSectionExamLists}
-                />
-                <PMSectionTab.Screen
-                    options={{
-                        tabBarIcon: ({focused}) => {
-                            return <CustomTab tabNmae="Tips" icon={TipIcon} active={focused} />;
-                        },
-                    }}
-                    name="pm-tips"
-                    component={PmTips}
-                />
-                <PMSectionTab.Screen
-                    options={{
-                        tabBarIcon: ({focused}) => {
-                            return <CustomTab tabNmae="Syllabus" icon={SyllaIcon} active={focused} />;
-                        },
-                    }}
-                    name="pm-syllabus"
-                    component={PmSyllabus}
-                />
-            </PMSectionTab.Navigator>
-        </View>
+                name="pm-exam"
+                component={PMSectionExamLists}
+            />
+            <PMSectionTab.Screen
+                options={{
+                    tabBarIcon: ({focused}) => {
+                        return <CustomTab tabNmae="Tips" icon={TipIcon} active={focused} />;
+                    },
+                }}
+                name="pm-tips"
+                component={PmTips}
+            />
+            <PMSectionTab.Screen
+                options={{
+                    tabBarIcon: ({focused}) => {
+                        return <CustomTab tabNmae="Syllabus" icon={SyllaIcon} active={focused} />;
+                    },
+                }}
+                name="pm-syllabus"
+                component={PmSyllabus}
+            />
+        </PMSectionTab.Navigator>
     );
 };
 

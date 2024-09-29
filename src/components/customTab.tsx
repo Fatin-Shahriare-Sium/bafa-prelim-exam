@@ -16,7 +16,7 @@ export default CustomTab;
 const styles = StyleSheet.create({
     customTabContainer: {
         paddingHorizontal: 15,
-        paddingVertical: 7,
+        paddingVertical: 3,
         display: 'flex',
         borderRadius: 15,
         justifyContent: 'center',

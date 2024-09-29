@@ -4,7 +4,9 @@ const CustomHomeTab: React.FC<{tabName: string; icon: ImageSourcePropType; hrefH
     return (
         <TouchableOpacity onPress={() => hrefHandle()} style={styles.customHomeTab}>
             <Image style={{width: 30, height: 30}} source={icon} />
-            <Text style={{color: 'white'}}>{tabName}</Text>
+            <Text numberOfLines={1} adjustsFontSizeToFit={true} style={{color: 'white'}}>
+                {tabName}
+            </Text>
         </TouchableOpacity>
     );
 };
