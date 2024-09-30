@@ -4,7 +4,7 @@ import {Dimensions, Image, SafeAreaView, StyleSheet, Text, TouchableOpacity, use
 import React, {useEffect} from 'react';
 import iqOneData from './data/iq/ques1.json';
 import {NavigationContainer} from '@react-navigation/native';
-import {createDrawerNavigator} from '@react-navigation/drawer';
+import {createDrawerNavigator, DrawerContentScrollView, DrawerItem, DrawerItemList} from '@react-navigation/drawer';
 import Home from './screens/home.tsx';
 import Details from './screens/details.tsx';
 import IqSection from './screens/iq-section/index.tsx';
@@ -25,6 +25,18 @@ const App = () => {
     useEffect(() => {
         SplashScreen.hide();
     }, []);
+    let CustomDrawerContent = props => {
+        return (
+            <DrawerContentScrollView {...props}>
+                <Text style={{fontSize: 25, fontWeight: '900', color: 'white', textAlign: 'center', lineHeight: 70, letterSpacing: 3}}>
+                    <Text style={{color: '#93c6d0'}}>BAFA </Text>
+                    SPOILER
+                </Text>
+
+                <DrawerItemList {...props} />
+            </DrawerContentScrollView>
+        );
+    };
     return (
         <SafeAreaView style={{flex: 1, backgroundColor: 'black'}}>
             <View
@@ -35,6 +47,7 @@ const App = () => {
                 }}>
                 <NavigationContainer>
                     <Drawer.Navigator
+                        drawerContent={props => <CustomDrawerContent {...props} />}
                         screenOptions={{
                             header: ({navigation}) => {
                                 return (
