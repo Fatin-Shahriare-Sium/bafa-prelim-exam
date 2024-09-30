@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unstable-nested-components */
 /* eslint-disable react-native/no-inline-styles */
 import {Dimensions, Image, SafeAreaView, StyleSheet, Text, TouchableOpacity, useWindowDimensions, View} from 'react-native';
-import React from 'react';
+import React, {useEffect} from 'react';
 import iqOneData from './data/iq/ques1.json';
 import {NavigationContainer} from '@react-navigation/native';
 import {createDrawerNavigator} from '@react-navigation/drawer';
@@ -16,11 +16,15 @@ import PhyIcon from './assets/phy-icon.png';
 import EngIcon from './assets/eng-icon.png';
 import IQIcon from './assets/iq-icon.png';
 import InfoIcon from './assets/info.png';
+import SplashScreen from 'react-native-splash-screen';
 const App = () => {
     const Drawer = createDrawerNavigator();
     let {height, width} = useWindowDimensions();
     console.log(height, width);
     console.log(iqOneData.allQuestions[0].no);
+    useEffect(() => {
+        SplashScreen.hide();
+    }, []);
     return (
         <SafeAreaView style={{flex: 1, backgroundColor: 'black'}}>
             <View

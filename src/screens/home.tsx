@@ -9,6 +9,7 @@ import CustomHomeTab from '../components/customHomeTab';
 const Home = ({navigation}) => {
     let {fontScale} = useWindowDimensions();
     console.log('fontScale', fontScale);
+    //https://github.com/crazycodeboy/react-native-splash-screen/issues/638
 
     return (
         <View style={styles.homeWrapper}>
