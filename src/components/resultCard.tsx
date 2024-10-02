@@ -52,7 +52,7 @@ export default ResultCard;
 
 const styles = StyleSheet.create({
     resultCardContainer: {
-        height: Dimensions.get('window').height,
+        flex: 1,
         width: Dimensions.get('window').width,
         display: 'flex',
         justifyContent: 'center',
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
         position: 'relative',
     },
     resultCard: {
-        height: Dimensions.get('window').height * 0.35,
+        height: Dimensions.get('window').height * 0.4,
         width: Dimensions.get('window').width * 0.9,
         backgroundColor: '#121111',
         borderRadius: 17,

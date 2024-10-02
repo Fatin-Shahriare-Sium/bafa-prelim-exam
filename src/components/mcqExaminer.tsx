@@ -145,7 +145,7 @@ const McqExaminerModal: React.FC<McqExaminerModalProps> = ({examPaper, typeofExa
     };
     return (
         <Modal onRequestClose={() => handleBackPress()} visible={visibleState}>
-            <View style={{height: Dimensions.get('window').height, width: Dimensions.get('window').width, backgroundColor: 'black'}}>
+            <View style={{flex: 1, width: Dimensions.get('window').width, backgroundColor: 'black'}}>
                 <View>
                     <Text style={{color: 'white', textAlign: 'center', fontSize: 30, fontWeight: '900'}}>{examPaper.questionName}</Text>
                 </View>

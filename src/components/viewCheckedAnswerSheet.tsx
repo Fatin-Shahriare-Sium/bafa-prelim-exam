@@ -34,7 +34,7 @@ const ViewCheckedAnswerSheet: React.FC<{examPaper: examPaperType; answerSheet: A
     };
     return (
         <Modal visible={true}>
-            <View style={{backgroundColor: 'black', height: Dimensions.get('window').height}}>
+            <View style={{backgroundColor: 'black', flex: 1}}>
                 <FlatList
                     ListHeaderComponent={() => {
                         return (

@@ -1,5 +1,5 @@
 /* eslint-disable react-native/no-inline-styles */
-import {StyleSheet, Text, View} from 'react-native';
+import {StyleSheet, Text, useWindowDimensions, View} from 'react-native';
 import React, {useState} from 'react';
 import RadioGroup from 'react-native-radio-buttons-group';
 interface SingleMcqShowerProps {
@@ -13,9 +13,10 @@ interface SingleMcqShowerProps {
 }
 const SingleMcqShower: React.FC<SingleMcqShowerProps> = ({questionObj, handleAnswer}) => {
     let [selectedId, setSelectedId] = useState('');
+    let {fontScale} = useWindowDimensions();
     return (
         <View style={{margin: '2%'}}>
-            <Text style={{fontSize: 25, fontWeight: '700', color: '#e1dede'}}>{`${questionObj.no}.${questionObj.question}`}</Text>
+            <Text style={{fontSize: 22 / fontScale, fontWeight: '700', color: '#e1dede'}}>{`${questionObj.no}.${questionObj.question}`}</Text>
             <RadioGroup
                 radioButtons={[
                     {
@@ -51,7 +52,7 @@ const SingleMcqShower: React.FC<SingleMcqShowerProps> = ({questionObj, handleAns
                     padding: 2,
                     borderRadius: 5,
                 }}
-                labelStyle={{fontSize: 20, fontWeight: 'bold', color: 'white'}}
+                labelStyle={{fontSize: 17 / fontScale, fontWeight: 'bold', color: 'white'}}
                 selectedId={selectedId}
                 layout="row"
             />

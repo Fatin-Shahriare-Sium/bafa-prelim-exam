@@ -553,147 +553,554 @@
             "answer": {"optionId": 2}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 51,
+            "question": "HOSEURLD  –  name of a part of body.Last letter?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "H"},
+                {"id": 2, "label": "O"},
+                {"id": 3, "label": "S"},
+                {"id": 4, "label": "R"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 52,
+            "question": "What is the opposite word of “AWKWARD",
+            "option": [
+                {"id": 1, "label": "Experienced"},
+                {"id": 2, "label": "Skillful"},
+                {"id": 3, "label": "Perfect"},
+                {"id": 4, "label": "None"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 53,
+            "question": "3,7,15,31,63,---,---?",
+            "option": [
+                {"id": 1, "label": "126,250"},
+                {"id": 2, "label": "127,254"},
+                {"id": 3, "label": "255,254"},
+                {"id": 4, "label": "127,255"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 54,
+            "question": "BCD = YXW, EHK =?",
+            "option": [
+                {"id": 1, "label": "VSP"},
+                {"id": 2, "label": "VPS"},
+                {"id": 3, "label": "VQP"},
+                {"id": 4, "label": "VIP"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 55,
+            "question": "DEF = WVU, JDA =?",
+            "option": [
+                {"id": 1, "label": "QWZ"},
+                {"id": 2, "label": "QWS"},
+                {"id": 3, "label": "QSW"},
+                {"id": 4, "label": "WSQ"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 56,
+            "question": "CEG = XVT, MJI =?",
+            "option": [
+                {"id": 1, "label": "NQR"},
+                {"id": 2, "label": "NRQ"},
+                {"id": 3, "label": "NPS"},
+                {"id": 4, "label": "SQR"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 57,
+            "question": "HIJK = SRQP, ACFH =?",
+            "option": [
+                {"id": 1, "label": "ZYUS"},
+                {"id": 2, "label": "ZXSU"},
+                {"id": 3, "label": "YXUS"},
+                {"id": 4, "label": "ZXUS"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 58,
+            "question": "DAMPA – name of a river. Write the last letter",
+            "option": [
+                {"id": 1, "label": "D"},
+                {"id": 2, "label": "A"},
+                {"id": 3, "label": "M"},
+                {"id": 4, "label": "P"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 59,
+            "question": "Man is to walking as snail is to ----------?",
+            "option": [
+                {"id": 1, "label": "Walking"},
+                {"id": 2, "label": "Creeping"},
+                {"id": 3, "label": "Lying"},
+                {"id": 4, "label": "Slow"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 60,
+            "question": "RISTW – part of a body. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "W"},
+                {"id": 2, "label": "R"},
+                {"id": 3, "label": "S"},
+                {"id": 4, "label": "T"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 61,
+            "question": "HIL =SRO, MNC =?",
+            "option": [
+                {"id": 1, "label": "XWF"},
+                {"id": 2, "label": "NXM"},
+                {"id": 3, "label": "NMP"},
+                {"id": 4, "label": "PNM"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 62,
+            "question": "A fair only the brave deserves.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "NONE"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 63,
+            "question": "What is the opposite word of “WIDE”",
+            "option": [
+                {"id": 1, "label": "Spread"},
+                {"id": 2, "label": "Big"},
+                {"id": 3, "label": "High"},
+                {"id": 4, "label": "Narrow"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 64,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "KHULNA"},
+                {"id": 2, "label": "DHAKA"},
+                {"id": 3, "label": "CHITTAGONG"},
+                {"id": 4, "label": "BOGRA."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 65,
+            "question": "Boy is to mother as girl is to ---------?",
+            "option": [
+                {"id": 1, "label": "Daughter"},
+                {"id": 2, "label": "Son"},
+                {"id": 3, "label": "Mother"},
+                {"id": 4, "label": "Father"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 66,
+            "question": "ABC = ZYX, JKL =?",
+            "option": [
+                {"id": 1, "label": "QPO"},
+                {"id": 2, "label": "QPC"},
+                {"id": 3, "label": "QCP"},
+                {"id": 4, "label": "CPQ"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 67,
+            "question": "PQR = KJI, QDC =?",
+            "option": [
+                {"id": 1, "label": "LWT"},
+                {"id": 2, "label": "KXW"},
+                {"id": 3, "label": "WXK"},
+                {"id": 4, "label": "XKW"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 68,
+            "question": "End both the on candle burns.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "none"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 69,
+            "question": "1,1,4,16,7,49,---,---?",
+            "option": [
+                {"id": 1, "label": "11, 121"},
+                {"id": 2, "label": "12, 144"},
+                {"id": 3, "label": "10, 100"},
+                {"id": 4, "label": "9,81"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 70,
+            "question": "What is the opposite word of “ADVERSITY",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "Poverty"},
+                {"id": 2, "label": "Property"},
+                {"id": 3, "label": "Prosperity"},
+                {"id": 4, "label": "Week"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 71,
+            "question": "Find the odd.",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "BANGLADESH"},
+                {"id": 2, "label": "NDIA"},
+                {"id": 3, "label": "NEPAL"},
+                {"id": 4, "label": "BURMA"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 72,
+            "question": "8,10,14,20,---,38,50,64?",
+            "option": [
+                {"id": 1, "label": "20"},
+                {"id": 2, "label": "22"},
+                {"id": 3, "label": "24"},
+                {"id": 4, "label": "28"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 73,
+            "question": "As darkness is to light so, ignorance is to ----?",
+            "option": [
+                {"id": 1, "label": "wisdom"},
+                {"id": 2, "label": "Education"},
+                {"id": 3, "label": "knowledge"},
+                {"id": 4, "label": ""}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 74,
+            "question": "Automobile is to wheel as horse is to ----?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "hand"},
+                {"id": 2, "label": "leg"},
+                {"id": 3, "label": "wheel"},
+                {"id": 4, "label": "fool"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 75,
+            "question": "Fly cow can",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 76,
+            "question": "The of shape earth triangle is the",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 77,
+            "question": "ADG = KNQ, TWZ =?",
+            "option": [
+                {"id": 1, "label": "DGJ"},
+                {"id": 2, "label": "GDJ"},
+                {"id": 3, "label": "DJG"},
+                {"id": 4, "label": "GDG"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 78,
+            "question": "“MRALIAH” – name of a furniture. Write the last letter",
+            "option": [
+                {"id": 1, "label": "A"},
+                {"id": 2, "label": "L"},
+                {"id": 3, "label": "R"},
+                {"id": 4, "label": "H"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 79,
+            "question": "Multiply 2 by 6 then divide by it by 3. write the number",
+            "option": [
+                {"id": 1, "label": "2"},
+                {"id": 2, "label": "3"},
+                {"id": 3, "label": "4"},
+                {"id": 4, "label": "5"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 80,
+            "question": "Failure is to laziness as success is to ……?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "Prosperity"},
+                {"id": 2, "label": "happiness"},
+                {"id": 3, "label": "Hard work"},
+                {"id": 4, "label": "None"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 81,
+            "question": "“AESBIRI”  name of a place in Russia. Write the last letter.",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "A"},
+                {"id": 2, "label": "I"},
+                {"id": 3, "label": "S"},
+                {"id": 4, "label": "B"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 82,
+            "question": "Bangladesh is in the of Africa continent",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "NONE"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 83,
+            "question": "WHKA” name of a bird. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "w"},
+                {"id": 2, "label": "h"},
+                {"id": 3, "label": "k"},
+                {"id": 4, "label": "a"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 84,
+            "question": "1,3,5,7,9,---,------?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "10,12"},
+                {"id": 2, "label": "11,14"},
+                {"id": 3, "label": "13,11"},
+                {"id": 4, "label": "11,13"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 85,
+            "question": "9,1,10,2,11,---,---?",
+            "option": [
+                {"id": 1, "label": "3,10"},
+                {"id": 2, "label": "2,12"},
+                {"id": 3, "label": "3,9"},
+                {"id": 4, "label": "3,12"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 86,
+            "question": "3,9,6,6,9,---,------?",
+            "option": [
+                {"id": 1, "label": "10,12"},
+                {"id": 2, "label": "11,12"},
+                {"id": 3, "label": "3,12"},
+                {"id": 4, "label": "8,12"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 87,
+            "question": "DHK = LQS, TXB =?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "BGJ"},
+                {"id": 2, "label": "ABD"},
+                {"id": 3, "label": "DER"},
+                {"id": 4, "label": "GER"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 88,
+            "question": "Antonym of Good is --------------------?",
+            "option": [
+                {"id": 1, "label": "Worse"},
+                {"id": 2, "label": "Unwell"},
+                {"id": 3, "label": "bad"},
+                {"id": 4, "label": "None"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 89,
+            "question": "Antonym of sympathy is ---------------?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "Synonym"},
+                {"id": 2, "label": "Antipathy"},
+                {"id": 3, "label": "Analogy"},
+                {"id": 4, "label": "None"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 90,
+            "question": "ARMY is to LAND as NAVY is to ----?",
+            "option": [
+                {"id": 1, "label": "Water"},
+                {"id": 2, "label": "Sea"},
+                {"id": 3, "label": "Ocean"},
+                {"id": 4, "label": "River"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 91,
+            "question": "Capital USA the of is MOSCOW.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 92,
+            "question": "“LPNECI” name of a writing instrument. write the last letter",
+            "option": [
+                {"id": 1, "label": "P"},
+                {"id": 2, "label": "E"},
+                {"id": 3, "label": "N"},
+                {"id": 4, "label": "L"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 93,
+            "question": "Close is to Disclose as Invisible is to --?",
+            "option": [
+                {"id": 1, "label": " Imaginary"},
+                {"id": 2, "label": "Dark"},
+                {"id": 3, "label": "Visible"},
+                {"id": 4, "label": "None"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 94,
+            "question": "7,14,21,28,35,--,--?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "42,49"},
+                {"id": 2, "label": "40,48"},
+                {"id": 3, "label": "44,49"},
+                {"id": 4, "label": "None"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 95,
+            "question": "“UPAAAKTLHI” – name of a district. write the last letter.",
+            "option": [
+                {"id": 1, "label": "P"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "K"},
+                {"id": 4, "label": "I"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 96,
+            "question": "'HSBAIAPTKAANM” –  is in INDIA. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "S"},
+                {"id": 2, "label": "B"},
+                {"id": 3, "label": "L"},
+                {"id": 4, "label": "M"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 97,
+            "question": "“OUEGTN” –  name of a organ. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "O"},
+                {"id": 3, "label": "N"},
+                {"id": 4, "label": "E"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 98,
+            "question": "The rises the in sun west.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 99,
+            "question": "January is to July as February is to ----? ",
+            "option": [
+                {"id": 1, "label": "March"},
+                {"id": 2, "label": "JUNE"},
+                {"id": 3, "label": "August"},
+                {"id": 4, "label": "September"}
             ],
             "answer": {"optionId": 3}
         },
         {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
+            "no": 100,
+            "question": "Top is to Pot as YLF  is to ----->?",
             "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
+                {"id": 1, "label": "LYF"},
+                {"id": 2, "label": "YFL"},
+                {"id": 3, "label": "LFY"},
+                {"id": 4, "label": "FLY"}
             ],
-            "answer": {"optionId": 3}
-        },
-        {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
-            "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
-            ],
-            "answer": {"optionId": 3}
-        },
-        {
-            "no": 30,
-            "question": "NPO = RTS, HJI =?",
-            "option": [
-                {"id": 1, "label": "LNM"},
-                {"id": 2, "label": "LMN"},
-                {"id": 3, "label": "MNL"},
-                {"id": 4, "label": "MLN"}
-            ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         }
     ]
 }
