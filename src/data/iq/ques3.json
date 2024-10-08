@@ -11,7 +11,7 @@
                 {"id": 3, "label": "Grass"},
                 {"id": 4, "label": "Bench"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 2,
@@ -22,7 +22,7 @@
                 {"id": 3, "label": "Moon"},
                 {"id": 4, "label": "Pluto"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 3,
@@ -33,7 +33,7 @@
                 {"id": 3, "label": "Tiger"},
                 {"id": 4, "label": "Sparrow"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 4,
@@ -44,7 +44,7 @@
                 {"id": 3, "label": "German"},
                 {"id": 4, "label": "Sanskrit"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 5,
@@ -66,7 +66,7 @@
                 {"id": 3, "label": "Oxygen"},
                 {"id": 4, "label": "Sodium"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 7,
@@ -77,7 +77,7 @@
                 {"id": 3, "label": "Decentry"},
                 {"id": 4, "label": "Marigold"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 8,
@@ -88,7 +88,7 @@
                 {"id": 3, "label": "Parrot"},
                 {"id": 4, "label": "Vulture"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 9,
@@ -99,7 +99,7 @@
                 {"id": 3, "label": "Camel"},
                 {"id": 4, "label": "Zebra"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 10,
@@ -110,7 +110,7 @@
                 {"id": 3, "label": "Beethoven"},
                 {"id": 4, "label": "Mozart"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 11,
@@ -121,7 +121,7 @@
                 {"id": 3, "label": "Tagore"},
                 {"id": 4, "label": "Hegel"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 12,
@@ -132,7 +132,7 @@
                 {"id": 3, "label": "Apple"},
                 {"id": 4, "label": "Carnation"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 13,
@@ -143,7 +143,7 @@
                 {"id": 3, "label": "Pansy"},
                 {"id": 4, "label": "Rose"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 14,
@@ -154,7 +154,7 @@
                 {"id": 3, "label": "Hockey"},
                 {"id": 4, "label": "Football"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 15,
@@ -176,7 +176,7 @@
                 {"id": 3, "label": "Bulldog"},
                 {"id": 4, "label": "Pekiness"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 17,
@@ -209,7 +209,7 @@
                 {"id": 3, "label": "Ink"},
                 {"id": 4, "label": "Pencil"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 20,
@@ -242,7 +242,7 @@
                 {"id": 3, "label": "Blue"},
                 {"id": 4, "label": "Black"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 23,
@@ -253,7 +253,7 @@
                 {"id": 3, "label": "Jaguar"},
                 {"id": 4, "label": "Sloth"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 24,
@@ -286,7 +286,7 @@
                 {"id": 3, "label": "20,22"},
                 {"id": 4, "label": "19,22"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 27,
@@ -297,7 +297,7 @@
                 {"id": 3, "label": "7,70"},
                 {"id": 4, "label": "100,10"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 28,
@@ -308,7 +308,7 @@
                 {"id": 3, "label": "6,16"},
                 {"id": 4, "label": "7,16"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 29,
@@ -317,9 +317,9 @@
                 {"id": 1, "label": "8,64"},
                 {"id": 2, "label": "9,81"},
                 {"id": 3, "label": "7,49"},
-                {"id": 4, "label": "11,121"}
+                {"id": 4, "label": "10,100"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 30,
@@ -330,7 +330,7 @@
                 {"id": 3, "label": "121,168"},
                 {"id": 4, "label": "121,169"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 31,
@@ -341,7 +341,7 @@
                 {"id": 3, "label": "100,105"},
                 {"id": 4, "label": "95,85"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 32,
@@ -352,7 +352,7 @@
                 {"id": 3, "label": "25,225"},
                 {"id": 4, "label": "15,315"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 33,
@@ -363,7 +363,7 @@
                 {"id": 3, "label": "60,55"},
                 {"id": 4, "label": "60,65"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 34,
@@ -372,9 +372,9 @@
                 {"id": 1, "label": "200,220"},
                 {"id": 2, "label": "150,30"},
                 {"id": 3, "label": "150,250"},
-                {"id": 4, "label": "300,420"}
+                {"id": 4, "label": "320,640"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 35,
@@ -383,9 +383,9 @@
                 {"id": 1, "label": "55,150"},
                 {"id": 2, "label": "44,144"},
                 {"id": 3, "label": "55,130"},
-                {"id": 4, "label": "56,150"}
+                {"id": 4, "label": "66,130"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 36,
@@ -396,7 +396,7 @@
                 {"id": 3, "label": "7,14"},
                 {"id": 4, "label": "3,8"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 37,
@@ -418,7 +418,7 @@
                 {"id": 3, "label": "4,40"},
                 {"id": 4, "label": "3,70"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 39,
@@ -440,7 +440,7 @@
                 {"id": 3, "label": "70,28"},
                 {"id": 4, "label": "70,7"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 41,
@@ -451,7 +451,7 @@
                 {"id": 3, "label": "68,55"},
                 {"id": 4, "label": "58,98"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 42,
@@ -471,9 +471,9 @@
                 {"id": 1, "label": "12,20"},
                 {"id": 2, "label": "12,24"},
                 {"id": 3, "label": "7,49"},
-                {"id": 4, "label": "0,10"}
+                {"id": 4, "label": "0,0"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 44,
@@ -484,7 +484,7 @@
                 {"id": 3, "label": "blue"},
                 {"id": 4, "label": "color"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 45,
@@ -495,7 +495,7 @@
                 {"id": 3, "label": "book"},
                 {"id": 4, "label": "scissor"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 46,
@@ -506,7 +506,7 @@
                 {"id": 3, "label": "LNOP"},
                 {"id": 4, "label": "QSTU"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 47,
@@ -528,7 +528,7 @@
                 {"id": 3, "label": "Bible"},
                 {"id": 4, "label": "Vedas"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 49,
@@ -537,9 +537,9 @@
                 {"id": 1, "label": "T"},
                 {"id": 2, "label": "W"},
                 {"id": 3, "label": "A"},
-                {"id": 4, "label": "E"}
+                {"id": 4, "label": "R"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 50,
@@ -550,7 +550,7 @@
                 {"id": 3, "label": "U"},
                 {"id": 4, "label": "R"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 51,
@@ -561,7 +561,7 @@
                 {"id": 3, "label": "A"},
                 {"id": 4, "label": "R"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 52,
@@ -572,7 +572,7 @@
                 {"id": 3, "label": "R"},
                 {"id": 4, "label": "O"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 53,
@@ -583,7 +583,7 @@
                 {"id": 3, "label": "C"},
                 {"id": 4, "label": "N"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 54,
@@ -594,7 +594,7 @@
                 {"id": 3, "label": "H"},
                 {"id": 4, "label": "R"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 55,
@@ -605,7 +605,7 @@
                 {"id": 3, "label": "S"},
                 {"id": 4, "label": "Y"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 56,
@@ -614,9 +614,9 @@
                 {"id": 1, "label": "2,6"},
                 {"id": 2, "label": "3,6"},
                 {"id": 3, "label": "4,7"},
-                {"id": 4, "label": "3,9"}
+                {"id": 4, "label": "3,7"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 57,
@@ -627,7 +627,7 @@
                 {"id": 3, "label": "48,78"},
                 {"id": 4, "label": "29,58"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 58,
@@ -638,7 +638,7 @@
                 {"id": 3, "label": "75,225"},
                 {"id": 4, "label": "84,100"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 59,
@@ -649,7 +649,7 @@
                 {"id": 3, "label": "33,64"},
                 {"id": 4, "label": "33,65"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 60,
@@ -671,7 +671,7 @@
                 {"id": 3, "label": "T"},
                 {"id": 4, "label": "K"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 62,
@@ -682,7 +682,7 @@
                 {"id": 3, "label": "T"},
                 {"id": 4, "label": "E"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 63,
@@ -693,7 +693,7 @@
                 {"id": 3, "label": "T"},
                 {"id": 4, "label": "A"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 64,
@@ -704,7 +704,7 @@
                 {"id": 3, "label": "N"},
                 {"id": 4, "label": "L"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 4}
         },
         {
             "no": 65,
@@ -715,7 +715,7 @@
                 {"id": 3, "label": "W"},
                 {"id": 4, "label": "F"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 66,
@@ -737,7 +737,7 @@
                 {"id": 3, "label": "K"},
                 {"id": 4, "label": "T"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 68,
@@ -748,7 +748,7 @@
                 {"id": 3, "label": "TPR"},
                 {"id": 4, "label": "RTY"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 69,
@@ -759,7 +759,7 @@
                 {"id": 3, "label": "USC"},
                 {"id": 4, "label": "TDE"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 70,
@@ -770,7 +770,7 @@
                 {"id": 3, "label": "BUY"},
                 {"id": 4, "label": "KIP"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 71,
@@ -781,7 +781,7 @@
                 {"id": 3, "label": "PIT"},
                 {"id": 4, "label": "YWX"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 1}
         },
         {
             "no": 72,
@@ -792,7 +792,7 @@
                 {"id": 3, "label": "JGO"},
                 {"id": 4, "label": "DJG"}
             ],
-            "answer": {"optionId": 3}
+            "answer": {"optionId": 2}
         },
         {
             "no": 73,
@@ -824,6 +824,281 @@
                 {"id": 2, "label": "A"},
                 {"id": 3, "label": "P"},
                 {"id": 4, "label": "M"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 76,
+            "question": "as darkness is to light so ignorance is to ---",
+            "option": [
+                {"id": 1, "label": "Light"},
+                {"id": 2, "label": "Knowledge"},
+                {"id": 3, "label": "Education"},
+                {"id": 4, "label": "Power"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 77,
+            "question": "C,D,F,G,S,--,--",
+            "option": [
+                {"id": 1, "label": "U"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "V"},
+                {"id": 4, "label": "X"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 78,
+            "question": "AHDDEJ name of a port. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "A"},
+                {"id": 2, "label": "H"},
+                {"id": 3, "label": "J"},
+                {"id": 4, "label": "E"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 79,
+            "question": " RLEISQRU name of an animal. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "S"},
+                {"id": 2, "label": "U"},
+                {"id": 3, "label": "Q"},
+                {"id": 4, "label": "L"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 80,
+            "question": "Sports man is to sports so scholar is to --",
+            "option": [
+                {"id": 1, "label": "Education"},
+                {"id": 2, "label": "Writing"},
+                {"id": 3, "label": "Reading"},
+                {"id": 4, "label": "Knowledge"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 81,
+            "question": "If MAN is to NBO then NIB is to --",
+            "option": [
+                {"id": 1, "label": "NLC"},
+                {"id": 2, "label": "MLO"},
+                {"id": 3, "label": "MNO"},
+                {"id": 4, "label": "OJC"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 82,
+            "question": "If dog is to FQI then CAN is to --",
+            "option": [
+                {"id": 1, "label": "EFP"},
+                {"id": 2, "label": "ECB"},
+                {"id": 3, "label": "ECP"},
+                {"id": 4, "label": "EFG"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 83,
+            "question": "as food is to eating as news paper is to",
+            "option": [
+                {"id": 1, "label": "Writing"},
+                {"id": 2, "label": "Reading"},
+                {"id": 3, "label": "News"},
+                {"id": 4, "label": "Paper"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 84,
+            "question": " Car is to driver as aero plane is to --",
+            "option": [
+                {"id": 1, "label": "Airman"},
+                {"id": 2, "label": "Pilot"},
+                {"id": 3, "label": "Driver"},
+                {"id": 4, "label": "Flight"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 85,
+            "question": "high is to low as sky is to --",
+            "option": [
+                {"id": 1, "label": "High"},
+                {"id": 2, "label": "Blue"},
+                {"id": 3, "label": "Cloud"},
+                {"id": 4, "label": "Ground"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 86,
+            "question": "If TWO is to RUM as ONE is to",
+            "option": [
+                {"id": 1, "label": "MNL"},
+                {"id": 2, "label": "MCL"},
+                {"id": 3, "label": "NLC"},
+                {"id": 4, "label": "MLC"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 87,
+            "question": " as cold is to winter so heat is to",
+            "option": [
+                {"id": 1, "label": "Spring"},
+                {"id": 2, "label": "Autumn"},
+                {"id": 3, "label": "Winter"},
+                {"id": 4, "label": "Summer"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 88,
+            "question": "wings can fast have because they horses run.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 89,
+            "question": "black blood runs in.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 90,
+            "question": "add 4 to 6 then multiply by 2 if the result is more than 8 write 4 other wise 3.",
+            "option": [
+                {"id": 1, "label": "3"},
+                {"id": 2, "label": "4"},
+                {"id": 3, "label": "2"},
+                {"id": 4, "label": "1"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 91,
+            "question": "if A runs less faster than B and B runs as fast but not faster than C then is C faster or slower than A? ",
+            "option": [
+                {"id": 1, "label": "faster"},
+                {"id": 2, "label": "slower"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "very slow"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 92,
+            "question": " ILO head quarter is in Geneva, Paris.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 93,
+            "question": "UN established in 1945.",
+            "option": [
+                {"id": 1, "label": "F"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 94,
+            "question": " la past (Bolivia) is the highest capital city",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 95,
+            "question": "sailor is to soldier as navy is to -",
+            "option": [
+                {"id": 1, "label": "Air force"},
+                {"id": 2, "label": "Seaman"},
+                {"id": 3, "label": "Soldier"},
+                {"id": 4, "label": "Army"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 96,
+            "question": " sheep is to mutton as pig is to -",
+            "option": [
+                {"id": 1, "label": "Beat"},
+                {"id": 2, "label": "Meat"},
+                {"id": 3, "label": "Pork"},
+                {"id": 4, "label": "Porris"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 97,
+            "question": "an electric train is running as the speed of 50miles an hour from Dhaka to Chittagong. A strong wind was blowing in the opposite direction. Would the smoke of the train be blown?",
+            "option": [
+                {"id": 1, "label": "Opposite direction "},
+                {"id": 2, "label": "Yes"},
+                {"id": 3, "label": "No"},
+                {"id": 4, "label": "Right"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 98,
+            "question": "Supposing you are driving a car towards north at the speed of 500 miles per hour for other 2 hours, what is the age of driver? ",
+            "option": [
+                {"id": 1, "label": "15"},
+                {"id": 2, "label": "20"},
+                {"id": 3, "label": "your age"},
+                {"id": 4, "label": "25"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 99,
+            "question": "9, 6, 12, 6, 15, 6, - -, --?",
+            "option": [
+                {"id": 1, "label": "9,6"},
+                {"id": 2, "label": "18,6"},
+                {"id": 3, "label": "18,7"},
+                {"id": 4, "label": "18,9"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 100,
+            "question": "18, 10, 6, 4,- - , - - ? ",
+            "option": [
+                {"id": 1, "label": "2,2"},
+                {"id": 2, "label": "3,50"},
+                {"id": 3, "label": "3,2.5"},
+                {"id": 4, "label": "3,1.5"}
             ],
             "answer": {"optionId": 3}
         }
