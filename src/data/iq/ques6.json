@@ -1,0 +1,556 @@
+{
+    "questionName": "IQ Set 6",
+    "questionID": "IQ Set 6",
+    "allQuestions": [
+        {
+            "no": 1,
+            "question": "2,6,5,9,8,12,--,--??",
+            "option": [
+                {"id": 1, "label": "13,17"},
+                {"id": 2, "label": "11,15"},
+                {"id": 3, "label": "21,25"},
+                {"id": 4, "label": "15,10"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 2,
+            "question": "5,2,5,4,5,16,--,-- ",
+            "option": [
+                {"id": 1, "label": "5,256"},
+                {"id": 2, "label": "255,5"},
+                {"id": 3, "label": "25,300"},
+                {"id": 4, "label": "300,25"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 3,
+            "question": "OCFEFE name of a drink. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "C"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "E"},
+                {"id": 4, "label": "G"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 4,
+            "question": "48,45,40,33,24,--,--",
+            "option": [
+                {"id": 1, "label": "12,0"},
+                {"id": 2, "label": "11,0"},
+                {"id": 3, "label": "15,0"},
+                {"id": 4, "label": "13,0"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 5,
+            "question": "5,8,16,19,38,41,-,-",
+            "option": [
+                {"id": 1, "label": "85,82"},
+                {"id": 2, "label": "82,85"},
+                {"id": 3, "label": "80,86"},
+                {"id": 4, "label": "81,80"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 6,
+            "question": "87,73,61,51,--,-- ",
+            "option": [
+                {"id": 1, "label": "36,43"},
+                {"id": 2, "label": "37,43"},
+                {"id": 3, "label": "37,42"},
+                {"id": 4, "label": "37,40"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 7,
+            "question": "ENTORKOAN name of a district. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "A"},
+                {"id": 2, "label": "E"},
+                {"id": 3, "label": "O"},
+                {"id": 4, "label": "N"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 8,
+            "question": "ENTOUG name of an organ. Write the last letter. ",
+            "option": [
+                {"id": 1, "label": "G"},
+                {"id": 2, "label": "N"},
+                {"id": 3, "label": "E"},
+                {"id": 4, "label": "I"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 9,
+            "question": "3,7,14,18,36,40,--,--",
+            "option": [
+                {"id": 1, "label": "84,80"},
+                {"id": 2, "label": "82,80"},
+                {"id": 3, "label": "84,38"},
+                {"id": 4, "label": "80,84"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 10,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "iron"},
+                {"id": 2, "label": "brass"},
+                {"id": 3, "label": "copper"},
+                {"id": 4, "label": "tin"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 11,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "zuhor"},
+                {"id": 2, "label": "asor"},
+                {"id": 3, "label": "betar"},
+                {"id": 4, "label": "magrib"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 12,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Socrates"},
+                {"id": 2, "label": "Tagore"},
+                {"id": 3, "label": "Hitler"},
+                {"id": 4, "label": "Tolstoy"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 13,
+            "question": "1,4,12,15,45,48,--,--??",
+            "option": [
+                {"id": 1, "label": "141,144"},
+                {"id": 2, "label": "144,147"},
+                {"id": 3, "label": "146,144"},
+                {"id": 4, "label": "143,145"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 14,
+            "question": "2,5,9,14,20,27,--,--??",
+            "option": [
+                {"id": 1, "label": "35,44"},
+                {"id": 2, "label": "45,35"},
+                {"id": 3, "label": "44,35"},
+                {"id": 4, "label": "42,37"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 15,
+            "question": "5,20,6,24,7,28,--,--??",
+            "option": [
+                {"id": 1, "label": "7,32"},
+                {"id": 2, "label": "8,32"},
+                {"id": 3, "label": "9,32"},
+                {"id": 4, "label": "8,34"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 16,
+            "question": "44,35,27,20,14,--,--??",
+            "option": [
+                {"id": 1, "label": "4,5"},
+                {"id": 2, "label": "9,4"},
+                {"id": 3, "label": "8,5"},
+                {"id": 4, "label": "9,5"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 17,
+            "question": "build is to break as tight is to --",
+            "option": [
+                {"id": 1, "label": "Lose"},
+                {"id": 2, "label": "Loose"},
+                {"id": 3, "label": "Hard"},
+                {"id": 4, "label": "Soft"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 18,
+            "question": "NAMSBHIAAKPTA part of a India. write the last letter.",
+            "option": [
+                {"id": 1, "label": "A"},
+                {"id": 2, "label": "P"},
+                {"id": 3, "label": "M"},
+                {"id": 4, "label": "N"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 19,
+            "question": "finger is to ring as ear is to --",
+            "option": [
+                {"id": 1, "label": "Sound"},
+                {"id": 2, "label": "Wake"},
+                {"id": 3, "label": "Earring"},
+                {"id": 4, "label": "Deaf"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 20,
+            "question": "hero is to heroine as villain is to --",
+            "option": [
+                {"id": 1, "label": "Villain"},
+                {"id": 2, "label": "Actor"},
+                {"id": 3, "label": "Vamp"},
+                {"id": 4, "label": "Villains"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 21,
+            "question": "shine is to sun as rain is to -- ",
+            "option": [
+                {"id": 1, "label": "Moon"},
+                {"id": 2, "label": "Sky"},
+                {"id": 3, "label": "Water"},
+                {"id": 4, "label": "Cloud"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 22,
+            "question": "BALL = SORT, FINE =? ",
+            "option": [
+                {"id": 1, "label": "WWTM"},
+                {"id": 2, "label": "WTWM"},
+                {"id": 3, "label": "WMTW"},
+                {"id": 4, "label": "WWE"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 23,
+            "question": "SKY = CRY, FAT =?",
+            "option": [
+                {"id": 1, "label": "PTH"},
+                {"id": 2, "label": "PHT"},
+                {"id": 3, "label": "TPH"},
+                {"id": 4, "label": "PKH"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 24,
+            "question": "BIV=NTP, YPZ =?",
+            "option": [
+                {"id": 1, "label": "TPK"},
+                {"id": 2, "label": "KTP"},
+                {"id": 3, "label": "KPT"},
+                {"id": 4, "label": "KOT"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 25,
+            "question": "what is the opposite word of antonym.",
+            "option": [
+                {"id": 1, "label": "Antic"},
+                {"id": 2, "label": "Antonymous"},
+                {"id": 3, "label": "Anatomy"},
+                {"id": 4, "label": "Synonym"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 26,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 27,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 28,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 29,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 30,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 31,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 32,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 33,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 34,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 35,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 36,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 37,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 38,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 39,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 40,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 41,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 42,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 43,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 44,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 45,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 46,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 47,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 48,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 49,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 50,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 3}
+        }
+    ]
+}
