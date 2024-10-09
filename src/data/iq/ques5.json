@@ -1,0 +1,1106 @@
+{
+    "questionName": "IQ Set 5",
+    "questionID": "IQ Set 5",
+    "allQuestions": [
+        {
+            "no": 1,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Chair"},
+                {"id": 2, "label": "Table"},
+                {"id": 3, "label": "Grass"},
+                {"id": 4, "label": "Bench"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 2,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Neptune"},
+                {"id": 2, "label": "Earth"},
+                {"id": 3, "label": "Moon"},
+                {"id": 4, "label": "Pluto"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 3,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Cow"},
+                {"id": 2, "label": "Dog"},
+                {"id": 3, "label": "Tiger"},
+                {"id": 4, "label": "Sparrow"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 4,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "English"},
+                {"id": 2, "label": "French"},
+                {"id": 3, "label": "German"},
+                {"id": 4, "label": "Sanskrit"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 5,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Moscow"},
+                {"id": 2, "label": "Riyadh"},
+                {"id": 3, "label": "New York"},
+                {"id": 4, "label": "New Delhi"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 6,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Carbon"},
+                {"id": 2, "label": "Helium"},
+                {"id": 3, "label": "Oxygen"},
+                {"id": 4, "label": "Sodium"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 7,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Influenza"},
+                {"id": 2, "label": "Diphtheria"},
+                {"id": 3, "label": "Decentry"},
+                {"id": 4, "label": "Marigold"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 8,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Bat"},
+                {"id": 2, "label": "Crow"},
+                {"id": 3, "label": "Parrot"},
+                {"id": 4, "label": "Vulture"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 9,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Kangaroo"},
+                {"id": 2, "label": "Cow"},
+                {"id": 3, "label": "Camel"},
+                {"id": 4, "label": "Zebra"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 10,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Setha"},
+                {"id": 2, "label": "Chopin"},
+                {"id": 3, "label": "Beethoven"},
+                {"id": 4, "label": "Mozart"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 11,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Socrates"},
+                {"id": 2, "label": "Hitler"},
+                {"id": 3, "label": "Tagore"},
+                {"id": 4, "label": "Hegel"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 12,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Mango"},
+                {"id": 2, "label": "Guava"},
+                {"id": 3, "label": "Apple"},
+                {"id": 4, "label": "Carnation"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 13,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Sunflower"},
+                {"id": 2, "label": "Cauliflower"},
+                {"id": 3, "label": "Pansy"},
+                {"id": 4, "label": "Rose"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 14,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Chess"},
+                {"id": 2, "label": "Tennis"},
+                {"id": 3, "label": "Hockey"},
+                {"id": 4, "label": "Football"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 15,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Boxing"},
+                {"id": 2, "label": "Golf"},
+                {"id": 3, "label": "Swimming"},
+                {"id": 4, "label": "Rugby"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 16,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Alsatian"},
+                {"id": 2, "label": "Mastiff"},
+                {"id": 3, "label": "Bulldog"},
+                {"id": 4, "label": "Pekiness"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 17,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Kenya"},
+                {"id": 2, "label": "Morocco"},
+                {"id": 3, "label": "Thailand"},
+                {"id": 4, "label": "Sudan"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 18,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Srilanka"},
+                {"id": 2, "label": "Malagasy"},
+                {"id": 3, "label": "Afganistan"},
+                {"id": 4, "label": "New Zealand"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 19,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Plant"},
+                {"id": 2, "label": "Paper"},
+                {"id": 3, "label": "Ink"},
+                {"id": 4, "label": "Pencil"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 20,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "nine"},
+                {"id": 2, "label": "seven"},
+                {"id": 3, "label": "ten"},
+                {"id": 4, "label": "five"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 21,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Harmonium"},
+                {"id": 2, "label": "Flute"},
+                {"id": 3, "label": "Gramophone"},
+                {"id": 4, "label": "Piano"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 22,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Brown"},
+                {"id": 2, "label": "Box"},
+                {"id": 3, "label": "Blue"},
+                {"id": 4, "label": "Black"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 23,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Ibex"},
+                {"id": 2, "label": "Walrus"},
+                {"id": 3, "label": "Jaguar"},
+                {"id": 4, "label": "Sloth"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 24,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "Rupee"},
+                {"id": 2, "label": "Taka"},
+                {"id": 3, "label": "Pint"},
+                {"id": 4, "label": "Yen"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 25,
+            "question": "Find the odd.",
+            "option": [
+                {"id": 1, "label": "MAJOR"},
+                {"id": 2, "label": "Colonel"},
+                {"id": 3, "label": "Commodore"},
+                {"id": 4, "label": "General"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 26,
+            "question": "LTD = PQN, NTY =?",
+            "option": [
+                {"id": 1, "label": "OQO"},
+                {"id": 2, "label": "OQT"},
+                {"id": 3, "label": "RQI"},
+                {"id": 4, "label": "IQR"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 27,
+            "question": "What is the opposite word of “COMEDY” ?",
+            "option": [
+                {"id": 1, "label": "TRAGEDY"},
+                {"id": 2, "label": "HAPPINESS"},
+                {"id": 3, "label": "SORROWNESS"},
+                {"id": 4, "label": "PAINFULL"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 28,
+            "question": "PVK = LTD, RNS =?",
+            "option": [
+                {"id": 1, "label": "NLL"},
+                {"id": 2, "label": "NKL"},
+                {"id": 3, "label": "LLN"},
+                {"id": 4, "label": "NEL"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 29,
+            "question": "3, 5, 8,12,17,23 =?",
+            "option": [
+                {"id": 1, "label": "38,30"},
+                {"id": 2, "label": "30,38"},
+                {"id": 3, "label": "42,45"},
+                {"id": 4, "label": "32,34"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 30,
+            "question": "5, 8, 13, 21,34,55,89 =?",
+            "option": [
+                {"id": 1, "label": "233,144"},
+                {"id": 2, "label": "144,233"},
+                {"id": 3, "label": "156,147"},
+                {"id": 4, "label": "150,145"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 31,
+            "question": "NUTOEG :-  name of a part of body. Fill the last letter.",
+            "option": [
+                {"id": 1, "label": "E"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "O"},
+                {"id": 4, "label": "N"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 32,
+            "question": "Yesterday is Today as Ancient is to =?",
+            "option": [
+                {"id": 1, "label": "PRESENT"},
+                {"id": 2, "label": "MODERN"},
+                {"id": 3, "label": "NEWLY"},
+                {"id": 4, "label": "PAST"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 33,
+            "question": "4, 6, 12, 14,28,30,60 =?",
+            "option": [
+                {"id": 1, "label": "62,124"},
+                {"id": 2, "label": "124,64"},
+                {"id": 3, "label": "58,125"},
+                {"id": 4, "label": "124,65"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 34,
+            "question": "YPZ = XYZ, DEF =?",
+            "option": [
+                {"id": 1, "label": "NCF"},
+                {"id": 2, "label": "CNF"},
+                {"id": 3, "label": "CFN"},
+                {"id": 4, "label": "NCN"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 35,
+            "question": "OQN = BDA, PRO =?",
+            "option": [
+                {"id": 1, "label": "BFC"},
+                {"id": 2, "label": "CEB"},
+                {"id": 3, "label": "CBE"},
+                {"id": 4, "label": "ECB"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 36,
+            "question": "RGEADG:-name of an instrument. Write the last letter",
+            "option": [
+                {"id": 1, "label": "R"},
+                {"id": 2, "label": "A"},
+                {"id": 3, "label": "G"},
+                {"id": 4, "label": "E"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 37,
+            "question": "6,9,8,11,12,15,20,23 =?",
+            "option": [
+                {"id": 1, "label": "36,39"},
+                {"id": 2, "label": "38,39"},
+                {"id": 3, "label": "35,36"},
+                {"id": 4, "label": "39,45"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 38,
+            "question": ". AIR FORCE is to NAVY as AIRMAN is to",
+            "option": [
+                {"id": 1, "label": "ARMY"},
+                {"id": 2, "label": "SOLDIER"},
+                {"id": 3, "label": "SEAMAN"},
+                {"id": 4, "label": "SAILOR"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 39,
+            "question": " 7, 14, 21,28,35,42 =?",
+            "option": [
+                {"id": 1, "label": "49,50"},
+                {"id": 2, "label": "50,46"},
+                {"id": 3, "label": "45,69"},
+                {"id": 4, "label": "56,49"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 40,
+            "question": "RICH is to WEALTHY as MARS is to --",
+            "option": [
+                {"id": 1, "label": "NEPTUNE"},
+                {"id": 2, "label": "VENUSIS"},
+                {"id": 3, "label": "EARTH"},
+                {"id": 4, "label": "PLUTO"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 41,
+            "question": "The doll lost her girl.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "NONE"},
+                {"id": 4, "label": "EITHER T OR F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 42,
+            "question": "ABC = ZYX, GIVV =?",
+            "option": [
+                {"id": 1, "label": "TREE"},
+                {"id": 2, "label": "TREK"},
+                {"id": 3, "label": "UREE"},
+                {"id": 4, "label": "REEK"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 43,
+            "question": "DEF = WVU, DHT =??",
+            "option": [
+                {"id": 1, "label": "WSG"},
+                {"id": 2, "label": "WSQ"},
+                {"id": 3, "label": "WGI"},
+                {"id": 4, "label": "WGV"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 44,
+            "question": "DEF = WVU, MPQ =?",
+            "option": [
+                {"id": 1, "label": "NKJ"},
+                {"id": 2, "label": "NKH"},
+                {"id": 3, "label": "MKH"},
+                {"id": 4, "label": "MKS"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 45,
+            "question": "RING is to FINGER as WATCH is to --?",
+            "option": [
+                {"id": 1, "label": "HAND"},
+                {"id": 2, "label": "FINGER"},
+                {"id": 3, "label": "WRIST"},
+                {"id": 4, "label": "PLUM"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 46,
+            "question": "MROASTAHRO – name of a District. Fill the last letter.",
+            "option": [
+                {"id": 1, "label": "M"},
+                {"id": 2, "label": "O"},
+                {"id": 3, "label": "S"},
+                {"id": 4, "label": "R"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 47,
+            "question": "What is the opposite word of “HEAVEN”",
+            "option": [
+                {"id": 1, "label": "BAD"},
+                {"id": 2, "label": "DEVIL"},
+                {"id": 3, "label": "GOOD"},
+                {"id": 4, "label": "HELL"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 48,
+            "question": "3, 9,5,25,8,64 =?---,---",
+            "option": [
+                {"id": 1, "label": "11,121"},
+                {"id": 2, "label": "10,100"},
+                {"id": 3, "label": "9,81"},
+                {"id": 4, "label": "12,144"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 49,
+            "question": "Tomorrow is to Yesterday as Sunday is to-",
+            "option": [
+                {"id": 1, "label": "SATURDAY"},
+                {"id": 2, "label": "FRIDAY"},
+                {"id": 3, "label": "MONDAY"},
+                {"id": 4, "label": "NONE"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 50,
+            "question": "LEYBL-part of a body. Fill the last letter",
+            "option": [
+                {"id": 1, "label": "L"},
+                {"id": 2, "label": "B"},
+                {"id": 3, "label": "E"},
+                {"id": 4, "label": "Y"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 51,
+            "question": "DEF = WVU, MPQ =?",
+            "option": [
+                {"id": 1, "label": "MKJ"},
+                {"id": 2, "label": "NKH"},
+                {"id": 3, "label": "MKH"},
+                {"id": 4, "label": "NKJ"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 52,
+            "question": "Light in travel line curved.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "NONE"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 53,
+            "question": "UKHPATAILA (Name of a district) write the last letter.",
+            "option": [
+                {"id": 1, "label": "P"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "U"},
+                {"id": 4, "label": "I"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 54,
+            "question": "ABC = ZYX, GIVV =?",
+            "option": [
+                {"id": 1, "label": "TREE"},
+                {"id": 2, "label": "TREK"},
+                {"id": 3, "label": "UREF"},
+                {"id": 4, "label": "KTFX"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 55,
+            "question": "Desert is to ocean as sand is to -?",
+            "option": [
+                {"id": 1, "label": "Levied"},
+                {"id": 2, "label": "Drink"},
+                {"id": 3, "label": "Water"},
+                {"id": 4, "label": "Wine"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 56,
+            "question": "3,3,6,4,4,8,5,5,10,6,6,12,---,---?",
+            "option": [
+                {"id": 1, "label": "7,7"},
+                {"id": 2, "label": "8,8"},
+                {"id": 3, "label": "9,9"},
+                {"id": 4, "label": "10,10"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 57,
+            "question": "(Find out the odd one)",
+            "option": [
+                {"id": 1, "label": "Bus"},
+                {"id": 2, "label": "Cycle"},
+                {"id": 3, "label": "Car"},
+                {"id": 4, "label": "Tonga"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 58,
+            "question": "GRANED = in a common place(Find in the last letter)",
+            "option": [
+                {"id": 1, "label": "G"},
+                {"id": 2, "label": "R"},
+                {"id": 3, "label": "A"},
+                {"id": 4, "label": "N"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 59,
+            "question": "(Find out the odd one)",
+            "option": [
+                {"id": 1, "label": "Gentleman"},
+                {"id": 2, "label": "Farmer"},
+                {"id": 3, "label": "Lawyer"},
+                {"id": 4, "label": "Teacher"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 60,
+            "question": "?,?,6,10,9,15,12,20,15",
+            "option": [
+                {"id": 1, "label": "2,3"},
+                {"id": 2, "label": "3,4"},
+                {"id": 3, "label": "3,5"},
+                {"id": 4, "label": "4,5"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 61,
+            "question": "Are most naughty children.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 62,
+            "question": "Man is to baby as flower is to----?",
+            "option": [
+                {"id": 1, "label": "Bat"},
+                {"id": 2, "label": "Tub"},
+                {"id": 3, "label": "Bud"},
+                {"id": 4, "label": "Cub"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 63,
+            "question": "AHDDEJ – Name of a port.Write the last letter",
+            "option": [
+                {"id": 1, "label": "J"},
+                {"id": 2, "label": "E"},
+                {"id": 3, "label": "D"},
+                {"id": 4, "label": "H"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 64,
+            "question": "What is the antonym of URBAN",
+            "option": [
+                {"id": 1, "label": "Civilian"},
+                {"id": 2, "label": "Rural"},
+                {"id": 3, "label": "Village"},
+                {"id": 4, "label": "City"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 65,
+            "question": "KILL = ARMY, NAVY =?",
+            "option": [
+                {"id": 1, "label": "DJWL"},
+                {"id": 2, "label": "SYFV"},
+                {"id": 3, "label": "MURD"},
+                {"id": 4, "label": "FDCR"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 66,
+            "question": "DAG = PMS, GDJ =?",
+            "option": [
+                {"id": 1, "label": "PST"},
+                {"id": 2, "label": "TST"},
+                {"id": 3, "label": "SPV"},
+                {"id": 4, "label": "SVQ"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 67,
+            "question": "Clear is to foggy as day is to ---?",
+            "option": [
+                {"id": 1, "label": "Evening"},
+                {"id": 2, "label": "Dusk"},
+                {"id": 3, "label": "Dawn"},
+                {"id": 4, "label": "Night"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 68,
+            "question": "Animals but all cats are animals are not cats.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 69,
+            "question": "PECKEROODW – (Name of a bird). Write the last letter.",
+            "option": [
+                {"id": 1, "label": "W"},
+                {"id": 2, "label": "D"},
+                {"id": 3, "label": "F"},
+                {"id": 4, "label": "R"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 70,
+            "question": "4, 6,12,14,28,30,60,62??",
+            "option": [
+                {"id": 1, "label": "120,122"},
+                {"id": 2, "label": "124,126"},
+                {"id": 3, "label": "118,120"},
+                {"id": 4, "label": "124,128"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 71,
+            "question": "DEFG = WVUT, DHTF =?",
+            "option": [
+                {"id": 1, "label": "WSGU"},
+                {"id": 2, "label": "WSQT"},
+                {"id": 3, "label": "WSIT"},
+                {"id": 4, "label": "ISIT"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 72,
+            "question": "Find The Odd",
+            "option": [
+                {"id": 1, "label": "River-ship"},
+                {"id": 2, "label": "Bulb-light"},
+                {"id": 3, "label": "Watch-time"},
+                {"id": 4, "label": "Thermometer-temperature"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 73,
+            "question": "ENPEWH – is a relative. Write the last letter",
+            "option": [
+                {"id": 1, "label": "N"},
+                {"id": 2, "label": "E"},
+                {"id": 3, "label": "H"},
+                {"id": 4, "label": "W"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 74,
+            "question": "Two is made of gases water",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "NONE"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 75,
+            "question": "CEG = XVT, KMO =?",
+            "option": [
+                {"id": 1, "label": "PNL"},
+                {"id": 2, "label": "PNK"},
+                {"id": 3, "label": "MPO"},
+                {"id": 4, "label": "KPN"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 76,
+            "question": "as darkness is to light so ignorance is to ---",
+            "option": [
+                {"id": 1, "label": "Light"},
+                {"id": 2, "label": "Knowledge"},
+                {"id": 3, "label": "Education"},
+                {"id": 4, "label": "Power"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 77,
+            "question": "C,D,F,G,S,--,--",
+            "option": [
+                {"id": 1, "label": "U"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "V"},
+                {"id": 4, "label": "X"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 78,
+            "question": "AHDDEJ name of a port. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "A"},
+                {"id": 2, "label": "H"},
+                {"id": 3, "label": "J"},
+                {"id": 4, "label": "E"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 79,
+            "question": " RLEISQRU name of an animal. Write the last letter.",
+            "option": [
+                {"id": 1, "label": "S"},
+                {"id": 2, "label": "U"},
+                {"id": 3, "label": "Q"},
+                {"id": 4, "label": "L"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 80,
+            "question": "Sports man is to sports so scholar is to --",
+            "option": [
+                {"id": 1, "label": "Education"},
+                {"id": 2, "label": "Writing"},
+                {"id": 3, "label": "Reading"},
+                {"id": 4, "label": "Knowledge"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 81,
+            "question": "If MAN is to NBO then NIB is to --",
+            "option": [
+                {"id": 1, "label": "NLC"},
+                {"id": 2, "label": "MLO"},
+                {"id": 3, "label": "MNO"},
+                {"id": 4, "label": "OJC"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 82,
+            "question": "If dog is to FQI then CAN is to --",
+            "option": [
+                {"id": 1, "label": "EFP"},
+                {"id": 2, "label": "ECB"},
+                {"id": 3, "label": "ECP"},
+                {"id": 4, "label": "EFG"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 83,
+            "question": "as food is to eating as news paper is to",
+            "option": [
+                {"id": 1, "label": "Writing"},
+                {"id": 2, "label": "Reading"},
+                {"id": 3, "label": "News"},
+                {"id": 4, "label": "Paper"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 84,
+            "question": " Car is to driver as aero plane is to --",
+            "option": [
+                {"id": 1, "label": "Airman"},
+                {"id": 2, "label": "Pilot"},
+                {"id": 3, "label": "Driver"},
+                {"id": 4, "label": "Flight"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 85,
+            "question": "high is to low as sky is to --",
+            "option": [
+                {"id": 1, "label": "High"},
+                {"id": 2, "label": "Blue"},
+                {"id": 3, "label": "Cloud"},
+                {"id": 4, "label": "Ground"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 86,
+            "question": "If TWO is to RUM as ONE is to",
+            "option": [
+                {"id": 1, "label": "MNL"},
+                {"id": 2, "label": "MCL"},
+                {"id": 3, "label": "NLC"},
+                {"id": 4, "label": "MLC"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 87,
+            "question": " as cold is to winter so heat is to",
+            "option": [
+                {"id": 1, "label": "Spring"},
+                {"id": 2, "label": "Autumn"},
+                {"id": 3, "label": "Winter"},
+                {"id": 4, "label": "Summer"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 88,
+            "question": "wings can fast have because they horses run.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 89,
+            "question": "black blood runs in.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 90,
+            "question": "add 4 to 6 then multiply by 2 if the result is more than 8 write 4 other wise 3.",
+            "option": [
+                {"id": 1, "label": "3"},
+                {"id": 2, "label": "4"},
+                {"id": 3, "label": "2"},
+                {"id": 4, "label": "1"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 91,
+            "question": "if A runs less faster than B and B runs as fast but not faster than C then is C faster or slower than A? ",
+            "option": [
+                {"id": 1, "label": "faster"},
+                {"id": 2, "label": "slower"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "very slow"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 92,
+            "question": " ILO head quarter is in Geneva, Paris.",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 93,
+            "question": "UN established in 1945.",
+            "option": [
+                {"id": 1, "label": "F"},
+                {"id": 2, "label": "T"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 94,
+            "question": " la past (Bolivia) is the highest capital city",
+            "option": [
+                {"id": 1, "label": "T"},
+                {"id": 2, "label": "F"},
+                {"id": 3, "label": "None"},
+                {"id": 4, "label": "Either T or F"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 95,
+            "question": "sailor is to soldier as navy is to -",
+            "option": [
+                {"id": 1, "label": "Air force"},
+                {"id": 2, "label": "Seaman"},
+                {"id": 3, "label": "Soldier"},
+                {"id": 4, "label": "Army"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 96,
+            "question": " sheep is to mutton as pig is to -",
+            "option": [
+                {"id": 1, "label": "Beat"},
+                {"id": 2, "label": "Meat"},
+                {"id": 3, "label": "Pork"},
+                {"id": 4, "label": "Porris"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 97,
+            "question": "an electric train is running as the speed of 50miles an hour from Dhaka to Chittagong. A strong wind was blowing in the opposite direction. Would the smoke of the train be blown?",
+            "option": [
+                {"id": 1, "label": "Opposite direction "},
+                {"id": 2, "label": "Yes"},
+                {"id": 3, "label": "No"},
+                {"id": 4, "label": "Right"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 98,
+            "question": "Supposing you are driving a car towards north at the speed of 500 miles per hour for other 2 hours, what is the age of driver? ",
+            "option": [
+                {"id": 1, "label": "15"},
+                {"id": 2, "label": "20"},
+                {"id": 3, "label": "your age"},
+                {"id": 4, "label": "25"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 99,
+            "question": "9, 6, 12, 6, 15, 6, - -, --?",
+            "option": [
+                {"id": 1, "label": "9,6"},
+                {"id": 2, "label": "18,6"},
+                {"id": 3, "label": "18,7"},
+                {"id": 4, "label": "18,9"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 100,
+            "question": "18, 10, 6, 4,- - , - - ? ",
+            "option": [
+                {"id": 1, "label": "2,2"},
+                {"id": 2, "label": "3,50"},
+                {"id": 3, "label": "3,2.5"},
+                {"id": 4, "label": "3,1.5"}
+            ],
+            "answer": {"optionId": 3}
+        }
+    ]
+}
