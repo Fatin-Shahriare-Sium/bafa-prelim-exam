@@ -4,36 +4,333 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "how are you?",
+            "question": "The robbers ... by the police.",
             "option": [
-                {"id": 1, "label": "good"},
-                {"id": 2, "label": "bad"},
-                {"id": 3, "label": "sad"},
-                {"id": 4, "label": "great"}
+                {"id": 1, "label": "Have arrested"},
+                {"id": 2, "label": "Have been arrested"},
+                {"id": 3, "label": "Was arrested"},
+                {"id": 4, "label": "Had arrested"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 2,
-            "question": "how old are you?",
+            "question": "My mother is cooking food.(passive)",
             "option": [
-                {"id": 1, "label": "20"},
-                {"id": 2, "label": "40"},
-                {"id": 3, "label": "10"},
-                {"id": 4, "label": "80"}
+                {"id": 1, "label": "Food is being cooked by my mother."},
+                {"id": 2, "label": "Food has been cooked by my mother."},
+                {"id": 3, "label": " Food was being cooked by my mother."},
+                {"id": 4, "label": "Food is being cook by my mother."}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 3,
-            "question": "What is your college name??",
+            "question": "He said to me, 'Can you do these sums for me?'",
             "option": [
-                {"id": 1, "label": "Adamji"},
-                {"id": 2, "label": "DRMC"},
-                {"id": 3, "label": "NDC"},
-                {"id": 4, "label": "Dhaka University"}
+                {"id": 1, "label": "He asked me if I could do those sums for him."},
+                {"id": 2, "label": "He asked me if I can do these sums for him."},
+                {"id": 3, "label": "He asked me if I can do those sums for him."},
+                {"id": 4, "label": "He asked me if I could do these sums for him."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 4,
+            "question": "Which of the following word is a verb?",
+            "option": [
+                {"id": 1, "label": "Joyously"},
+                {"id": 2, "label": "glorify"},
+                {"id": 3, "label": "horrible"},
+                {"id": 4, "label": "idiocy"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 5,
+            "question": "'Pass away' means??",
+            "option": [
+                {"id": 1, "label": "die"},
+                {"id": 2, "label": "disappear"},
+                {"id": 3, "label": "vanished"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 6,
+            "question": "Your conduct admits ___ no excuess",
+            "option": [
+                {"id": 1, "label": "by"},
+                {"id": 2, "label": "for"},
+                {"id": 3, "label": "in"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 7,
+            "question": "Ravi said to the judge, 'I did not commit this crime.'",
+            "option": [
+                {"id": 1, "label": "Ravi said to the judge that he did not committed the crime."},
+                {"id": 2, "label": "Ravi said to the judge that he had not committed the crime."},
+                {"id": 3, "label": "Ravi said to the judge that he had not committed that crime."},
+                {"id": 4, "label": "Ravi said to the judge that he had not committed this crime."}
             ],
             "answer": {"optionId": 3}
+        },
+        {
+            "no": 8,
+            "question": "If I had much money.I_____________.",
+            "option": [
+                {"id": 1, "label": "will help the distressed peopel"},
+                {"id": 2, "label": "would help the distressed people"},
+                {"id": 3, "label": "Would have help the distressed people"},
+                {"id": 4, "label": "would have been helped the distressed people"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 9,
+            "question": "If your sister_______, she would come.",
+            "option": [
+                {"id": 1, "label": "invited"},
+                {"id": 2, "label": "inviting"},
+                {"id": 3, "label": "invites"},
+                {"id": 4, "label": "were invited"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 10,
+            "question": "Ravi said to Aman, 'Minu will leave for her native place tomorrow.'",
+            "option": [
+                {"id": 1, "label": "Ravi told Aman that Minu will leave for her native place tomorrow."},
+                {"id": 2, "label": "Ravi told Aman that Minu left for her native place tomorrow."},
+                {"id": 3, "label": "Ravi told Aman that Minu would leave for her native place tomorrow."},
+                {"id": 4, "label": "Ravi told Aman that Minu would leave for her native place next day."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 11,
+            "question": "He promised that the _____ come next Monday.",
+            "option": [
+                {"id": 1, "label": "will"},
+                {"id": 2, "label": "did"},
+                {"id": 3, "label": "can"},
+                {"id": 4, "label": "would"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 12,
+            "question": "The doctor gave me a prescription _______ my cough.",
+            "option": [
+                {"id": 1, "label": "for"},
+                {"id": 2, "label": "with"},
+                {"id": 3, "label": "at"},
+                {"id": 4, "label": "to"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 13,
+            "question": "He said to her, 'What a cold day!'",
+            "option": [
+                {"id": 1, "label": "He told her that it was a cold day."},
+                {"id": 2, "label": "He exclaimed that it was a cold day."},
+                {"id": 3, "label": "He exclaimed sorrowfully that it was a cold day."},
+                {"id": 4, "label": "He exclaimed that it was a very cold day."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 14,
+            "question": "You can see the doctor _______ 8 am and 12 noon.",
+            "option": [
+                {"id": 1, "label": "at"},
+                {"id": 2, "label": "in"},
+                {"id": 3, "label": "between"},
+                {"id": 4, "label": "on"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 15,
+            "question": "You'll fail in the exam,if you ___from school.",
+            "option": [
+                {"id": 1, "label": "Take to task"},
+                {"id": 2, "label": "put off"},
+                {"id": 3, "label": "Put out"},
+                {"id": 4, "label": "Play truant"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 16,
+            "question": "That child died __________ heavy fever.",
+            "option": [
+                {"id": 1, "label": "for"},
+                {"id": 2, "label": "by"},
+                {"id": 3, "label": "in"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 17,
+            "question": "Hari said the interviewer, 'Could you please repeat the question?'",
+            "option": [
+                {"id": 1, "label": "Hari requested the interviewer if he could please repeat the question."},
+                {"id": 2, "label": "Hari requested the interviewer to please repeat the question."},
+                {"id": 3, "label": "Hari requested the interviewer to repeat the question."},
+                {"id": 4, "label": "Hari requested the interviewer if he could repeat the question."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 18,
+            "question": "She has not read anything _________ Monday.",
+            "option": [
+                {"id": 1, "label": "for"},
+                {"id": 2, "label": "as"},
+                {"id": 3, "label": "since"},
+                {"id": 4, "label": "from"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 19,
+            "question": "If I had seen him,_______",
+            "option": [
+                {"id": 1, "label": "I would tell him the matter"},
+                {"id": 2, "label": "I might tell him the matter"},
+                {"id": 3, "label": "I will have told him the matter"},
+                {"id": 4, "label": "I might have told him the matter"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 20,
+            "question": " Alia was reading the Gita.(passive)",
+            "option": [
+                {"id": 1, "label": "The Gita was being read by Alia."},
+                {"id": 2, "label": "The Gita were being read by Alia."},
+                {"id": 3, "label": "Gita was being read by Alia."},
+                {"id": 4, "label": "The Gita was read by Alia."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 21,
+            "question": "he arrived ________ the airport _________ time for his plane.",
+            "option": [
+                {"id": 1, "label": "in,in"},
+                {"id": 2, "label": "at,on"},
+                {"id": 3, "label": "in,from"},
+                {"id": 4, "label": "at,in"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 22,
+            "question": "He was astonished _________ his failure.",
+            "option": [
+                {"id": 1, "label": "as"},
+                {"id": 2, "label": "for"},
+                {"id": 3, "label": "at"},
+                {"id": 4, "label": "with"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 23,
+            "question": "I said to Nandinee, 'Please,help me with my homework.'",
+            "option": [
+                {"id": 1, "label": "I requested Nandinee to help me in my homework."},
+                {"id": 2, "label": "Nandinee requested me to help her with her homework."},
+                {"id": 3, "label": "I requested Nandinee to help me with my homework."},
+                {"id": 4, "label": "I requested Nandinee to help me in homework."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 24,
+            "question": "If we had a boat , we --- the river.",
+            "option": [
+                {"id": 1, "label": "would cross"},
+                {"id": 2, "label": "will cross"},
+                {"id": 3, "label": "will be crossing"},
+                {"id": 4, "label": "would make crossed"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 25,
+            "question": "Eggs are sold _________ the dozen.",
+            "option": [
+                {"id": 1, "label": "of"},
+                {"id": 2, "label": "by"},
+                {"id": 3, "label": "with"},
+                {"id": 4, "label": "from"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 26,
+            "question": "3 .The idiom ‘A stitch in time saves nine’ refers to",
+            "option": [
+                {"id": 1, "label": "saving lives"},
+                {"id": 2, "label": "timely action"},
+                {"id": 3, "label": "saving time"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 27,
+            "question": "They had already contacted him.(Passive)",
+            "option": [
+                {"id": 1, "label": "He have been already contacted."},
+                {"id": 2, "label": "He had already been contacted."},
+                {"id": 3, "label": "He had already contacted."},
+                {"id": 4, "label": "He has been already contacted."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 28,
+            "question": "If I were a bird, _____.",
+            "option": [
+                {"id": 1, "label": "I would fly in the sky"},
+                {"id": 2, "label": "I should fly in the sky"},
+                {"id": 3, "label": "I will fly in the sky"},
+                {"id": 4, "label": "I flew in the sky"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 29,
+            "question": "Raman asked me, 'Did you see the cricket match on television last night?'",
+            "option": [
+                {"id": 1, "label": "Raman asked me if I saw the cricket match on television the earlier night."},
+                {"id": 2, "label": "Raman asked me if I had seen the cricket match on television the earlier night."},
+                {"id": 3, "label": "Raman asked me did I see the cricket match on television the last night."},
+                {"id": 4, "label": "Raman asked me if I had seen the cricket match on television the last night."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 30,
+            "question": "We have gifted him a watch.(Passive)",
+            "option": [
+                {"id": 1, "label": "A watch have been gifted to him by us."},
+                {"id": 2, "label": "A watch has been gifted to him by us."},
+                {"id": 3, "label": "A watch had been gifted to him by us."},
+                {"id": 4, "label": "A watch was gifted to him by us."}
+            ],
+            "answer": {"optionId": 2}
         }
     ]
 }
