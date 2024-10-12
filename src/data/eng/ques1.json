@@ -4,36 +4,333 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "how are you?",
+            "question": "Which one is a common noun?",
             "option": [
-                {"id": 1, "label": "good"},
-                {"id": 2, "label": "bad"},
-                {"id": 3, "label": "sad"},
-                {"id": 4, "label": "great"}
+                {"id": 1, "label": "Salt "},
+                {"id": 2, "label": "Army "},
+                {"id": 3, "label": "studentship"},
+                {"id": 4, "label": "Infant"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 2,
-            "question": "how old are you?",
+            "question": "What is the feminine gender of the word 'tiger'?",
             "option": [
-                {"id": 1, "label": "20"},
-                {"id": 2, "label": "40"},
-                {"id": 3, "label": "10"},
-                {"id": 4, "label": "80"}
+                {"id": 1, "label": "Tigress"},
+                {"id": 2, "label": "Tigers"},
+                {"id": 3, "label": "tigres"},
+                {"id": 4, "label": "tigrres"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 3,
-            "question": "What is your college name??",
+            "question": "Government has been entrusted elected politicians.",
             "option": [
-                {"id": 1, "label": "Adamji"},
-                {"id": 2, "label": "DRMC"},
-                {"id": 3, "label": "NDC"},
-                {"id": 4, "label": "Dhaka University"}
+                {"id": 1, "label": "with"},
+                {"id": 2, "label": "for"},
+                {"id": 3, "label": "to"},
+                {"id": 4, "label": "at"}
             ],
             "answer": {"optionId": 3}
+        },
+        {
+            "no": 4,
+            "question": "Now-a-days many villages are lit_electricity.",
+            "option": [
+                {"id": 1, "label": "with"},
+                {"id": 2, "label": "by"},
+                {"id": 3, "label": "from"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 5,
+            "question": "I am not bad ____ tennis.",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "at"},
+                {"id": 3, "label": "about"},
+                {"id": 4, "label": "with"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 6,
+            "question": "Milk is preferable ____ tea.",
+            "option": [
+                {"id": 1, "label": "than"},
+                {"id": 2, "label": "to"},
+                {"id": 3, "label": "from"},
+                {"id": 4, "label": "against"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 7,
+            "question": "Although he is poor, he is honest (Simple)",
+            "option": [
+                {"id": 1, "label": "Despite his poor, he is honest."},
+                {"id": 2, "label": "Despite his honesty, he is poor."},
+                {"id": 3, "label": "Despite his poverty, he is honest."},
+                {"id": 4, "label": "In spite of having poor, he is honest"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 8,
+            "question": "Sium missed the train (Negative)",
+            "option": [
+                {"id": 1, "label": "Sium did not catch the train."},
+                {"id": 2, "label": "Sium did not get the train."},
+                {"id": 3, "label": "Sium did not get into the train"},
+                {"id": 4, "label": "Sium does not catch the train."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 9,
+            "question": "Sabir said , ' I walk a mile everyday' Find out indirect narration.",
+            "option": [
+                {"id": 1, "label": "Sabir said that she walked a mile everyday"},
+                {"id": 2, "label": "Sabir said that she walks a mile everyday"},
+                {"id": 3, "label": "Sabir said that I am walking a mile everyday"},
+                {"id": 4, "label": "Sabir said that I walk a mile everyday"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 10,
+            "question": "If you make delay, you ______ the train.",
+            "option": [
+                {"id": 1, "label": "missing"},
+                {"id": 2, "label": "should miss"},
+                {"id": 3, "label": "missed"},
+                {"id": 4, "label": "will miss"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 11,
+            "question": "If you wanted, I ( help) you.",
+            "option": [
+                {"id": 1, "label": "will help"},
+                {"id": 2, "label": "would help"},
+                {"id": 3, "label": "would helped"},
+                {"id": 4, "label": "would have helped"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 12,
+            "question": "Choose the correct sentence.",
+            "option": [
+                {"id": 1, "label": "I asked Javed had he passed."},
+                {"id": 2, "label": "I asked Javed if he had passed."},
+                {"id": 3, "label": "I asked Javed if you had passed."},
+                {"id": 4, "label": "I asked Javed that had he passed."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 13,
+            "question": "Dog days means",
+            "option": [
+                {"id": 1, "label": "hot weather"},
+                {"id": 2, "label": "a period of having youthful filings"},
+                {"id": 3, "label": "a period of misfortune"},
+                {"id": 4, "label": "a period of being carefree"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 14,
+            "question": "Honey tastes sweet,...?",
+            "option": [
+                {"id": 1, "label": "don't it"},
+                {"id": 2, "label": "doesn't it"},
+                {"id": 3, "label": "do it"},
+                {"id": 4, "label": "didn't it"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 15,
+            "question": "Choose the indirect speech: He said, 'How beautiful the flowers are!' ",
+            "option": [
+                {"id": 1, "label": "He exclaimed with joy that the flowers were very beautiful."},
+                {"id": 2, "label": "He exclaimed with joy that the flowers were beautiful"},
+                {"id": 3, "label": "He cried out that the flowers were beautiful."},
+                {"id": 4, "label": "He exclaimed with joy that the flowers are beautiful"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 16,
+            "question": "If I were a king, I _____ not know what sorrow are.",
+            "option": [
+                {"id": 1, "label": "did"},
+                {"id": 2, "label": "should"},
+                {"id": 3, "label": "would"},
+                {"id": 4, "label": "will"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 17,
+            "question": "If I lived near,_______ my office in time for work.",
+            "option": [
+                {"id": 1, "label": "I would be"},
+                {"id": 2, "label": "I shall be"},
+                {"id": 3, "label": "I will be"},
+                {"id": 4, "label": "I wanna be"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 18,
+            "question": "He said to me, 'Can you do these sums for me?' ",
+            "option": [
+                {"id": 1, "label": "He asked me if I could do those sums for him."},
+                {"id": 2, "label": "He asked me if I can do those sums for him."},
+                {"id": 3, "label": "He asked me if I can do these sums for him."},
+                {"id": 4, "label": "He asked me if I could do these sums for him."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 19,
+            "question": "The correct indirect speech of He said to me,'Did you watch the film last night?' ",
+            "option": [
+                {"id": 1, "label": "He asked whether I watched the film last night"},
+                {"id": 2, "label": "He asked me whether I had watched the film the night before"},
+                {"id": 3, "label": "He asked me whether I had watched the film last night"},
+                {"id": 4, "label": "He asked me whether I had watched the film yesterday night"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 20,
+            "question": "Choose the correct sentence",
+            "option": [
+                {"id": 1, "label": "He asked had we taken our food"},
+                {"id": 2, "label": "He asked if we had taken our food"},
+                {"id": 3, "label": "He asked if we took our food"},
+                {"id": 4, "label": "He asked if we taken our food"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 21,
+            "question": "Ratul ran fast lest he miss the class.",
+            "option": [
+                {"id": 1, "label": "will"},
+                {"id": 2, "label": "did"},
+                {"id": 3, "label": "would"},
+                {"id": 4, "label": "should"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 22,
+            "question": "Do not close the door. The passive form of the sentence is---",
+            "option": [
+                {"id": 1, "label": "Let not the door close"},
+                {"id": 2, "label": "Let not the door be closed"},
+                {"id": 3, "label": "Let not he door be close"},
+                {"id": 4, "label": "Let not he door closed"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 23,
+            "question": "The correct indirect speech of He said to me,'Did you watch the film last night?' ",
+            "option": [
+                {"id": 1, "label": "He asked whether I watched the film last night"},
+                {"id": 2, "label": "He asked me whether I had watched the film the night before"},
+                {"id": 3, "label": "He asked me whether I had watched the film last night"},
+                {"id": 4, "label": "He asked me whether I had watched the film yesterday night"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 24,
+            "question": "Stella will invite Ria.(passive)",
+            "option": [
+                {"id": 1, "label": "Ria will be invited by Stella."},
+                {"id": 2, "label": "Ria will have been invited by Stella."},
+                {"id": 3, "label": "Ria will want to be invited by Stella."},
+                {"id": 4, "label": "Ria will be wanting to be invited by Stella."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 25,
+            "question": "I said to Nandinee, 'Please help me with my homework.' ",
+            "option": [
+                {"id": 1, "label": "I requested Nandinee to help me in my homework."},
+                {"id": 2, "label": "Nandinee requested me to help her with her homework"},
+                {"id": 3, "label": "I requested Nandinee to help me with my homework."},
+                {"id": 4, "label": "I requested Nandinee to help me in homework"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 26,
+            "question": "The boy laughed at the beggar.(passive)",
+            "option": [
+                {"id": 1, "label": "The beggar laughs at the boy."},
+                {"id": 2, "label": "The beggar was being laughed by the boy."},
+                {"id": 3, "label": "The beggar was being laughed at by the boy."},
+                {"id": 4, "label": "The beggar was laughed at by the boy."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 27,
+            "question": "Raman asked me, 'Did you see the cricket match on television last night?'",
+            "option": [
+                {"id": 1, "label": "Raman asked me if I saw the cricket match on television the earlier night."},
+                {"id": 2, "label": "Raman asked me if I had seen the cricket match on television the earlier night."},
+                {"id": 3, "label": "Raman asked me did I see the cricket match on television the last night."},
+                {"id": 4, "label": "Raman asked me if I had seen the cricket match on television the last night."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 28,
+            "question": "Which one of the following sentence is correct.",
+            "option": [
+                {"id": 1, "label": "He is as good as mine"},
+                {"id": 2, "label": "He is as good as me"},
+                {"id": 3, "label": "He is as good as myself"},
+                {"id": 4, "label": "He is as good as I"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 29,
+            "question": "He said to her, 'What a cold day!'",
+            "option": [
+                {"id": 1, "label": "He told her that it was a cold day."},
+                {"id": 2, "label": "He exclaimed that it was a cold day."},
+                {"id": 3, "label": "He exclaimed sorrowfully that it was a cold day."},
+                {"id": 4, "label": "He exclaimed that it was a very cold day."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 30,
+            "question": "Khanna said to his wife, 'Please select one of those sarees.'",
+            "option": [
+                {"id": 1, "label": "Khanna requested his wife to please select one of these sarees."},
+                {"id": 2, "label": "Khanna requested his wife to select one of those sarees."},
+                {"id": 3, "label": "Khanna told his wife to please select one of those sarees."},
+                {"id": 4, "label": "Khanna pleased his wife to select one of those sarees."}
+            ],
+            "answer": {"optionId": 2}
         }
     ]
 }
