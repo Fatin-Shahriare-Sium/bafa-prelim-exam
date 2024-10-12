@@ -331,6 +331,226 @@
                 {"id": 4, "label": "A watch was gifted to him by us."}
             ],
             "answer": {"optionId": 2}
+        },
+        {
+            "no": 31,
+            "question": "This book is based _____ true events.",
+            "option": [
+                {"id": 1, "label": "on"},
+                {"id": 2, "label": "in"},
+                {"id": 3, "label": "for"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 32,
+            "question": "‘Walking is a good exercise’. Here the word 'walking' is a/an-----.",
+            "option": [
+                {"id": 1, "label": "Noun"},
+                {"id": 2, "label": "Proper noun"},
+                {"id": 3, "label": "adverb"},
+                {"id": 4, "label": "Adjective"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 33,
+            "question": "He was accused _____ theft.",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "for"},
+                {"id": 3, "label": "of"},
+                {"id": 4, "label": "with"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 34,
+            "question": "He said, “Let Hari come with us, mother, I’ll take care of him.",
+            "option": [
+                {"id": 1, "label": "He requested his mother to let Hari come with them as he will take care of him."},
+                {"id": 2, "label": "He informed his mother to let Hari come with them as he would take care of him."},
+                {"id": 3, "label": "He told his mother to let Hari come with them as he would take care of him."},
+                {"id": 4, "label": "He told to his mother let Hari come with us as he would take care of him."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 35,
+            "question": "You can join the team, provided that you _____ the performance standards.(meet)",
+            "option": [
+                {"id": 1, "label": "meet"},
+                {"id": 2, "label": "met"},
+                {"id": 3, "label": "will meet"},
+                {"id": 4, "label": "could meet"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 36,
+            "question": "The boss said to him, “Please tell me what the old man said today.”",
+            "option": [
+                {"id": 1, "label": "The boss requested him to tell him what the old man had said that day."},
+                {"id": 2, "label": "The boss requested him to tell him what the old man had said today."},
+                {"id": 3, "label": "The boss requested him to tell him what the old man said that day."},
+                {"id": 4, "label": "The boss requested him to tell him what the old man said today."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 37,
+            "question": " She suffers _____ a heart disease.",
+            "option": [
+                {"id": 1, "label": "of"},
+                {"id": 2, "label": "from"},
+                {"id": 3, "label": "in"},
+                {"id": 4, "label": "about"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 38,
+            "question": "He is married to a writer-----you may have heard.",
+            "option": [
+                {"id": 1, "label": "whom"},
+                {"id": 2, "label": "of whom"},
+                {"id": 3, "label": "for who"},
+                {"id": 4, "label": "that"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 39,
+            "question": "Which one of the following is an adverb?",
+            "option": [
+                {"id": 1, "label": "Someone"},
+                {"id": 2, "label": "Somebody"},
+                {"id": 3, "label": "Someday"},
+                {"id": 4, "label": "Something"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 40,
+            "question": "If my uncle_____me the way to his office, I would not have arrived so late. (tell)",
+            "option": [
+                {"id": 1, "label": "had told"},
+                {"id": 2, "label": "told"},
+                {"id": 3, "label": "will tell"},
+                {"id": 4, "label": "tells"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 41,
+            "question": "“What are you doing here?”, she asked me.",
+            "option": [
+                {"id": 1, "label": "She asked what I was doing here."},
+                {"id": 2, "label": "She wanted to know what I am doing here."},
+                {"id": 3, "label": "She wants to know what I was doing here."},
+                {"id": 4, "label": "She wanted to know what I was doing there."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 42,
+            "question": "Nafeesa is afraid _____ spiders.",
+            "option": [
+                {"id": 1, "label": "from"},
+                {"id": 2, "label": "in"},
+                {"id": 3, "label": "about"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 43,
+            "question": "The More,the merrier;'the' is ___",
+            "option": [
+                {"id": 1, "label": "noun"},
+                {"id": 2, "label": "pronoun"},
+                {"id": 3, "label": "adjective"},
+                {"id": 4, "label": "adverb"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 44,
+            "question": "Had you joined the team, you _____ with Olivia.(collaborate)",
+            "option": [
+                {"id": 1, "label": "collaborates"},
+                {"id": 2, "label": "will collaborate"},
+                {"id": 3, "label": "would collaborate"},
+                {"id": 4, "label": "would have collaborated"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 45,
+            "question": "I am envious _____ them.",
+            "option": [
+                {"id": 1, "label": "by"},
+                {"id": 2, "label": "of"},
+                {"id": 3, "label": "for"},
+                {"id": 4, "label": "in"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 46,
+            "question": "He said, “I will return tomorrow.”",
+            "option": [
+                {"id": 1, "label": "He said that he will return tomorrow."},
+                {"id": 2, "label": "He said that he would return tomorrow."},
+                {"id": 3, "label": "He said that he would return the next day."},
+                {"id": 4, "label": "He said that I would return the next day."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 47,
+            "question": "I said to Nandinee, 'Please help me with my homework.' ",
+            "option": [
+                {"id": 1, "label": "I requested Nandinee to help me in my homework."},
+                {"id": 2, "label": "Nandinee requested me to help her with her homework"},
+                {"id": 3, "label": "I requested Nandinee to help me with my homework."},
+                {"id": 4, "label": "I requested Nandinee to help me in homework"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 48,
+            "question": "The boy laughed at the beggar.(passive)",
+            "option": [
+                {"id": 1, "label": "The beggar laughs at the boy."},
+                {"id": 2, "label": "The beggar was being laughed by the boy."},
+                {"id": 3, "label": "The beggar was being laughed at by the boy."},
+                {"id": 4, "label": "The beggar was laughed at by the boy."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 49,
+            "question": "Raman asked me, 'Did you see the cricket match on television last night?'",
+            "option": [
+                {"id": 1, "label": "Raman asked me if I saw the cricket match on television the earlier night."},
+                {"id": 2, "label": "Raman asked me if I had seen the cricket match on television the earlier night."},
+                {"id": 3, "label": "Raman asked me did I see the cricket match on television the last night."},
+                {"id": 4, "label": "Raman asked me if I had seen the cricket match on television the last night."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 50,
+            "question": "Which one of the following sentence is correct.",
+            "option": [
+                {"id": 1, "label": "He is as good as mine"},
+                {"id": 2, "label": "He is as good as me"},
+                {"id": 3, "label": "He is as good as myself"},
+                {"id": 4, "label": "He is as good as I"}
+            ],
+            "answer": {"optionId": 4}
         }
     ]
 }
