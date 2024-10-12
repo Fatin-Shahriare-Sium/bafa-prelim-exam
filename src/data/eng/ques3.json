@@ -4,36 +4,553 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "how are you?",
+            "question": "You _____ the world, provided that you had enough savings",
             "option": [
-                {"id": 1, "label": "good"},
-                {"id": 2, "label": "bad"},
-                {"id": 3, "label": "sad"},
-                {"id": 4, "label": "great"}
+                {"id": 1, "label": "can travel"},
+                {"id": 2, "label": "could travel"},
+                {"id": 3, "label": "travel"},
+                {"id": 4, "label": "could have traveled"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 2,
-            "question": "how old are you?",
+            "question": "He said, “She had been weeping for an hour.”",
             "option": [
-                {"id": 1, "label": "20"},
-                {"id": 2, "label": "40"},
-                {"id": 3, "label": "10"},
-                {"id": 4, "label": "80"}
+                {"id": 1, "label": "He says that she was weeping for an hour."},
+                {"id": 2, "label": "He said that she was weeping for an hour."},
+                {"id": 3, "label": "He said that she has been weeping for an hour."},
+                {"id": 4, "label": "He said that she had been weeping for an hour."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 3,
+            "question": "The results were _____ average.",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "about"},
+                {"id": 3, "label": "above"},
+                {"id": 4, "label": "on"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 4,
+            "question": "She was wearing really 'beautiful' earrings.Identifying Parts of Speech",
+            "option": [
+                {"id": 1, "label": "Adjective"},
+                {"id": 2, "label": "Adverb"},
+                {"id": 3, "label": "noun"},
+                {"id": 4, "label": "pronoun"}
             ],
             "answer": {"optionId": 1}
         },
         {
-            "no": 3,
-            "question": "What is your college name??",
+            "no": 5,
+            "question": "If James_____a teacher, he would teach us well. (be)",
             "option": [
-                {"id": 1, "label": "Adamji"},
-                {"id": 2, "label": "DRMC"},
-                {"id": 3, "label": "NDC"},
-                {"id": 4, "label": "Dhaka University"}
+                {"id": 1, "label": "were"},
+                {"id": 2, "label": "will be"},
+                {"id": 3, "label": "would be"},
+                {"id": 4, "label": "is"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 6,
+            "question": "You are 'in'.Identify parts of speech ",
+            "option": [
+                {"id": 1, "label": "noun"},
+                {"id": 2, "label": "adverb"},
+                {"id": 3, "label": "verb"},
+                {"id": 4, "label": "preposition"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 7,
+            "question": " They walked_____ the bridge.",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "about"},
+                {"id": 3, "label": "over"},
+                {"id": 4, "label": "of"}
             ],
             "answer": {"optionId": 3}
+        },
+        {
+            "no": 8,
+            "question": "I have a laptop computer. Here ‘laptop’ is a/ an-----.",
+            "option": [
+                {"id": 1, "label": "noun"},
+                {"id": 2, "label": "pronoun"},
+                {"id": 3, "label": "adverb"},
+                {"id": 4, "label": "Adjective"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 9,
+            "question": "Moti asked Gangu whether the latter was in his senses.",
+            "option": [
+                {"id": 1, "label": "“Hey Gangu, are you in your senses now?” asked Moti"},
+                {"id": 2, "label": "“Gangu, have you lost your senses?” asked Moti"},
+                {"id": 3, "label": "“Gangu, are you in your senses”? asked Moti"},
+                {"id": 4, "label": "“Are you senseless, Gangu?” asked Moti"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 10,
+            "question": "I am fed up_____ his mess.",
+            "option": [
+                {"id": 1, "label": "of"},
+                {"id": 2, "label": "about"},
+                {"id": 3, "label": "in"},
+                {"id": 4, "label": "with"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 11,
+            "question": "If I _____ the lottery, I would travel around the world.(win)",
+            "option": [
+                {"id": 1, "label": "wins"},
+                {"id": 2, "label": "had won"},
+                {"id": 3, "label": "won"},
+                {"id": 4, "label": "will win"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 12,
+            "question": "He came before the time. Here before is -----.",
+            "option": [
+                {"id": 1, "label": "adverb"},
+                {"id": 2, "label": "noun"},
+                {"id": 3, "label": "conjunction"},
+                {"id": 4, "label": "preposition"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 13,
+            "question": " He is responsible _____ his actions.",
+            "option": [
+                {"id": 1, "label": "to"},
+                {"id": 2, "label": "for"},
+                {"id": 3, "label": "of"},
+                {"id": 4, "label": "with"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 14,
+            "question": "What kind of parts of speech is ‘Childhood’?",
+            "option": [
+                {"id": 1, "label": "Abstract noun"},
+                {"id": 2, "label": "Proper noun"},
+                {"id": 3, "label": "Collective noun"},
+                {"id": 4, "label": "Common noun"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 15,
+            "question": "This book is based _____ true events.",
+            "option": [
+                {"id": 1, "label": "on"},
+                {"id": 2, "label": "in"},
+                {"id": 3, "label": "for"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 16,
+            "question": "‘Walking is a good exercise’. Here the word 'walking' is a/an-----.",
+            "option": [
+                {"id": 1, "label": "Noun"},
+                {"id": 2, "label": "Proper noun"},
+                {"id": 3, "label": "adverb"},
+                {"id": 4, "label": "Adjective"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 17,
+            "question": "He was accused _____ theft.",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "for"},
+                {"id": 3, "label": "of"},
+                {"id": 4, "label": "with"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 18,
+            "question": "He said, “Let Hari come with us, mother, I’ll take care of him.",
+            "option": [
+                {"id": 1, "label": "He requested his mother to let Hari come with them as he will take care of him."},
+                {"id": 2, "label": "He informed his mother to let Hari come with them as he would take care of him."},
+                {"id": 3, "label": "He told his mother to let Hari come with them as he would take care of him."},
+                {"id": 4, "label": "He told to his mother let Hari come with us as he would take care of him."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 19,
+            "question": "You can join the team, provided that you _____ the performance standards.(meet)",
+            "option": [
+                {"id": 1, "label": "meet"},
+                {"id": 2, "label": "met"},
+                {"id": 3, "label": "will meet"},
+                {"id": 4, "label": "could meet"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 20,
+            "question": "The boss said to him, “Please tell me what the old man said today.”",
+            "option": [
+                {"id": 1, "label": "The boss requested him to tell him what the old man had said that day."},
+                {"id": 2, "label": "The boss requested him to tell him what the old man had said today."},
+                {"id": 3, "label": "The boss requested him to tell him what the old man said that day."},
+                {"id": 4, "label": "The boss requested him to tell him what the old man said today."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 21,
+            "question": " She suffers _____ a heart disease.",
+            "option": [
+                {"id": 1, "label": "of"},
+                {"id": 2, "label": "from"},
+                {"id": 3, "label": "in"},
+                {"id": 4, "label": "about"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 22,
+            "question": "He is married to a writer-----you may have heard.",
+            "option": [
+                {"id": 1, "label": "whom"},
+                {"id": 2, "label": "of whom"},
+                {"id": 3, "label": "for who"},
+                {"id": 4, "label": "that"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 23,
+            "question": "Which one of the following is an adverb?",
+            "option": [
+                {"id": 1, "label": "Someone"},
+                {"id": 2, "label": "Somebody"},
+                {"id": 3, "label": "Someday"},
+                {"id": 4, "label": "Something"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 24,
+            "question": "If my uncle_____me the way to his office, I would not have arrived so late. (tell)",
+            "option": [
+                {"id": 1, "label": "had told"},
+                {"id": 2, "label": "told"},
+                {"id": 3, "label": "will tell"},
+                {"id": 4, "label": "tells"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 25,
+            "question": "“What are you doing here?”, she asked me.",
+            "option": [
+                {"id": 1, "label": "She asked what I was doing here."},
+                {"id": 2, "label": "She wanted to know what I am doing here."},
+                {"id": 3, "label": "She wants to know what I was doing here."},
+                {"id": 4, "label": "She wanted to know what I was doing there."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 26,
+            "question": "Nafeesa is afraid _____ spiders.",
+            "option": [
+                {"id": 1, "label": "from"},
+                {"id": 2, "label": "in"},
+                {"id": 3, "label": "about"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 27,
+            "question": "The More,the merrier;'the' is ___",
+            "option": [
+                {"id": 1, "label": "noun"},
+                {"id": 2, "label": "pronoun"},
+                {"id": 3, "label": "adjective"},
+                {"id": 4, "label": "adverb"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 28,
+            "question": "Had you joined the team, you _____ with Olivia.(collaborate)",
+            "option": [
+                {"id": 1, "label": "collaborates"},
+                {"id": 2, "label": "will collaborate"},
+                {"id": 3, "label": "would collaborate"},
+                {"id": 4, "label": "would have collaborated"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 29,
+            "question": "I am envious _____ them.",
+            "option": [
+                {"id": 1, "label": "by"},
+                {"id": 2, "label": "of"},
+                {"id": 3, "label": "for"},
+                {"id": 4, "label": "in"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 30,
+            "question": "He said, “I will return tomorrow.”",
+            "option": [
+                {"id": 1, "label": "He said that he will return tomorrow."},
+                {"id": 2, "label": "He said that he would return tomorrow."},
+                {"id": 3, "label": "He said that he would return the next day."},
+                {"id": 4, "label": "He said that I would return the next day."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 31,
+            "question": "8 .‘Give a hand’ means —",
+            "option": [
+                {"id": 1, "label": "To hold hand"},
+                {"id": 2, "label": "to help"},
+                {"id": 3, "label": "To go away"},
+                {"id": 4, "label": "None"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 32,
+            "question": "The Taj Mahal _______________ the Indians",
+            "option": [
+                {"id": 1, "label": "gives proudness to"},
+                {"id": 2, "label": "has pride"},
+                {"id": 3, "label": "to the story"},
+                {"id": 4, "label": "in the end of the story"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 33,
+            "question": "I find it necessary to water my garden, __________________",
+            "option": [
+                {"id": 1, "label": "thrice of a week"},
+                {"id": 2, "label": "thrice weekly"},
+                {"id": 3, "label": "thrice per weekly"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 34,
+            "question": "Socrates said, 'Virtue is its own reward.'",
+            "option": [
+                {"id": 1, "label": "Socrates said that virtue had its own reward."},
+                {"id": 2, "label": "Socrates says that virtue is its own reward"},
+                {"id": 3, "label": "Socrates said that virtue is its own reward."},
+                {"id": 4, "label": "Socrates said that virtue was its own reward."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 35,
+            "question": "Raja put ________ his clothes and went out.",
+            "option": [
+                {"id": 1, "label": "on"},
+                {"id": 2, "label": "in"},
+                {"id": 3, "label": "through"},
+                {"id": 4, "label": "with"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 36,
+            "question": "Rekha wrote in her report, 'The rainfall has been scanty till now.'",
+            "option": [
+                {"id": 1, "label": "Rekha reported that the rainfall had been scanty till now."},
+                {"id": 2, "label": "Rekha reported that the rainfall has been scanty till now."},
+                {"id": 3, "label": "Rekha reported that the rainfall has been scanty till then."},
+                {"id": 4, "label": "Rekha reported that the rainfall had been scanty till then."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 37,
+            "question": "A 'bull market' means that share prices are-",
+            "option": [
+                {"id": 1, "label": "falling"},
+                {"id": 2, "label": "rising"},
+                {"id": 3, "label": "moving"},
+                {"id": 4, "label": "static"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 38,
+            "question": "He said to me,'Why are you working so hard?'",
+            "option": [
+                {"id": 1, "label": "He asked me why I was working so hard."},
+                {"id": 2, "label": "He asked me why was I working so hard."},
+                {"id": 3, "label": "He asked me why I had been working so hard."},
+                {"id": 4, "label": "He asked me why had I been working so hard."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 39,
+            "question": "The bird flew __________ my head.",
+            "option": [
+                {"id": 1, "label": "over"},
+                {"id": 2, "label": "across"},
+                {"id": 3, "label": "on"},
+                {"id": 4, "label": "through"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 40,
+            "question": "The boy tried_____to win the prize.",
+            "option": [
+                {"id": 1, "label": "hard and fast"},
+                {"id": 2, "label": "heart and soul"},
+                {"id": 3, "label": "heaven and earth"},
+                {"id": 4, "label": "long and short"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 41,
+            "question": "He--- to see us if he had been able to.",
+            "option": [
+                {"id": 1, "label": "would come"},
+                {"id": 2, "label": "would have come"},
+                {"id": 3, "label": "may come"},
+                {"id": 4, "label": "may have come"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 42,
+            "question": "Let us travel __________ night, it will be cool.",
+            "option": [
+                {"id": 1, "label": "by"},
+                {"id": 2, "label": "at"},
+                {"id": 3, "label": "in"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 43,
+            "question": "The phrase 'At large' means_____.",
+            "option": [
+                {"id": 1, "label": "Free"},
+                {"id": 2, "label": "faith"},
+                {"id": 3, "label": "fair"},
+                {"id": 4, "label": "largely"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 44,
+            "question": "They went _________ sleep for several days.",
+            "option": [
+                {"id": 1, "label": "Without"},
+                {"id": 2, "label": "out of"},
+                {"id": 3, "label": "for"},
+                {"id": 4, "label": "out"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 45,
+            "question": "If cigarettes were banned,life -",
+            "option": [
+                {"id": 1, "label": "will be healtheir"},
+                {"id": 2, "label": "becomes healthier"},
+                {"id": 3, "label": "should become healthy"},
+                {"id": 4, "label": "would become healthy"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 46,
+            "question": "Marie Curie was born ________ Warsaw",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "on"},
+                {"id": 3, "label": "at"},
+                {"id": 4, "label": "inside"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 47,
+            "question": "If we had a boat , we --- the river.",
+            "option": [
+                {"id": 1, "label": "would cross"},
+                {"id": 2, "label": "will cross"},
+                {"id": 3, "label": "will be crossing"},
+                {"id": 4, "label": "would make crossed"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 48,
+            "question": "If I---- a millionaire, I--- help every worthy cause.",
+            "option": [
+                {"id": 1, "label": "be, should"},
+                {"id": 2, "label": "were , would"},
+                {"id": 3, "label": "was , could"},
+                {"id": 4, "label": "on, may"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 49,
+            "question": "Achilles' heel' means —",
+            "option": [
+                {"id": 1, "label": "Strong point"},
+                {"id": 2, "label": "Weak point"},
+                {"id": 3, "label": "Accidental point"},
+                {"id": 4, "label": "Injured point"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 50,
+            "question": "What is the meaning of the idiom 'out and about' ?",
+            "option": [
+                {"id": 1, "label": "inactive"},
+                {"id": 2, "label": "active"},
+                {"id": 3, "label": "irregular"},
+                {"id": 4, "label": "free from anxiety"}
+            ],
+            "answer": {"optionId": 4}
         }
     ]
 }
