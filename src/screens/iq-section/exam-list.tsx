@@ -7,6 +7,9 @@ import IQQuestionListData from '../../data/iq/IQ.json';
 import IQSet1 from '../../data/iq/ques1.json';
 import IQSet2 from '../../data/iq/ques2.json';
 import IQSet3 from '../../data/iq/ques3.json';
+import IQSet4 from '../../data/iq/ques4.json';
+import IQSet5 from '../../data/iq/ques5.json';
+import IQSet6 from '../../data/iq/ques6.json';
 import McqExaminerModal, {examPaperType, examType} from '../../components/mcqExaminer';
 import CustomCautionBox from '../../components/customCautionBox';
 const IqSectionExamLists = () => {
@@ -20,6 +23,12 @@ const IqSectionExamLists = () => {
             setPaperForExam(IQSet2);
         } else if (id === 'IQ Set 3') {
             setPaperForExam(IQSet3);
+        } else if (id === 'IQ Set 4') {
+            setPaperForExam(IQSet4);
+        } else if (id === 'IQ Set 5') {
+            setPaperForExam(IQSet5);
+        } else if (id === 'IQ Set 6') {
+            setPaperForExam(IQSet6);
         }
         setShowModal(!showModal);
     };
