@@ -4,12 +4,551 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "Which one is a common noun?",
+            "question": "This problem __________ by your brother yesterday.",
             "option": [
-                {"id": 1, "label": "Salt "},
-                {"id": 2, "label": "Army "},
-                {"id": 3, "label": "studentship"},
-                {"id": 4, "label": "Infant"}
+                {"id": 1, "label": "Was solved"},
+                {"id": 2, "label": "Is solved"},
+                {"id": 3, "label": "Will be solved"},
+                {"id": 4, "label": "Solves"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 2,
+            "question": "Robin said to Peg, “Are you listening? Don’t be thick.”",
+            "option": [
+                {"id": 1, "label": "Robin asked Peg if he was listening and advised him not to be thick."},
+                {"id": 2, "label": "Robin told Peg to listen to him and not to be thick."},
+                {"id": 3, "label": "Peg was asked to listen to Robin and not to be thick"},
+                {"id": 4, "label": "Robin invited Peg to listen and not to be thick."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 3,
+            "question": "The twins used to play Rugby, ——?",
+            "option": [
+                {"id": 1, "label": "had they"},
+                {"id": 2, "label": "did they"},
+                {"id": 3, "label": "didn’t they"},
+                {"id": 4, "label": "hadn’t they"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 4,
+            "question": "If I ... a computer, it would do everything for me.",
+            "option": [
+                {"id": 1, "label": "would have"},
+                {"id": 2, "label": "had"},
+                {"id": 3, "label": "had had"},
+                {"id": 4, "label": "have"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 5,
+            "question": "This book  _____________ by my father.",
+            "option": [
+                {"id": 1, "label": "Will be wrote"},
+                {"id": 2, "label": "was written"},
+                {"id": 3, "label": "was writed"},
+                {"id": 4, "label": "wrote"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 6,
+            "question": "Mother told me that I should listen to her first and do anything as I pleased.",
+            "option": [
+                {"id": 1, "label": "Mother said to me, “I should listen to me first and then do anything I please.”"},
+                {"id": 2, "label": "Mother said to me, “He should listen to her first and then do anything he pleases.”"},
+                {"id": 3, "label": "Mother said to me, “You should listen to me first and then do anything I pleased.”"},
+                {"id": 4, "label": "Mother said to me, “You should listen to me first and then do anything as you please.”"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 7,
+            "question": "There was no panic, ----?",
+            "option": [
+                {"id": 1, "label": "is there"},
+                {"id": 2, "label": "was there"},
+                {"id": 3, "label": "wasn't there"},
+                {"id": 4, "label": "was it"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 8,
+            "question": " If you pack your things quickly, we ... it to the bus.",
+            "option": [
+                {"id": 1, "label": "makes"},
+                {"id": 2, "label": "will make"},
+                {"id": 3, "label": "maked"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 9,
+            "question": "He said, “They will be using my car for the trip.”",
+            "option": [
+                {"id": 1, "label": "He said that they would be using my car for the trip."},
+                {"id": 2, "label": "He said that they would be using his car for the trip."},
+                {"id": 3, "label": "He said that we will be using his car for the trip."},
+                {"id": 4, "label": "He said that they will be using my car for the trip."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 10,
+            "question": "They greet me cheerfully every morning.(passive)",
+            "option": [
+                {"id": 1, "label": "Every morning I was greeted cheerfully."},
+                {"id": 2, "label": "I am greeted cheerfully by them every morning."},
+                {"id": 3, "label": "I am being greeted cheerfully by them every morning."},
+                {"id": 4, "label": "Cheerful greeting is done by them every morning to me."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 11,
+            "question": "I'm right,------.?",
+            "option": [
+                {"id": 1, "label": "won't I"},
+                {"id": 2, "label": "isn't I"},
+                {"id": 3, "label": "shan't I"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 12,
+            "question": "The wayfarer said to me, “Do you know the way to the Asiad village?”",
+            "option": [
+                {"id": 1, "label": "The wayfarer asked me if I did know the way to the Asiad village."},
+                {"id": 2, "label": "The wayfarer asked me if I knew the way to the Asiad village."},
+                {"id": 3, "label": "The wayfarer asked me if he knew the way to the Asiad village."},
+                {"id": 4, "label": "The wayfarer asked me that if I knew the way to the Asiad village."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 13,
+            "question": "Passive Voice of “The boy has rung the bell”",
+            "option": [
+                {"id": 1, "label": "The bell has been being rung by the boy."},
+                {"id": 2, "label": "The bell was being rung by the boy."},
+                {"id": 3, "label": "The bell was rung by the boy."},
+                {"id": 4, "label": "The bell has been rung by the boy."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 14,
+            "question": "Jim ______ whisky distilleries if he travelled to Scotland.",
+            "option": [
+                {"id": 1, "label": "will see"},
+                {"id": 2, "label": "saw"},
+                {"id": 3, "label": "would see"},
+                {"id": 4, "label": "had seen"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 15,
+            "question": "He has just said, “My son will be back on Friday.”",
+            "option": [
+                {"id": 1, "label": "He has just said that my son will be back on Friday."},
+                {"id": 2, "label": "He has just said that his son will be back on Friday."},
+                {"id": 3, "label": "He has just said that his son shall be back on Friday."},
+                {"id": 4, "label": "He has just said that his son would have been back next Friday"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 16,
+            "question": "He has finished his work,_______?",
+            "option": [
+                {"id": 1, "label": "hasn't he"},
+                {"id": 2, "label": "has he?"},
+                {"id": 3, "label": "hasn't she?"},
+                {"id": 4, "label": "isn't it?"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 17,
+            "question": "Passive Voice of “Sajid gave the beggar an old shirt”",
+            "option": [
+                {"id": 1, "label": "An old shirt was given to Sajid by the beggar."},
+                {"id": 2, "label": "An old shirt was given to the beggar by Sajid."},
+                {"id": 3, "label": "The beggar was gave an old shirt by Sajid."},
+                {"id": 4, "label": "An old shirt was gave to the beggar by Sajid."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 18,
+            "question": "We ____ John if we'd known about his problems",
+            "option": [
+                {"id": 1, "label": "would have helped"},
+                {"id": 2, "label": "would be helping"},
+                {"id": 3, "label": "have helped"},
+                {"id": 4, "label": "will help"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 19,
+            "question": "Rani said, “I saw the photograph.”",
+            "option": [
+                {"id": 1, "label": "Rani told that she saw the photograph."},
+                {"id": 2, "label": "Rani said that she had seen the photograph."},
+                {"id": 3, "label": "Rani said that the photograph was seen by her."},
+                {"id": 4, "label": " Rani said that she has seen the photograph."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 20,
+            "question": "Active Voice of “Indiscipline should not be encouraged by us”",
+            "option": [
+                {"id": 1, "label": "We shall not encouraging indiscipline."},
+                {"id": 2, "label": "We have not encouraging indiscipline."},
+                {"id": 3, "label": "We should not encourage Indiscipline."},
+                {"id": 4, "label": "We must not encouraged indiscipline."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 21,
+            "question": "Pass the salt, ____ ?",
+            "option": [
+                {"id": 1, "label": "do you"},
+                {"id": 2, "label": "will you"},
+                {"id": 3, "label": "are you"},
+                {"id": 4, "label": "did you"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 22,
+            "question": "The tailor said to him, “Will you have the suit ready by tomorrow evening?”",
+            "option": [
+                {"id": 1, "label": "The tailor asked him that he will have the suit ready by the next evening."},
+                {"id": 2, "label": "The tailor asked him that he would had the suit ready by the next evening."},
+                {"id": 3, "label": "The tailor asked him if he would have the suit ready by the next evening."},
+                {"id": 4, "label": "The tailor asked him if he will like to have the suit ready by the next evening."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 23,
+            "question": "Active Voice of “Movies are not watched by him”",
+            "option": [
+                {"id": 1, "label": "He did not watch movies."},
+                {"id": 2, "label": "He do not watch movies."},
+                {"id": 3, "label": "He does not watch movies"},
+                {"id": 4, "label": "He is not watched movies"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 24,
+            "question": "10 - They'd have been able to return the bottle if they ... the labels.",
+            "option": [
+                {"id": 1, "label": "hadn’t torn off"},
+                {"id": 2, "label": "haven’t torn"},
+                {"id": 3, "label": "don’t tear off"},
+                {"id": 4, "label": "didn’t tear off"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 25,
+            "question": "If you __________ your vegetables, you will lead a healthier life.",
+            "option": [
+                {"id": 1, "label": "will eat"},
+                {"id": 2, "label": "eats"},
+                {"id": 3, "label": "ate"},
+                {"id": 4, "label": "eat"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 26,
+            "question": "She will invite me.(passive)",
+            "option": [
+                {"id": 1, "label": "I shall be invited by her"},
+                {"id": 2, "label": "I will invited by her."},
+                {"id": 3, "label": "I shall being invited by her."},
+                {"id": 4, "label": "I will been invited by her."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 27,
+            "question": "The doctor advised the patients to give up smoking.",
+            "option": [
+                {"id": 1, "label": "The doctor said to the patients, “Why don’t you give up smoking?”"},
+                {"id": 2, "label": "The doctor said to the patients, “You should give up smoking.”"},
+                {"id": 3, "label": "The doctor said to the patients, “Give up smoking.”"},
+                {"id": 4, "label": "The doctor said to the patient, “I am advising you to give up smoking.”"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 28,
+            "question": "Let's go home, _____ ?",
+            "option": [
+                {"id": 1, "label": "will we"},
+                {"id": 2, "label": "shall we"},
+                {"id": 3, "label": "won't we"},
+                {"id": 4, "label": "shan't we"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 29,
+            "question": "The teacher said to the boys, “Can you sit still and do your work?”",
+            "option": [
+                {"id": 1, "label": "The teacher told the boys whether they could sit still and do their work."},
+                {"id": 2, "label": "The teacher asked the boys can’t they sit still and do their work."},
+                {"id": 3, "label": "The teacher requested the boys to sit still."},
+                {"id": 4, "label": "The teacher asked the boys if they could sit still and do their work."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 30,
+            "question": "We should avoid tranquilizer in order to have a good health",
+            "option": [
+                {"id": 1, "label": "Tranquilizer should avoided by us in order to have good health."},
+                {"id": 2, "label": "Tranquilizer should been avoided by us in order to have a good health"},
+                {"id": 3, "label": "Tranquilizer should be avoid by us in order to have a good health."},
+                {"id": 4, "label": "Tranquilizer should be avoided by us in order to have a good health."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 31,
+            "question": "If all eligible voters __________, he wouldn't have been elected.",
+            "option": [
+                {"id": 1, "label": "will vote"},
+                {"id": 2, "label": "had voted"},
+                {"id": 3, "label": "vote"},
+                {"id": 4, "label": "voted"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 32,
+            "question": "Nafeesa is afraid _____ spiders.",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "about"},
+                {"id": 3, "label": "for"},
+                {"id": 4, "label": "of"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 33,
+            "question": "Ritu said to you, “You are looking very pretty.”",
+            "option": [
+                {"id": 1, "label": "Ritu told you that you were looking very pretty."},
+                {"id": 2, "label": "Ritu told you that I was looking very pretty."},
+                {"id": 3, "label": "Ritu told you that she was looking very pretty."},
+                {"id": 4, "label": "Ritu told you that you are looking very pretty."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 34,
+            "question": "Active Voice of “This house is used very rarely by us”.",
+            "option": [
+                {"id": 1, "label": "We are using this house very rarely"},
+                {"id": 2, "label": "We use this house very rarely."},
+                {"id": 3, "label": "We used this house very rarely."},
+                {"id": 4, "label": "We uses this house very rarely."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 35,
+            "question": "I don’t like talking in the class,______?",
+            "option": [
+                {"id": 1, "label": "do you"},
+                {"id": 2, "label": "are you"},
+                {"id": 3, "label": "nor you"},
+                {"id": 4, "label": "you like"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 36,
+            "question": "He said to the interviewer, “Could you please repeat the question?”",
+            "option": [
+                {"id": 1, "label": "He requested the interviewer if he could please repeat the question."},
+                {"id": 2, "label": "He requested the interviewer to please repeat the question."},
+                {"id": 3, "label": "He requested the interviewer to repeat the question."},
+                {"id": 4, "label": "He requested the interviewer if he could repeat the question."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 37,
+            "question": "A lion may be helped even by a little mouse.(Active)",
+            "option": [
+                {"id": 1, "label": "A little mouse may even help a lion."},
+                {"id": 2, "label": "Even a little mouse may help a lion."},
+                {"id": 3, "label": "A little mouse can even help a lion."},
+                {"id": 4, "label": "Even a little mouse ought to help a lion."}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 38,
+            "question": "You always wake up early, ____ ?",
+            "option": [
+                {"id": 1, "label": "dont' you ?"},
+                {"id": 2, "label": "do not you?"},
+                {"id": 3, "label": "aren't you?"},
+                {"id": 4, "label": "are you not?"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 39,
+            "question": "What is the passive form of 'Do it'.",
+            "option": [
+                {"id": 1, "label": "It is done by you"},
+                {"id": 2, "label": "Let it be done"},
+                {"id": 3, "label": "Let doe it by you"},
+                {"id": 4, "label": "Let be it doe(by you)"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 40,
+            "question": "He told the boy not to sit there.",
+            "option": [
+                {"id": 1, "label": "“Didn’t sit here”, he said to the boy."},
+                {"id": 2, "label": "“Don’t sit here”, he said to the boy."},
+                {"id": 3, "label": "“Didn’t sit there”, he said to the boy."},
+                {"id": 4, "label": "“Don’t sit there”, he said to the boy."}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 41,
+            "question": "Banks close at 4 PM,______?",
+            "option": [
+                {"id": 1, "label": "do they"},
+                {"id": 2, "label": "must they"},
+                {"id": 3, "label": "don't they"},
+                {"id": 4, "label": "isn't they"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 42,
+            "question": "Change the voice,'Please keep quite'",
+            "option": [
+                {"id": 1, "label": "You are told for keep quiet"},
+                {"id": 2, "label": "You are requested to keep quiet"},
+                {"id": 3, "label": "You are requested for keep quiet"},
+                {"id": 4, "label": "You are told to keep quiet"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 43,
+            "question": "If it __________ tonight, there will be great conditions for snowboarding tomorrow.",
+            "option": [
+                {"id": 1, "label": "has snowed"},
+                {"id": 2, "label": "snows"},
+                {"id": 3, "label": "snowed"},
+                {"id": 4, "label": "will snow"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 44,
+            "question": "He said, “Be quiet and listen to my words.”",
+            "option": [
+                {"id": 1, "label": "He urged them to be quiet and listen to his words."},
+                {"id": 2, "label": "He urged them and said be quiet and listen to words."},
+                {"id": 3, "label": "He requested the interviewer to repeat the question."},
+                {"id": 4, "label": "He requested the interviewer if he could repeat the question"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 45,
+            "question": "The passive voice of 'post the letter' is-",
+            "option": [
+                {"id": 1, "label": "Let the letter be posted"},
+                {"id": 2, "label": "Let the letter posted"},
+                {"id": 3, "label": "Let the letter post"},
+                {"id": 4, "label": "Let the letter be post"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 46,
+            "question": "I would have driven to Miami if I __________ a car.",
+            "option": [
+                {"id": 1, "label": "will have"},
+                {"id": 2, "label": "have had"},
+                {"id": 3, "label": "had"},
+                {"id": 4, "label": "had had"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 47,
+            "question": "The father warned his son that he should beware of him.",
+            "option": [
+                {"id": 1, "label": "The father warned his son, “Beware of him!”"},
+                {"id": 2, "label": "The father warned his son, “Watch that chap!”"},
+                {"id": 3, "label": "The father warned his son, “Be careful about him.”"},
+                {"id": 4, "label": "The father warned his son, “Don’t fall into the trap.”"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 48,
+            "question": " It is man who is the nonlest of all creatures,______?",
+            "option": [
+                {"id": 1, "label": "isn't it"},
+                {"id": 2, "label": "isn't he"},
+                {"id": 3, "label": "aren't they"},
+                {"id": 4, "label": "is it"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 49,
+            "question": "The teacher said to Mahesh, “Congratulations! Wish you success in life.”",
+            "option": [
+                {"id": 1, "label": "The teacher congratulated Mahesh and said wish you success in life."},
+                {"id": 2, "label": "The teacher wished congratulations and success in life to Mahesh."},
+                {"id": 3, "label": "The teacher said congratulations to Mahesh and wished him success in life."},
+                {"id": 4, "label": "The teacher congratulated Mahesh and wished him success in life."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 50,
+            "question": "The house is building.The passive form is",
+            "option": [
+                {"id": 1, "label": "A house is beeing built by us."},
+                {"id": 2, "label": "The masons are building the house."},
+                {"id": 3, "label": "It is the house which is being built."},
+                {"id": 4, "label": "The house is being built."}
             ],
             "answer": {"optionId": 4}
         }
