@@ -4,12 +4,551 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "Which one is a common noun?",
+            "question": "Which word below can replace the following phrase 'went down' ?",
             "option": [
-                {"id": 1, "label": "Salt "},
-                {"id": 2, "label": "Army "},
-                {"id": 3, "label": "studentship"},
-                {"id": 4, "label": "Infant"}
+                {"id": 1, "label": "Broke"},
+                {"id": 2, "label": "Collapsed"},
+                {"id": 3, "label": "Shattered"},
+                {"id": 4, "label": "splintered"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 2,
+            "question": "The passive form of 'Don't waste your time' is",
+            "option": [
+                {"id": 1, "label": "Let your time not wasted"},
+                {"id": 2, "label": "Let your time not be wasted"},
+                {"id": 3, "label": "Let your time be wasted"},
+                {"id": 4, "label": "Let not your time be wasted"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 3,
+            "question": "A man of straw:",
+            "option": [
+                {"id": 1, "label": "A man with no means"},
+                {"id": 2, "label": "A generous man"},
+                {"id": 3, "label": "A man of character"},
+                {"id": 4, "label": "A man of no substance"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 4,
+            "question": "Which of the following sentence is correct?",
+            "option": [
+                {"id": 1, "label": "I hope he will succeed in his work."},
+                {"id": 2, "label": "She was married with a rich man"},
+                {"id": 3, "label": "The man was cured of his illness."},
+                {"id": 4, "label": "The patient has died of cholera"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 5,
+            "question": "He walks fast. 'fast' implies-",
+            "option": [
+                {"id": 1, "label": "Adverb"},
+                {"id": 2, "label": "Verb"},
+                {"id": 3, "label": "Adjective"},
+                {"id": 4, "label": "noun"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 6,
+            "question": "She is beautiful,___?",
+            "option": [
+                {"id": 1, "label": "is she"},
+                {"id": 2, "label": "does she"},
+                {"id": 3, "label": "do she"},
+                {"id": 4, "label": "isn't she"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 7,
+            "question": "Give cold shoulder:",
+            "option": [
+                {"id": 1, "label": "Shiver"},
+                {"id": 2, "label": "Cold meat"},
+                {"id": 3, "label": "To ignore"},
+                {"id": 4, "label": "To support"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 8,
+            "question": "Take care of your health : , The passive form of the sentence is",
+            "option": [
+                {"id": 1, "label": "Let your health taken care of"},
+                {"id": 2, "label": "Take care of health by you"},
+                {"id": 3, "label": "Let you heath be taken care of"},
+                {"id": 4, "label": "health is taken care of by you"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 9,
+            "question": "Hornet's nest means",
+            "option": [
+                {"id": 1, "label": "A bee's house"},
+                {"id": 2, "label": "A violent situation"},
+                {"id": 3, "label": "A busy house"},
+                {"id": 4, "label": "A dangerous place"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 10,
+            "question": "She can swim,____?",
+            "option": [
+                {"id": 1, "label": "can she"},
+                {"id": 2, "label": "can't she"},
+                {"id": 3, "label": "could she"},
+                {"id": 4, "label": "couldn't she"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 11,
+            "question": "Choose the correct sentence.",
+            "option": [
+                {"id": 1, "label": "The man that said that was a fool"},
+                {"id": 2, "label": "The man who said that was a fool"},
+                {"id": 3, "label": "The man that said that was a fool"},
+                {"id": 4, "label": "The man which said that was a fool"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 12,
+            "question": "I saw----one-eyed man when I was walking on the road.",
+            "option": [
+                {"id": 1, "label": "a"},
+                {"id": 2, "label": "an"},
+                {"id": 3, "label": "none"},
+                {"id": 4, "label": "the"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 13,
+            "question": "We should abstain --- smoking",
+            "option": [
+                {"id": 1, "label": "for"},
+                {"id": 2, "label": "of"},
+                {"id": 3, "label": "from"},
+                {"id": 4, "label": "to"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 14,
+            "question": "To check acidity, one had better ——litmus paper.",
+            "option": [
+                {"id": 1, "label": "using"},
+                {"id": 2, "label": "useful"},
+                {"id": 3, "label": "used"},
+                {"id": 4, "label": "use"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 15,
+            "question": "Which of the following is the correct English?",
+            "option": [
+                {"id": 1, "label": "The chairman was gracious enough to give us a dinner"},
+                {"id": 2, "label": "These fruits are eatable but those are poisonous"},
+                {"id": 3, "label": "She was badly injured by my unkind words"},
+                {"id": 4, "label": "Mathematics requires reasonable thinking"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 16,
+            "question": "Change the voice: Do you know the man (make it passive).",
+            "option": [
+                {"id": 1, "label": "Is the man known by you?"},
+                {"id": 2, "label": "Is the man known to you?"},
+                {"id": 3, "label": "Does the man is known by you?"},
+                {"id": 4, "label": "Does the man is known to you?"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 17,
+            "question": "___ Bangladeshi are a brave nation.",
+            "option": [
+                {"id": 1, "label": "a"},
+                {"id": 2, "label": "an"},
+                {"id": 3, "label": "the"},
+                {"id": 4, "label": "no article"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 18,
+            "question": "I read ...... Quran",
+            "option": [
+                {"id": 1, "label": "an"},
+                {"id": 2, "label": "the"},
+                {"id": 3, "label": "a"},
+                {"id": 4, "label": "no article"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 19,
+            "question": "Man has no escape ___ death .",
+            "option": [
+                {"id": 1, "label": "of"},
+                {"id": 2, "label": "from"},
+                {"id": 3, "label": "about"},
+                {"id": 4, "label": "to"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 20,
+            "question": "He is ______ MBBS ( Choose the article)",
+            "option": [
+                {"id": 1, "label": "a"},
+                {"id": 2, "label": "an"},
+                {"id": 3, "label": "the"},
+                {"id": 4, "label": "no article"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 21,
+            "question": "He went to the market with a view to _______ a pen.",
+            "option": [
+                {"id": 1, "label": "buy"},
+                {"id": 2, "label": "buying"},
+                {"id": 3, "label": "being bought"},
+                {"id": 4, "label": "bought"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 22,
+            "question": "Had I a car, I ____ fast.",
+            "option": [
+                {"id": 1, "label": "Would come"},
+                {"id": 2, "label": "come"},
+                {"id": 3, "label": "had come"},
+                {"id": 4, "label": "have come"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 23,
+            "question": "Pick the simple sentence from the given options.",
+            "option": [
+                {"id": 1, "label": "The man who wore red shirt was arrested for murdering his wife."},
+                {"id": 2, "label": "I think he might have left home without his bag."},
+                {"id": 3, "label": "He is confident that his brother will win."},
+                {"id": 4, "label": "I don’t know who the man is."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 24,
+            "question": "English is----language of------people of England.",
+            "option": [
+                {"id": 1, "label": "the, the"},
+                {"id": 2, "label": "the, an"},
+                {"id": 3, "label": "a, the"},
+                {"id": 4, "label": "no article"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 25,
+            "question": "If I were you, I (handle) the situation more carefully.",
+            "option": [
+                {"id": 1, "label": "would handle"},
+                {"id": 2, "label": "would have handle"},
+                {"id": 3, "label": "will handle"},
+                {"id": 4, "label": "handle"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 26,
+            "question": " Identify the complex sentence among the given sentences.",
+            "option": [
+                {"id": 1, "label": "Your daughter has done well in academics this year."},
+                {"id": 2, "label": "The old man in the shop did not buy anything."},
+                {"id": 3, "label": "The girl picked the paper and threw it in the bin."},
+                {"id": 4, "label": "She did not come to the party today because she felt sick."}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 27,
+            "question": "The actress, along with her friends, __________",
+            "option": [
+                {"id": 1, "label": "are going to a party tonight"},
+                {"id": 2, "label": "is going to a party tonight"},
+                {"id": 3, "label": "had been gone to a party tonight"},
+                {"id": 4, "label": "would be going to a party tonight"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 28,
+            "question": "Identify the verb in sentence,'May God be with you.'",
+            "option": [
+                {"id": 1, "label": "be"},
+                {"id": 2, "label": "May"},
+                {"id": 3, "label": "with"},
+                {"id": 4, "label": "you"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 29,
+            "question": "The simple sentence among the given sentences is:",
+            "option": [
+                {"id": 1, "label": "The baby saw the balloons flying in the air with joy."},
+                {"id": 2, "label": "A man with a lot of money is always respected."},
+                {"id": 3, "label": "Hema has lost the purse that she had bought today."},
+                {"id": 4, "label": "Go out or you will be arrested."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 30,
+            "question": "If I could afford it,I--------a horse",
+            "option": [
+                {"id": 1, "label": "will keep"},
+                {"id": 2, "label": "would have kept"},
+                {"id": 3, "label": "would have been kept"},
+                {"id": 4, "label": "would keep"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 31,
+            "question": "I paid _____ one taka note for _____ old paper.",
+            "option": [
+                {"id": 1, "label": "no article,the"},
+                {"id": 2, "label": "a,the"},
+                {"id": 3, "label": "a,no article"},
+                {"id": 4, "label": "the,the"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 32,
+            "question": "He was absorbed --- deep thouht.",
+            "option": [
+                {"id": 1, "label": "in"},
+                {"id": 2, "label": "out"},
+                {"id": 3, "label": "through"},
+                {"id": 4, "label": "for"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 33,
+            "question": "He--------looking at her, wondering where he had seen.",
+            "option": [
+                {"id": 1, "label": "keeps"},
+                {"id": 2, "label": "kept"},
+                {"id": 3, "label": "is keeping"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 34,
+            "question": "He died _______ an accident.",
+            "option": [
+                {"id": 1, "label": "for"},
+                {"id": 2, "label": "of"},
+                {"id": 3, "label": "in"},
+                {"id": 4, "label": "by"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 35,
+            "question": "None of us did the work,______?",
+            "option": [
+                {"id": 1, "label": "did they"},
+                {"id": 2, "label": "didn't they"},
+                {"id": 3, "label": "does we"},
+                {"id": 4, "label": "did we"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 36,
+            "question": "He is _____ European.",
+            "option": [
+                {"id": 1, "label": "a"},
+                {"id": 2, "label": "an"},
+                {"id": 3, "label": "the"},
+                {"id": 4, "label": "no article"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 37,
+            "question": "A new medicine _____ to combat asthma in small children.",
+            "option": [
+                {"id": 1, "label": "invent"},
+                {"id": 2, "label": "has invented"},
+                {"id": 3, "label": "has been invented"},
+                {"id": 4, "label": "was invented"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 38,
+            "question": "The sonner,the better.'the' is ",
+            "option": [
+                {"id": 1, "label": "verb"},
+                {"id": 2, "label": "noun"},
+                {"id": 3, "label": "pronoun"},
+                {"id": 4, "label": "adverb"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 39,
+            "question": "Choose the correct use of article : This is --- better of --- two.",
+            "option": [
+                {"id": 1, "label": "a, an"},
+                {"id": 2, "label": "a, a"},
+                {"id": 3, "label": "the, the"},
+                {"id": 4, "label": "x, the"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 40,
+            "question": "He behaves as if he ___ all",
+            "option": [
+                {"id": 1, "label": "knows"},
+                {"id": 2, "label": "knew"},
+                {"id": 3, "label": "has known"},
+                {"id": 4, "label": "had known"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 41,
+            "question": "Robin said to Peg, “Are you listening? Don’t be thick.”",
+            "option": [
+                {"id": 1, "label": "Robin asked Peg if he was listening and advised him not to be thick."},
+                {"id": 2, "label": "Robin told Peg to listen to him and not to be thick."},
+                {"id": 3, "label": "Peg was asked to listen to Robin and not to be thick"},
+                {"id": 4, "label": "Robin invited Peg to listen and not to be thick."}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 42,
+            "question": "If your sister_______, she would come.",
+            "option": [
+                {"id": 1, "label": "invited"},
+                {"id": 2, "label": "inviting"},
+                {"id": 3, "label": "invites"},
+                {"id": 4, "label": "were invited"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 43,
+            "question": "Mother told me that I should listen to her first and do anything as I pleased.",
+            "option": [
+                {"id": 1, "label": "Mother said to me, “I should listen to me first and then do anything I please.”"},
+                {"id": 2, "label": "Mother said to me, “He should listen to her first and then do anything he pleases.”"},
+                {"id": 3, "label": "Mother said to me, “You should listen to me first and then do anything I pleased.”"},
+                {"id": 4, "label": "Mother said to me, “You should listen to me first and then do anything as you please.”"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 44,
+            "question": "Come in.'in' is:",
+            "option": [
+                {"id": 1, "label": "adverb"},
+                {"id": 2, "label": "preposition"},
+                {"id": 3, "label": "noun"},
+                {"id": 4, "label": "adjective"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 45,
+            "question": "The passive voice of 'post the letter' is-",
+            "option": [
+                {"id": 1, "label": "Let the letter be posted"},
+                {"id": 2, "label": "Let the letter posted"},
+                {"id": 3, "label": "Let the letter post"},
+                {"id": 4, "label": "Let the letter be post"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 46,
+            "question": "I would have driven to Miami if I __________ a car.",
+            "option": [
+                {"id": 1, "label": "will have"},
+                {"id": 2, "label": "have had"},
+                {"id": 3, "label": "had"},
+                {"id": 4, "label": "had had"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 47,
+            "question": "If we had a boat , we --- the river.",
+            "option": [
+                {"id": 1, "label": "would cross"},
+                {"id": 2, "label": "will cross"},
+                {"id": 3, "label": "will be crossing"},
+                {"id": 4, "label": "would make crossed"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 48,
+            "question": "If I---- a millionaire, I--- help every worthy cause.",
+            "option": [
+                {"id": 1, "label": "be, should"},
+                {"id": 2, "label": "were , would"},
+                {"id": 3, "label": "was , could"},
+                {"id": 4, "label": "on, may"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 49,
+            "question": "Achilles' heel' means —",
+            "option": [
+                {"id": 1, "label": "Strong point"},
+                {"id": 2, "label": "Weak point"},
+                {"id": 3, "label": "Accidental point"},
+                {"id": 4, "label": "Injured point"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 50,
+            "question": "What is the meaning of the idiom 'out and about' ?",
+            "option": [
+                {"id": 1, "label": "inactive"},
+                {"id": 2, "label": "active"},
+                {"id": 3, "label": "irregular"},
+                {"id": 4, "label": "free from anxiety"}
             ],
             "answer": {"optionId": 4}
         }

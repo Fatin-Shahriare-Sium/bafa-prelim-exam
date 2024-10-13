@@ -7,6 +7,8 @@ import EngQuestionListData from '../../data/eng/eng.json';
 import EngSet1 from '../../data/eng/ques1.json';
 import EngSet2 from '../../data/eng/ques2.json';
 import EngSet3 from '../../data/eng/ques3.json';
+import EngSet4 from '../../data/eng/ques4.json';
+import EngSet5 from '../../data/eng/ques5.json';
 import McqExaminerModal, {examPaperType, examType} from '../../components/mcqExaminer';
 import CustomCautionBox from '../../components/customCautionBox';
 const EngSectionExamLists = () => {
@@ -20,6 +22,10 @@ const EngSectionExamLists = () => {
             setPaperForExam(EngSet2);
         } else if (id === 'Eng Set 3') {
             setPaperForExam(EngSet3);
+        } else if (id === 'Eng Set 4') {
+            setPaperForExam(EngSet4);
+        } else if (id === 'Eng Set 5') {
+            setPaperForExam(EngSet5);
         }
         setShowModal(!showModal);
     };
