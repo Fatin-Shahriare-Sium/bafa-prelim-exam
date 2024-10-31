@@ -4,36 +4,553 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "how are you?",
+            "question": "The length of a vector A=3i+4j+9k in the y-z plane will be?",
             "option": [
-                {"id": 1, "label": "good"},
-                {"id": 2, "label": "bad"},
-                {"id": 3, "label": "sad"},
-                {"id": 4, "label": "great"}
+                {"id": 1, "label": "√20"},
+                {"id": 2, "label": "√97"},
+                {"id": 3, "label": "√25"},
+                {"id": 4, "label": "5"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 2,
-            "question": "how old are you?",
+            "question": "20 watt power means-",
             "option": [
-                {"id": 1, "label": "20"},
-                {"id": 2, "label": "40"},
-                {"id": 3, "label": "10"},
-                {"id": 4, "label": "80"}
+                {"id": 1, "label": "Work of 1 joule in 20 second."},
+                {"id": 2, "label": "Work of 20 joule in 1 second."},
+                {"id": 3, "label": "Work of 20 joule in 1 minute."},
+                {"id": 4, "label": "Work of 20 joule in 1 hour"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 3,
+            "question": "What is the relation between kinetic energy and momentum?",
+            "option": [
+                {"id": 1, "label": "E(k)=p/(2m)"},
+                {"id": 2, "label": "E(k) = (2p^2)/m"},
+                {"id": 3, "label": "E(k) = (2m)/p"},
+                {"id": 4, "label": "E(k) = (p^2)/(2m)"}
             ],
             "answer": {"optionId": 1}
         },
         {
-            "no": 3,
-            "question": "What is your college name??",
+            "no": 4,
+            "question": "If velocity of a body increases 2 times, what will be kinetic energy?",
             "option": [
-                {"id": 1, "label": "Adamji"},
-                {"id": 2, "label": "DRMC"},
-                {"id": 3, "label": "NDC"},
-                {"id": 4, "label": "Dhaka University"}
+                {"id": 1, "label": "2 times"},
+                {"id": 2, "label": "4 times"},
+                {"id": 3, "label": "3 times"},
+                {"id": 4, "label": "9 times"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 5,
+            "question": "A force of 100 N acts on a body of 10 kg. It's acceleration will be-",
+            "option": [
+                {"id": 1, "label": "100 ms^-2"},
+                {"id": 2, "label": "10 ms^-2"},
+                {"id": 3, "label": "1000 ms^-2"},
+                {"id": 4, "label": ".1 ms^-2"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 6,
+            "question": "What is the momentum of a 10kg object moving with 12ms¹ velocity?",
+            "option": [
+                {"id": 1, "label": "12 kgms"},
+                {"id": 2, "label": "10 kgms¹"},
+                {"id": 3, "label": "1.2 kgms¹ "},
+                {"id": 4, "label": "120 kgms¹"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 7,
+            "question": "If the mass of a body is 75 kg on the surface of the earth then what will its mass on the moon?",
+            "option": [
+                {"id": 1, "label": "35"},
+                {"id": 2, "label": "45.3"},
+                {"id": 3, "label": "75"},
+                {"id": 4, "label": "30"}
             ],
             "answer": {"optionId": 3}
+        },
+        {
+            "no": 8,
+            "question": "What will be the maximum velocity of a particle executing simple harmonic motion?",
+            "option": [
+                {"id": 1, "label": "Vmax = ωΑ"},
+                {"id": 2, "label": "Vmax = ω^2.Α"},
+                {"id": 3, "label": "Vmax = ωΑ^2"},
+                {"id": 4, "label": "Vmax = ωΑ^3"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 9,
+            "question": "Which is not example of conservative force?",
+            "option": [
+                {"id": 1, "label": "Force of ideal spring"},
+                {"id": 2, "label": "Electric force"},
+                {"id": 3, "label": "Gravitational force"},
+                {"id": 4, "label": "Frictional force"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 10,
+            "question": "1 Horse power = ___ watt",
+            "option": [
+                {"id": 1, "label": "766"},
+                {"id": 2, "label": "764"},
+                {"id": 3, "label": "777"},
+                {"id": 4, "label": "746"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 11,
+            "question": "Which one is the relation between angular momentum and angular velocity?",
+            "option": [
+                {"id": 1, "label": "L=I.ω"},
+                {"id": 2, "label": "L=I^2.ω"},
+                {"id": 3, "label": "L=A.ω"},
+                {"id": 4, "label": "L=I^3.ω"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 12,
+            "question": "What is the angle between linear velocity and angular velocity?",
+            "option": [
+                {"id": 1, "label": "90 deg"},
+                {"id": 2, "label": "70 deg"},
+                {"id": 3, "label": "180 deg"},
+                {"id": 4, "label": "45 deg"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 13,
+            "question": "How much force is to be applied on a body of weight of 980 N to give acceleration of 1ms¹?",
+            "option": [
+                {"id": 1, "label": "100N"},
+                {"id": 2, "label": "130N"},
+                {"id": 3, "label": "10N"},
+                {"id": 4, "label": "250N"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 14,
+            "question": "If AxB=A.B, then what is the angle between them?",
+            "option": [
+                {"id": 1, "label": "45 deg"},
+                {"id": 2, "label": "90 deg"},
+                {"id": 3, "label": "150 dg"},
+                {"id": 4, "label": "180 deg"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 15,
+            "question": "1 kilowatt hour = ?",
+            "option": [
+                {"id": 1, "label": "3.6 x 10^6 J"},
+                {"id": 2, "label": "36 x 10^6 J"},
+                {"id": 3, "label": "3.6 x 10^2 J"},
+                {"id": 4, "label": "3.6 x 10^7 J"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 16,
+            "question": "j x (j x k)",
+            "option": [
+                {"id": 1, "label": "-k"},
+                {"id": 2, "label": "0"},
+                {"id": 3, "label": "k"},
+                {"id": 4, "label": "i"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 17,
+            "question": "Example of scalar product is",
+            "option": [
+                {"id": 1, "label": "force"},
+                {"id": 2, "label": "work"},
+                {"id": 3, "label": "distance"},
+                {"id": 4, "label": "acceleration"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 18,
+            "question": "A = 3î + 2j+k; B = 6î - mj + 4k for what value of m two vectors are perpendicular on each other?",
+            "option": [
+                {"id": 1, "label": "9"},
+                {"id": 2, "label": "11"},
+                {"id": 3, "label": "12"},
+                {"id": 4, "label": "13"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 19,
+            "question": "Which of the following is responsible for generation of weak nuclear force?",
+            "option": [
+                {"id": 1, "label": "Proton decay"},
+                {"id": 2, "label": "Gamma decay"},
+                {"id": 3, "label": "Beta decay"},
+                {"id": 4, "label": "Neutrino decay"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 20,
+            "question": "Which one of the following is not fundamental force in the earth?",
+            "option": [
+                {"id": 1, "label": "Gravitational force"},
+                {"id": 2, "label": "Electromagnetic force"},
+                {"id": 3, "label": "Weak nuclear force"},
+                {"id": 4, "label": "Impulsive force"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 21,
+            "question": "How will a person feel when descending in a lift with 'g' acceleration?",
+            "option": [
+                {"id": 1, "label": "Heavy"},
+                {"id": 2, "label": "Light"},
+                {"id": 3, "label": "Weightless"},
+                {"id": 4, "label": "same as before"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 22,
+            "question": "Which conservation principle is the basis of work of rocket or Jet engine? [",
+            "option": [
+                {"id": 1, "label": "Mass"},
+                {"id": 2, "label": "Angular momentum"},
+                {"id": 3, "label": "Linear momentum"},
+                {"id": 4, "label": "Power"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 23,
+            "question": "A=i-3j+5k & B=mi+6j - 10k. For what value of m the two vector will be parallel to each other?",
+            "option": [
+                {"id": 1, "label": "-2"},
+                {"id": 2, "label": "2"},
+                {"id": 3, "label": "4"},
+                {"id": 4, "label": "-5"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 24,
+            "question": "What will be the kinetic energy of an object of 50kg mass & 50kgms¹ momentum",
+            "option": [
+                {"id": 1, "label": "100J"},
+                {"id": 2, "label": "25J"},
+                {"id": 3, "label": "500J"},
+                {"id": 4, "label": "250J"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 25,
+            "question": "If linear velocity is increased in 50, then its kinetic energy will be increase by ____?",
+            "option": [
+                {"id": 1, "label": "125%"},
+                {"id": 2, "label": "100%"},
+                {"id": 3, "label": "67%"},
+                {"id": 4, "label": "120%"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 26,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 27,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 28,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 29,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 30,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 31,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 32,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 33,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 34,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 35,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 36,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 37,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 38,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 39,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 40,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 41,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 42,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 43,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 44,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 45,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 46,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 47,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 48,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 49,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 50,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
         }
     ]
 }

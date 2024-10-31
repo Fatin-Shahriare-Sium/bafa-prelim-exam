@@ -4,36 +4,553 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "how are you?",
+            "question": "The length of a vector A=3i+4j+9k in the y-z plane will be?",
             "option": [
-                {"id": 1, "label": "good"},
-                {"id": 2, "label": "bad"},
-                {"id": 3, "label": "sad"},
-                {"id": 4, "label": "great"}
+                {"id": 1, "label": "√20"},
+                {"id": 2, "label": "√97"},
+                {"id": 3, "label": "√25"},
+                {"id": 4, "label": "5"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 2,
-            "question": "how old are you?",
+            "question": "Which vector is perpendicular over vec P =4i +3j ?",
             "option": [
-                {"id": 1, "label": "20"},
-                {"id": 2, "label": "40"},
-                {"id": 3, "label": "10"},
-                {"id": 4, "label": "80"}
+                {"id": 1, "label": "3i"},
+                {"id": 2, "label": "4j"},
+                {"id": 3, "label": "5k"},
+                {"id": 4, "label": "3i+4j"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 3,
+            "question": "Which one is scalar quanity?",
+            "option": [
+                {"id": 1, "label": "Gradient"},
+                {"id": 2, "label": "Curl"},
+                {"id": 3, "label": "Divergence"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 4,
+            "question": "If the initial and end point of a vector is same then the vector will be??",
+            "option": [
+                {"id": 1, "label": "free vector"},
+                {"id": 2, "label": "null vector"},
+                {"id": 3, "label": "negative error"},
+                {"id": 4, "label": "none"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 5,
+            "question": "What is the intermediary angle between action- reaction?",
+            "option": [
+                {"id": 1, "label": "0°"},
+                {"id": 2, "label": "90°"},
+                {"id": 3, "label": "45°"},
+                {"id": 4, "label": "180°"}
             ],
             "answer": {"optionId": 1}
         },
         {
-            "no": 3,
-            "question": "What is your college name??",
+            "no": 6,
+            "question": "If vec(A)=i and vec(B)= j + k then what is the angle between A and B?",
             "option": [
-                {"id": 1, "label": "Adamji"},
-                {"id": 2, "label": "DRMC"},
-                {"id": 3, "label": "NDC"},
-                {"id": 4, "label": "Dhaka University"}
+                {"id": 1, "label": "0°"},
+                {"id": 2, "label": "45°"},
+                {"id": 3, "label": "90°"},
+                {"id": 4, "label": "180°"}
             ],
             "answer": {"optionId": 3}
+        },
+        {
+            "no": 7,
+            "question": "Which of the following is the example of scalar quantity?",
+            "option": [
+                {"id": 1, "label": "Electric potential"},
+                {"id": 2, "label": "Velocity"},
+                {"id": 3, "label": "Momentum"},
+                {"id": 4, "label": "Force"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 8,
+            "question": "If vec(P) =2 hat i + hat j -3 hat k and vec(Q)=4 hat j - hat k then what is their scalar product??",
+            "option": [
+                {"id": 1, "label": "3"},
+                {"id": 2, "label": "7"},
+                {"id": 3, "label": "9"},
+                {"id": 4, "label": "11"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 9,
+            "question": "Mass of a wheel is 6 kg and with respect to an axis radius of gyration is 30 cm. To generate 3 rad-s-2 acceleration what should be the value of applied torque? ",
+            "option": [
+                {"id": 1, "label": "162 n-m"},
+                {"id": 2, "label": "1.62 n-m"},
+                {"id": 3, "label": "1.2 n-m"},
+                {"id": 4, "label": "1.8 n-m"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 10,
+            "question": "vec x =i-3j +5k and vec B =mi +6j -10k For what value of 'm' two vectors will be parallel to each other?",
+            "option": [
+                {"id": 1, "label": "2"},
+                {"id": 2, "label": "-2"},
+                {"id": 3, "label": "1"},
+                {"id": 4, "label": "6"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 11,
+            "question": "Which one is the dimension of torque?",
+            "option": [
+                {"id": 1, "label": "M²LT^-2"},
+                {"id": 2, "label": "ML^2T^-2"},
+                {"id": 3, "label": "MLT^-2"},
+                {"id": 4, "label": "ML^2T^2"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 12,
+            "question": "Which one is not fundamental force?",
+            "option": [
+                {"id": 1, "label": "Gravitational force"},
+                {"id": 2, "label": "Weak nuclear force"},
+                {"id": 3, "label": "Electromagnetic force"},
+                {"id": 4, "label": "Impulsive force"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 13,
+            "question": "A wheel of mass 10kg and radius of gyration 0.5m then calculate the moment of inertia.",
+            "option": [
+                {"id": 1, "label": "50kgm²"},
+                {"id": 2, "label": "50kgm"},
+                {"id": 3, "label": "2.5kgm"},
+                {"id": 4, "label": "2.5kgm²"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 14,
+            "question": "What is the acceleration of an object of mass 10kg at rest when a force of 100N is applied on It?",
+            "option": [
+                {"id": 1, "label": "100ms^-2"},
+                {"id": 2, "label": "10ms^-2"},
+                {"id": 3, "label": "1000ms^-2"},
+                {"id": 4, "label": ".1ms^-2"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 15,
+            "question": "Which one of the following forces is the weakest?",
+            "option": [
+                {"id": 1, "label": "strong nuclear force,"},
+                {"id": 2, "label": "electromagnetic force"},
+                {"id": 3, "label": "weak nuclear force,"},
+                {"id": 4, "label": "gravitional force"}
+            ],
+            "answer": {"optionId": 4}
+        },
+        {
+            "no": 16,
+            "question": "When will the work be zero?",
+            "option": [
+                {"id": 1, "label": "If 0=45°"},
+                {"id": 2, "label": "If 0=60°"},
+                {"id": 3, "label": "If 0=90°"},
+                {"id": 4, "label": "If 0=180°"}
+            ],
+            "answer": {"optionId": 3}
+        },
+        {
+            "no": 17,
+            "question": "A=i-3j+5k & B=mi+6j - 10k. For what value of m the two vector will be parallel to each other?",
+            "option": [
+                {"id": 1, "label": "-2"},
+                {"id": 2, "label": "2"},
+                {"id": 3, "label": "4"},
+                {"id": 4, "label": "-5"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 18,
+            "question": "If 0° ≤ 0≤ 90° then what is the work done by the force?",
+            "option": [
+                {"id": 1, "label": "Positive"},
+                {"id": 2, "label": "Negative"},
+                {"id": 3, "label": "Zero"},
+                {"id": 4, "label": "Infinity"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 19,
+            "question": "Which is not example of conservative force?",
+            "option": [
+                {"id": 1, "label": "Force of ideal spring"},
+                {"id": 2, "label": "Friction force"},
+                {"id": 3, "label": "Gravitational force"},
+                {"id": 4, "label": "Electric force"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 20,
+            "question": "1 Horse Power equals to -",
+            "option": [
+                {"id": 1, "label": "674 js^-1"},
+                {"id": 2, "label": "746 js^-1"},
+                {"id": 3, "label": "764 Js^1"},
+                {"id": 4, "label": "460 js^-1"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 21,
+            "question": "The strongest force is---",
+            "option": [
+                {"id": 1, "label": "strong nuclear force,"},
+                {"id": 2, "label": "electromagnetic force"},
+                {"id": 3, "label": "weak nuclear force,"},
+                {"id": 4, "label": "gravitional force"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 22,
+            "question": "The moment of inertia of wheel is 10 kg m³. To produce 10 rad s angular acceleration how much torque is to be applied?",
+            "option": [
+                {"id": 1, "label": "10Nm"},
+                {"id": 2, "label": "100Nm"},
+                {"id": 3, "label": "150Nm"},
+                {"id": 4, "label": "200Nm"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 23,
+            "question": "For what value of 'm' the vectors vec A =2i +2j -2k and vec B =mi +3j +4k will be perpendicular to each other?",
+            "option": [
+                {"id": 1, "label": "1"},
+                {"id": 2, "label": "2"},
+                {"id": 3, "label": "-1"},
+                {"id": 4, "label": "-2"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 24,
+            "question": "What is not the example of scalar product?",
+            "option": [
+                {"id": 1, "label": "Force"},
+                {"id": 2, "label": "work"},
+                {"id": 3, "label": "Potential"},
+                {"id": 4, "label": "Acceleration"}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 25,
+            "question": "The resultant of two vectors becomes minimum when angle between them will be--",
+            "option": [
+                {"id": 1, "label": "120°"},
+                {"id": 2, "label": "180°"},
+                {"id": 3, "label": "90°"},
+                {"id": 4, "label": "0°"}
+            ],
+            "answer": {"optionId": 2}
+        },
+        {
+            "no": 26,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 27,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 28,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 29,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 30,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 31,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 32,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 33,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 34,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 35,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 36,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 37,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 38,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 39,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 40,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 41,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 42,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 43,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 44,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 45,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 46,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 47,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 48,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 49,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
+        },
+        {
+            "no": 50,
+            "question": "",
+            "option": [
+                {"id": 1, "label": ""},
+                {"id": 2, "label": ""},
+                {"id": 3, "label": ""},
+                {"id": 4, "label": ""}
+            ],
+            "answer": {"optionId": 1}
         }
     ]
 }
