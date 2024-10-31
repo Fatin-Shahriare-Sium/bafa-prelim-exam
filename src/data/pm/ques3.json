@@ -4,278 +4,278 @@
     "allQuestions": [
         {
             "no": 1,
-            "question": "The length of a vector A=3i+4j+9k in the y-z plane will be?",
+            "question": "What will be the kinetic energy of an object of 50kg mass & 50kgms¹ momentum",
             "option": [
-                {"id": 1, "label": "√20"},
-                {"id": 2, "label": "√97"},
-                {"id": 3, "label": "√25"},
-                {"id": 4, "label": "5"}
+                {"id": 1, "label": "100J"},
+                {"id": 2, "label": "25J"},
+                {"id": 3, "label": "500J"},
+                {"id": 4, "label": "250J"}
             ],
             "answer": {"optionId": 2}
         },
         {
             "no": 2,
-            "question": "",
+            "question": "If linear velocity is increased in 50, then its kinetic energy will be increase by ____?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "125%"},
+                {"id": 2, "label": "100%"},
+                {"id": 3, "label": "67%"},
+                {"id": 4, "label": "120%"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 3,
-            "question": "",
+            "question": "Which one is scalar quanity?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "Gradient"},
+                {"id": 2, "label": "Curl"},
+                {"id": 3, "label": "Divergence"},
+                {"id": 4, "label": "none"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 4,
-            "question": "",
+            "question": "If the initial and end point of a vector is same then the vector will be??",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "free vector"},
+                {"id": 2, "label": "null vector"},
+                {"id": 3, "label": "negative error"},
+                {"id": 4, "label": "none"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 5,
-            "question": "",
+            "question": "What is the intermediary angle between action- reaction?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "0°"},
+                {"id": 2, "label": "90°"},
+                {"id": 3, "label": "45°"},
+                {"id": 4, "label": "180°"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 6,
-            "question": "",
+            "question": "If vec(A)=i and vec(B)= j + k then what is the angle between A and B?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "0°"},
+                {"id": 2, "label": "45°"},
+                {"id": 3, "label": "90°"},
+                {"id": 4, "label": "180°"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 7,
-            "question": "",
+            "question": "Which of the following is the example of scalar quantity?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "Electric potential"},
+                {"id": 2, "label": "Velocity"},
+                {"id": 3, "label": "Momentum"},
+                {"id": 4, "label": "Force"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 8,
-            "question": "",
+            "question": "If vec(P) =2 hat i + hat j -3 hat k and vec(Q)=4 hat j - hat k then what is their scalar product??",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "3"},
+                {"id": 2, "label": "7"},
+                {"id": 3, "label": "9"},
+                {"id": 4, "label": "11"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 9,
-            "question": "",
+            "question": "Mass of a wheel is 6 kg and with respect to an axis radius of gyration is 30 cm. To generate 3 rad-s-2 acceleration what should be the value of applied torque? ",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "162 n-m"},
+                {"id": 2, "label": "1.62 n-m"},
+                {"id": 3, "label": "1.2 n-m"},
+                {"id": 4, "label": "1.8 n-m"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 10,
-            "question": "",
+            "question": "vec x =i-3j +5k and vec B =mi +6j -10k For what value of 'm' two vectors will be parallel to each other?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "2"},
+                {"id": 2, "label": "-2"},
+                {"id": 3, "label": "1"},
+                {"id": 4, "label": "6"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 11,
-            "question": "",
+            "question": "Which one is the dimension of torque?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "M²LT^-2"},
+                {"id": 2, "label": "ML^2T^-2"},
+                {"id": 3, "label": "MLT^-2"},
+                {"id": 4, "label": "ML^2T^2"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 12,
-            "question": "",
+            "question": "Which one is not fundamental force?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "Gravitational force"},
+                {"id": 2, "label": "Weak nuclear force"},
+                {"id": 3, "label": "Electromagnetic force"},
+                {"id": 4, "label": "Impulsive force"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 13,
-            "question": "",
+            "question": "A wheel of mass 10kg and radius of gyration 0.5m then calculate the moment of inertia.",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "50kgm²"},
+                {"id": 2, "label": "50kgm"},
+                {"id": 3, "label": "2.5kgm"},
+                {"id": 4, "label": "2.5kgm²"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 14,
-            "question": "",
+            "question": "What is the acceleration of an object of mass 10kg at rest when a force of 100N is applied on It?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "100ms^-2"},
+                {"id": 2, "label": "10ms^-2"},
+                {"id": 3, "label": "1000ms^-2"},
+                {"id": 4, "label": ".1ms^-2"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 15,
-            "question": "",
+            "question": "Which one of the following forces is the weakest?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "strong nuclear force,"},
+                {"id": 2, "label": "electromagnetic force"},
+                {"id": 3, "label": "weak nuclear force,"},
+                {"id": 4, "label": "gravitional force"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 16,
-            "question": "",
+            "question": "When will the work be zero?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "If 0=45°"},
+                {"id": 2, "label": "If 0=60°"},
+                {"id": 3, "label": "If 0=90°"},
+                {"id": 4, "label": "If 0=180°"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 17,
-            "question": "",
+            "question": "A=i-3j+5k & B=mi+6j - 10k. For what value of m the two vector will be parallel to each other?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "-2"},
+                {"id": 2, "label": "2"},
+                {"id": 3, "label": "4"},
+                {"id": 4, "label": "-5"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 18,
-            "question": "",
+            "question": "If 0° ≤ 0≤ 90° then what is the work done by the force?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "Positive"},
+                {"id": 2, "label": "Negative"},
+                {"id": 3, "label": "Zero"},
+                {"id": 4, "label": "Infinity"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 19,
-            "question": "",
+            "question": "Which is not example of conservative force?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "Force of ideal spring"},
+                {"id": 2, "label": "Friction force"},
+                {"id": 3, "label": "Gravitational force"},
+                {"id": 4, "label": "Electric force"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 20,
-            "question": "",
+            "question": "1 Horse Power equals to -",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "674 js^-1"},
+                {"id": 2, "label": "746 js^-1"},
+                {"id": 3, "label": "764 Js^1"},
+                {"id": 4, "label": "460 js^-1"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 21,
-            "question": "",
+            "question": "A thin and uniform bar mass of 'm' and length 'l' rotating around the axis passing through one end of the bar. What is the moment of inertia?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "I=(ml²)/12"},
+                {"id": 2, "label": "I=(ml²)/3"},
+                {"id": 3, "label": "I=(ml)/12"},
+                {"id": 4, "label": "I=ml²"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 22,
-            "question": "",
+            "question": "If the divergence of a quantity becomes zero, then that vector is called-",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "Solenoidal"},
+                {"id": 2, "label": "Volume"},
+                {"id": 3, "label": "Density"},
+                {"id": 4, "label": "rotational"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 23,
-            "question": "",
+            "question": "If vectors vec P = 4i + mj and dot Q = 8i -4j + 9k are perpendicular to each other then what is the value of m?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "8"},
+                {"id": 2, "label": "6"},
+                {"id": 3, "label": "4"},
+                {"id": 4, "label": "-4"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 24,
-            "question": "",
+            "question": "Angular velocity can be represented as the rate of change of:",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "Linear velocity"},
+                {"id": 2, "label": "Angular displacement"},
+                {"id": 3, "label": "Centripetal force"},
+                {"id": 4, "label": "Kinetic energy"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 25,
-            "question": "",
+            "question": "A disk rotates with an angular velocity of 10 rad/s and a radius of 0.5 m. What is the linear velocity at the edge of the disk?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "2.5 m/s"},
+                {"id": 2, "label": "10 m/s"},
+                {"id": 3, "label": "5 m/s"},
+                {"id": 4, "label": "100 m/s"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 26,
