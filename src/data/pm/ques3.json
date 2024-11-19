@@ -279,276 +279,276 @@
         },
         {
             "no": 26,
-            "question": "",
+            "question": "In triangle ABC a:b:c=3:7:5 then what is the value of B?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "30°"},
+                {"id": 2, "label": "60°"},
+                {"id": 3, "label": "90°"},
+                {"id": 4, "label": "120°"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 27,
-            "question": "",
+            "question": "Sam purchases a book at 490Tk and sells it at 465.50Tk. What is the percentage of his loss?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "6%"},
+                {"id": 2, "label": "10%"},
+                {"id": 3, "label": "5%"},
+                {"id": 4, "label": "4%"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 28,
-            "question": "",
+            "question": "A circle passes through points (3, 5) and (4, 6) and centered on x-axis. Which of the following is the equation of that circle?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "x² + y² - 4y + 11 = 0"},
+                {"id": 2, "label": "x² + y² - 6x - 16 = 0"},
+                {"id": 3, "label": "x² + y² + 5y = 0"},
+                {"id": 4, "label": "x² + y² + 6x - 16 = 0"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 29,
-            "question": "",
+            "question": "∫eˣdx=?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "xeˣ"},
+                {"id": 2, "label": "0"},
+                {"id": 3, "label": "eˣ"},
+                {"id": 4, "label": "-eˣ"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 30,
-            "question": "",
+            "question": "cos²0° + cos²10° + cos²20° +...........+cos²90° = what?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "-5"},
+                {"id": 2, "label": "2"},
+                {"id": 3, "label": "3"},
+                {"id": 4, "label": "5"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 31,
-            "question": "",
+            "question": "The circle x²+ y²- 4x - 6y + c = 0 touches x-axis.What is the value of c?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "2"},
+                {"id": 2, "label": "3"},
+                {"id": 3, "label": "4"},
+                {"id": 4, "label": "6"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 32,
-            "question": "",
+            "question": "d/dx(lnx)=?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "1/x"},
+                {"id": 2, "label": "x"},
+                {"id": 3, "label": "eˣ"},
+                {"id": 4, "label": "x/1"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 33,
-            "question": "",
+            "question": "In triangle ABC a:b:c =3:7:5 then what is the value of B?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "30°"},
+                {"id": 2, "label": "60°"},
+                {"id": 3, "label": "120°"},
+                {"id": 4, "label": "45°"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 34,
-            "question": "",
+            "question": "d/dx(sinx+cosx)=?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "-sinx-cosx"},
+                {"id": 2, "label": "cosx-sinx"},
+                {"id": 3, "label": "1"},
+                {"id": 4, "label": "cosecx-sinx"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 35,
-            "question": "",
+            "question": "What is the slope of the perpendicular line of y =-5x+9?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "5"},
+                {"id": 2, "label": "-5"},
+                {"id": 3, "label": "1/5"},
+                {"id": 4, "label": "-1/5"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 36,
-            "question": "",
+            "question": "∫1dx =?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "0"},
+                {"id": 2, "label": "x"},
+                {"id": 3, "label": "x + C"},
+                {"id": 4, "label": "undefined"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 37,
-            "question": "",
+            "question": "A product is sold at two consecutive discounts of 30% and subsequently 40%. If the product is sold for 1500, what is the marked price on product?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "3500"},
+                {"id": 2, "label": "3600"},
+                {"id": 3, "label": "3550"},
+                {"id": 4, "label": "3571"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 38,
-            "question": "",
+            "question": "y=1/x then,yₙ=??",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "n!/xⁿ⁺¹"},
+                {"id": 2, "label": "(-1)ⁿn!/xⁿ⁺¹"},
+                {"id": 3, "label": "(-1)ⁿ⁺¹n!/(n+1)!"},
+                {"id": 4, "label": "(-1)ⁿ⁺¹n!/(n+1)"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 39,
-            "question": "",
+            "question": "What is the Cartesian equation of r=asinø?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "ax² + y² - y = 0"},
+                {"id": 2, "label": "x² + y² + ay = 0"},
+                {"id": 3, "label": "x² + y² - ay = 0"},
+                {"id": 4, "label": "x² + ay² - y = 0"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 40,
-            "question": "",
+            "question": "What value of sin 18° + cos 18°=?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "sin36°"},
+                {"id": 2, "label": "cos36°"},
+                {"id": 3, "label": "√2cos27°"},
+                {"id": 4, "label": "-√2cos27°"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 41,
-            "question": "",
+            "question": "d/dx(cosmx);",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "msinmx"},
+                {"id": 2, "label": "-msinmx"},
+                {"id": 3, "label": "m²sinx"},
+                {"id": 4, "label": "-m²sinx"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 42,
-            "question": "",
+            "question": "cos²ø-sin²ø=?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "1"},
+                {"id": 2, "label": "cos2∅"},
+                {"id": 3, "label": "sin2∅"},
+                {"id": 4, "label": "0"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 43,
-            "question": "",
+            "question": "d/dx(√x)=?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "1/(2√x)"},
+                {"id": 2, "label": "2√x"},
+                {"id": 3, "label": "-1/2√x"},
+                {"id": 4, "label": "x"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 44,
-            "question": "",
+            "question": "Convert the polar point (4, π/6) to Cartesian coordinates.",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "(2√3, 2)"},
+                {"id": 2, "label": "(-2√3, 2)"},
+                {"id": 3, "label": "(√3, 2)"},
+                {"id": 4, "label": "(√3, -2)"}
             ],
             "answer": {"optionId": 1}
         },
         {
             "no": 45,
-            "question": "",
+            "question": "If(a + b + c)(b + c - a) = 3bc then, what is the value of angle A?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "30°"},
+                {"id": 2, "label": "60°"},
+                {"id": 3, "label": "0°"},
+                {"id": 4, "label": "45°"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 46,
-            "question": "",
+            "question": "A person bought 3 Oranges for 2Tk and sold 2 Oranges for 3Tk.Calculate his Profit percentage?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "100%"},
+                {"id": 2, "label": "150%"},
+                {"id": 3, "label": "120%"},
+                {"id": 4, "label": "125%"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 4}
         },
         {
             "no": 47,
-            "question": "",
+            "question": "A circle with centre (2, 3) touches the x-axis.What is the equation of that circle?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "x² + y² - 4x - 6y + 9 = 0"},
+                {"id": 2, "label": "x² + y² - 4x - 6y + 4 = 0"},
+                {"id": 3, "label": "x² + y² - 6x - 4y + 4 = 0"},
+                {"id": 4, "label": "x² + y² + 4x + 6y + 4 = 0"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 48,
-            "question": "",
+            "question": "A shopkeeper sells an article at the price of 1140Tk and incurs a loss of 5% on it. For him to gain a profit of 5% on the same article, at what price should the article be sold?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "1200Tk"},
+                {"id": 2, "label": "1250Tk"},
+                {"id": 3, "label": "1260Tk"},
+                {"id": 4, "label": "1245Tk"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 3}
         },
         {
             "no": 49,
-            "question": "",
+            "question": "If A + B + C = π/2 and sinB.sinC=-sinA then, what is the value of cot A+ cotB+ cotC?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "-1"},
+                {"id": 2, "label": "0"},
+                {"id": 3, "label": "1"},
+                {"id": 4, "label": "2"}
             ],
-            "answer": {"optionId": 1}
+            "answer": {"optionId": 2}
         },
         {
             "no": 50,
-            "question": "",
+            "question": "Which is the following value of cos²ø-sin²ø=?",
             "option": [
-                {"id": 1, "label": ""},
-                {"id": 2, "label": ""},
-                {"id": 3, "label": ""},
-                {"id": 4, "label": ""}
+                {"id": 1, "label": "cos2∅"},
+                {"id": 2, "label": "-cos2∅"},
+                {"id": 3, "label": "sin2∅"},
+                {"id": 4, "label": "-sin2∅"}
             ],
             "answer": {"optionId": 1}
         }
