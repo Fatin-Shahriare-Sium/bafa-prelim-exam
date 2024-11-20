@@ -7,6 +7,8 @@ import PMQuestionListData from '../../data/pm/pm.json';
 import PMSet1 from '../../data/pm/ques1.json';
 import PMSet2 from '../../data/pm/ques2.json';
 import PMSet3 from '../../data/pm/ques3.json';
+import PMSet4 from '../../data/pm/ques4.json';
+import PMSet5 from '../../data/pm/ques5.json';
 import McqExaminerModal, {examPaperType, examType} from '../../components/mcqExaminer';
 import CustomCautionBox from '../../components/customCautionBox';
 const PMSectionExamLists = () => {
@@ -20,6 +22,10 @@ const PMSectionExamLists = () => {
             setPaperForExam(PMSet2);
         } else if (id === 'PM Set 3') {
             setPaperForExam(PMSet3);
+        } else if (id === 'PM Set 4') {
+            setPaperForExam(PMSet4);
+        } else if (id === 'PM Set 5') {
+            setPaperForExam(PMSet5);
         }
         setShowModal(!showModal);
     };
